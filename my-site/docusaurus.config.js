@@ -23,12 +23,12 @@ const config = {
   url: 'https://conecta-clanes.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/conecta-clanes/my-site/',
+  baseUrl: '/my-repo/my-site/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'conecta-clanes', // Usually your GitHub org/user name.
-  projectName: 'my-site', // Usually your repo name.
+  projectName: 'my-repo', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
