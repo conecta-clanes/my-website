@@ -28,7 +28,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'conecta-clanes', // Usually your GitHub org/user name.
-  projectName: 'my-repo', // Usually your repo name.
+  projectName: 'my-website', // Usually your repo name.
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
