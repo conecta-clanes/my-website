@@ -3,6 +3,16 @@ facebook:
   permalink: /facebook
   description: Facebook tag description
 
+research:
+  label: research
+  permalink: /research
+  description: YouTube research
+
+tutorial:
+  label: Tutorial
+  permalink: /tutorial
+  description: YouTube tutorial
+
 hello:
   label: Hello
   permalink: /hello

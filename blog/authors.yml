@@ -1,14 +1,16 @@
 yangshun:
   name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
   image_url: https://github.com/yangshun.png
   page: true
   socials:
     x: yangshunz
-    linkedin: yangshun
     github: yangshun
-    newsletter: https://www.greatfrontend.com
+
+federico:
+  name: Federico Tartarini
+  title: Front End Engineer @ Facebook
 
 slorber:
   name: Sébastien Lorber

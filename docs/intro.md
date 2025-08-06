@@ -2,9 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial Example
 
 Let's discover **Docusaurus in less than 5 minutes**.
+
+#### Your first Docusaurus site
+
+Docusaurus is a modern static website generator. It's designed to help you build, deploy, and maintain open source project websites easily.
 
 ## Getting Started
 

@@ -6,30 +6,23 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'This is my site title',
+  tagline: 'My tag line',
   favicon: 'img/favicon.ico',
-
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
-  future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
-  },
 
   // Set the production url of your site here
   url: 'https://conecta-clanes.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/my-website',
+  baseUrl: '/my-website/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'conecta-clanes', // Usually your GitHub org/user name.
   projectName: 'my-website', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -82,17 +75,17 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'My website',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/android-chrome-192x192.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -126,8 +119,8 @@ const config = {
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Twitter',
+                href: 'https://twitter.com/docusaurus',
               },
             ],
           },
@@ -152,6 +145,23 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  themes: [
+    // ... Your other themes.
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        // language: ["en", "zh"],
+        // ```
+      }),
+    ],
+  ],
 };
 
 export default config;
