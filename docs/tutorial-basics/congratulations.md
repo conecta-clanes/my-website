@@ -1,9 +1,5 @@
 ---
 sidebar_position: 6
-slug: /tutorial-basics/youtube
-tags:
-  - Releases
-  - docusaurus
 ---
 
 # Congratulations!
