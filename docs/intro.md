@@ -35,6 +35,8 @@ Ejecuta el comando
 
 ```bash
 cd my-website
+yarn clear 
+yarn install
 yarn run start
 ```
 
