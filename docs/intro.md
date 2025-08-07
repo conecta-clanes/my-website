@@ -41,7 +41,7 @@ yarn run start
 ```
 
 - Se abre automaticamente el sitio en un navegador web
-  - si no inicia automaticamente puedes acceder a [http://localhost:3000/my-website/](**http://localhost:3000/my-website/**)
+  - si no inicia automaticamente puedes acceder a **http://localhost:3000/my-website/**
 
 
 ## Para deployar
