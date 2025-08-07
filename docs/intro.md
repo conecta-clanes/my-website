@@ -2,46 +2,55 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Cómo colaborar
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Comencemos.
 
-## Getting Started
+## Para iniciar
 
-Get started by **creating a new site**.
+- Crea una cuenta de [github](https://github.com/)
+### Qué software necesitas
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Instala [Node.js](https://nodejs.org/en/download/) version 22 or superior:
+  - Una vez que instales **Node** verifica las dependencia
+- Instala un [cliente de git](https://desktop.github.com/download/)
+  - conecta tu cuenta de github
+- Clona el repositorio [my-website](https://github.com/conecta-clanes/my-website)
+  - Puedes seguir las instrucciones [Clonar un repositorio](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
+- Instala [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable )
 
-### What you'll need
+## Para iniciar
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
+- Accede a la carpeta de repositorio **my-website**
 
 ```bash
 cd my-website
-npm run start
+```
+- Crea un nuevo documento con extension markdown sobre la carpeta de **docs**
+
+
+## Para probar localmente
+
+Ejecuta el comando 
+
+```bash
+cd my-website
+yarn run start
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+- Se abre automaticamente el sitio en un navegador web
+  - si no inicia automaticamente puedes acceder a [http://localhost:3000/my-website/](**http://localhost:3000/my-website/**)
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Para deployar
+
+- Sube tus cambios al repositorio vía un cliente de git con la descripción de tu provincia en 3 letras seguidas de guión seguida de 3 digitos de tu grupo con una descripción de la aportación
+
+```bash
+AZC-000 Alguna descripción de la aportación
+```
+
+
+## Para agregar elementos al sitio
+
+- En el apartado de **Docs*>Para agregar elementos al sitio** puedes ver un ficha de Markdown, como crear una página, como crear un documento, como crear un elemento del Blog, puede ver más ligas relacionadas con **Docusaurus**

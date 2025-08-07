@@ -1,0 +1,8 @@
+{
+  "label": "Base de Conocimiento",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Base de conocimiento"
+  }
+}
