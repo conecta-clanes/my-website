@@ -12,7 +12,7 @@ El documento tiene el fin de orientar un poco más a los consejeros, para evitar
 - Los voluntarios dicen la oración en órden y/o por secciones.
 - El responsable da las indicaciones correspondiente, rompe formación. 
 
-## Postura sugeria al decir la oración
+## Postura sugerida al decir la oración
 
 - La postura para decir la oración es en Alerta(o firmes), en otras palabras, de pie, con los brazos a los lados, en postura erguida y respetuosa
 - La seña es exclusiva de la promesa
