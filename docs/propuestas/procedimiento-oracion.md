@@ -2,7 +2,7 @@
 
 Primeramente,  hacemos la observación de que ésta es una propuesta y no pertenece a la bibliografía oficial.
 
-El documento tiene el fin de orientar un poco más a los consejeros, para evitar ambiguedaes, dejamos aquí una propuesta de cómo es el procedimiento para decir las oraciones a nivel Provincia o eventos Nacionales
+El documento tiene el fin de orientar un poco más a los consejeros, para evitar ambiguedades, dejamos aquí una propuesta de cómo es el procedimiento para decir las oraciones a nivel Provincia o eventos Nacionales
 
 - El responsable del evento hace el llamado de Tropa en formación de rectángulo
 - El responsable del evento hace la seña de atención
