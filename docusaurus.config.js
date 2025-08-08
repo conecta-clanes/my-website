@@ -140,7 +140,7 @@ const config = {
               },*/
               {
                 label: 'GitHub',
-                href: 'https://github.com/anzac-alcira007',
+                href: 'https://github.com/conecta-clanes/my-website',
               },
             ],
           },
