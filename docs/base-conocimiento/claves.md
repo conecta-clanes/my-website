@@ -23,7 +23,41 @@ Para tener mator claridad al transmitir un mesanje usa el alfabeto fonético en 
 
 Es una código que hace uso de sonidos o rayos de luz, se copone de rayas y puntos.
 
-Primera nemotécnia
+|Letra|  Clave |Letra| Clave |Letra | Clave  |
+|-----|--------|-----|-------|------|--------|
+|A    | .-     |J    | .---  |R     | .-.    |
+|B    | -...   |K    | -.-   |S     | ...    |
+|C    | -.-.   |L    | .-..  |T     |  -     |
+|D    | -..    |M    | --    |U     | ..-    |
+|E    | .      |N    | -.    |V     | ...-   |
+|F    | ..-.   |Ñ    | --.-- |W     | .--    |
+|G    | --.    |O    | ---   |X     | -..-   |
+|H    | ....   |P    | .--.  |Y     | -.--   |
+|I    | ..     |Q    | --.-  |Z     | --..   |
+
+|Número|Clave   |Número|Clave  |
+|------|--------|------|-------|
+|1     | .----  |6     | -.... |
+|2     | ..---  |7     | --... |
+|3     | ...--  |8     | ---.. |
+|4     | ....-  |9     | ----. |
+|5     | .....  |0     | ----- |
+
+|Símbolo|Clave  |
+|------|--------|
+|:     | ---... |        
+|,     | --..-- |
+|;     | -.-.-. |
+|¿?    | ..--.. |
+|""    | .-..-. |
+
+|Indicación|Clave     |
+|----------|----------|
+|Error     | ........ |
+|Espera    | .-...    |
+|Fin       | .-...    |
+
+Primera mnemotecnia
 
 |Letra|Palabra   | Clave |Letra|Palabra    | Clave |Letra|Palabra     | Clave  |
 |-----|----------|-------|-----|-----------|-------|-----|------------|--------|
@@ -37,7 +71,11 @@ Primera nemotécnia
 |H    |Habitante | ....  |P    |Pilotonic  |  .--. |Y    |Yo te soplo | -.--  |
 |I    |Iris      | ..    |Q    |Qocorico   | --.-  |Z    |Zozobrada   | --..  |
 
-Segunda nemotécnia
+
+
+    
+
+Segunda mnemotecnia
 
 
 |Letra|Palabra        | Clave |Letra|Palabra         | Clave |
@@ -55,7 +93,7 @@ Segunda nemotécnia
 |K    |in-de-lan      | -.-   |W    |wa-gos-post     | .--   |
 |L    |li-bre-ri-a    | .-..  |X    |xim-pa-ta-xim   | -..-  |
 |M    |már-mol        | --    |Y    |yer-ba-plan-tan | -.--  |
-|CH   |chi-qui-cho-qui| ----  |Z    |Zozobrada       | --..  |
+|ch   |chi-qui-cho-qui| ----  |Z    |Zar-zal-ba-jo   | --..  |
 
  
   
