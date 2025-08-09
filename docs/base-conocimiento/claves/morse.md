@@ -1,25 +1,5 @@
-# Claves
 
-## Introducción
-
-Es necesario que el Scout conoza claves ya que debe estar preparado para casos extremos en los que se requiera comunicar o recibir un mensaje, solicitar ayuda o proporcionarla.
-
-## Alfabeto fonético
-
-Para tener mator claridad al transmitir un mesanje usa el alfabeto fonético en lugar del nombre de la letra. Lo puede emplear al deletrar tu nombre, al dar instrucciones en llamadas telefónicas, etc..
-
-|A|Alfa   |J|Juliet   |R|Romeo   |
-|-|-------|-|---------|-|--------|
-|B|Bravo  |K|Kilo     |S|Sierra  |
-|C|Charlie|L|Lima     |T|Tango   |
-|D|Delta  |M|Mike     |U|Uniforme|
-|E|Eco    |N|Noviembre|V|Víctor  |
-|F|Foxtrot|Ñ|ÑoÑo     |W|Whisky  |
-|G|Golf   |O|Oscar    |X|Xray    |
-|H|Hotel  |P|Papa     |Y|Yankee  |
-|I|India  |Q|Québec   |Z|Zulu    |
-
-## Morse
+# Morse
 
 Es una código que hace uso de sonidos o rayos de luz, se copone de rayas y puntos.
 
@@ -34,6 +14,9 @@ Es una código que hace uso de sonidos o rayos de luz, se copone de rayas y punt
 |G    | --.    |O    | ---   |X     | -..-   |
 |H    | ....   |P    | .--.  |Y     | -.--   |
 |I    | ..     |Q    | --.-  |Z     | --..   |
+|ch   | ----   |
+
+**Números** todos se conforman con 5 símbolos
 
 |Número|Clave   |Número|Clave  |
 |------|--------|------|-------|
@@ -57,25 +40,61 @@ Es una código que hace uso de sonidos o rayos de luz, se copone de rayas y punt
 |Espera    | .-...    |
 |Fin       | .-...    |
 
-Primera mnemotecnia
+**Simples:** Son las formadas por sólo un tipo de símbolo(largo o corto)
 
-|Letra|Palabra   | Clave |Letra|Palabra    | Clave |Letra|Palabra     | Clave  |
-|-----|----------|-------|-----|-----------|-------|-----|------------|--------|
+|Letra|Clave |Letra|Clave  |
+|-----|------|-----|-------|
+|E    | .    |T    | -     |
+|I    | ..   |M    | --    |
+|S    | ...  |O    | ---   |
+|H    | .... |ch   | ----  |
+
+
+**Contrarias:**:  donde una letra tiene una serie de símbolos que coinciden con los símbolos de otra pero en orden inverso
+
+|Letra|Clave |Letra|Clave  |
+|-----|------|-----|-------|
+|A    | .-   |N    |  -.   |
+|B    | -... |V    | ...-  |
+|D    | -..  |U    | ..-   |
+|F    | ..-. |L    | .-..  |
+|G    | --.  |W    | .--   |
+|Q    | --.- |Y    | -.--  |
+
+**Emparedadas:**: Son las que el primero y último símbolo son iguales. teniendo en medio otro diferente
+
+|Letra|Clave |Letra|Clave  |
+|-----|------|-----|-------|
+|K    | -.-    |R   | .-.     |
+|P    | .--.   |X    | -..-    |
+|Ñ    | --.--  |  ||
+
+**Aisladas:**: Son las que no encajan en ninguno de los grupos anteriores
+
+|Letra|Clave |
+|-----|------|
+|C    | -.-. |
+|J    | .--- |
+|Z    | --.. |
+
+
+**Mnemotecnia** la sílabas con la letra "o" son rayas
+
+|Letra|Palabra   | Clave |Letra|Palabra    | Clave |Letra|Palabra     | Clave |
+|-----|----------|-------|-----|-----------|-------|-----|------------|-------|
 |A    |Asno      | .-    |J    |Jabonodo   | .---  |R    |Ramona      | .-.   |
 |B    |Bonaparte | -...  |K    |Lolino     | -.-   |S    |Silavaierra | ...   |
-|C    |Cocacola  | -.-.  |L    |Limonada   | .-..  |T    |Tos         |  -    |
+|C    |Cocacola  | -.-.  |L    |Limonada   | .-..  |T    |Tos         | -     |
 |D    |Docena    | -..   |M    | Motor     | --    |U    |Unicos      | ..-   |
 |E    |El        | .     |N    |Nogal      | -.    |V    |Ventilador  | ...-  |
 |F    |Faraona   | ..-.  |Ñ    |ÑoÑonátomo | --.-- |W    |Wagospost   | .--   |
-|G    |Gondola   | --.   |O    |Otoño      |  ---  |X    |Xochomilco  | -..-  |
-|H    |Habitante | ....  |P    |Pilotonic  |  .--. |Y    |Yo te soplo | -.--  |
+|G    |Gondola   | --.   |O    |Otoño      | ---   |X    |Xochomilco  | -..-  |
+|H    |Habitante | ....  |P    |Pilotonic  | .--.  |Y    |Yo te soplo | -.--  |
 |I    |Iris      | ..    |Q    |Qocorico   | --.-  |Z    |Zozobrada   | --..  |
 
+ 
 
-
-    
-
-Segunda mnemotecnia
+**Mnemotecnia** la raya es una sílaba de 3 letras
 
 
 |Letra|Palabra        | Clave |Letra|Palabra         | Clave |
@@ -97,9 +116,48 @@ Segunda mnemotecnia
 
  
   
+**Mnemotecnia** correlación
   
-  
+|Progresivo |Inverso  |
+|-----------|---------|
+|E   .      |T  -     |
+|I   ..     |M  --    |
+|S   ...    |O  ---   |
+|H   ..-.   |         |
 
- 
+|Progresivo |Inverso   |
+|-----------|----------|
+|A   .-      |N  -.    |
+|U   ..-     |D  -..   |
+|V   ...-    |         |
+|L   .-..    |F  ..-.  |
+|G   --.     |W  .--   |
+|Q   --.-    |Y  -.--  |
+|B   -...    |J  .---  |
   
-  
+|Anagrama |
+|---------|
+|R  .-.   |
+|K  -.-   |
+|X  -..-  |  
+|P  .--.  |  
+
+
+|Números  |
+|---------|
+|1  .---- |
+|2  ..--- |
+|3  ...-- |
+|4  ....- |
+|5  ..... |
+|6  -.... |
+|7  --... |
+|8  ---.. |
+|9  ----. |
+|0  ----- |
+
+|Excepción |
+|----------|
+|C  -.-.   |
+|Z  --..   |
+

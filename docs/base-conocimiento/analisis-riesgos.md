@@ -1,4 +1,4 @@
-# 🧪 Análisis de Riesgos Nivel Grupo 🧪
+# 🧪 Análisis de Riesgos Nivel Grupo
 
 
 Éste es un ejercicio de riesgos que hicimos en nuestro grupo que se encuentra en la CDMX en un parque el cuál queremos compartir. Sabemos que no es perfecto y que se puede mejorar, sin embargo es un punto de partida
@@ -26,16 +26,16 @@
             <td>Emergencias médicas</td>
             <td>
                 <ul>
-                    <li> Comprar botiquín para el grupo </li>
-                    <li>  Solicitar botiquines para sección</li>
-                    <li>  Tomar cursos de primeros auxilios</li>
-                    <li>  Tomar cursos emergercias psicológicas</li>
-                    <li>  Tomar cusos Safe from Harm(SFH) 1,2,3</li>
-                    <li>  Crear protocolo de seguridad del local de grupo</li>
-                    <li>  Solicitar fichas médicas</li>
-                    <li>  Solicitar directorios al comité y por secciones</li>
-                    <li>  Soliictar que todas las actividades sean seguras</li>
-                    <li>  Organizar brigada de emergecia</li>
+                    <li>Comprar botiquín para el grupo </li>
+                    <li>Solicitar botiquines para sección</li>
+                    <li>Tomar cursos de primeros auxilios</li>
+                    <li>Tomar cursos emergercias psicológicas</li>
+                    <li>Tomar cusos Safe from Harm(SFH) 1,2,3</li>
+                    <li>Crear protocolo de seguridad del local de grupo</li>
+                    <li>Solicitar fichas médicas</li>
+                    <li>Solicitar directorios al comité y por secciones</li>
+                    <li>Soliictar que todas las actividades sean seguras</li>
+                    <li>Organizar brigada de emergecia</li>
                 </ul> 
             </td>
             <td>Grupo</td>
@@ -44,11 +44,11 @@
             <td>Asaltos</td>
             <td>
                 <ul>
-                    <li>Crear protocolo de seguridad del local de grupo </li>
-                    <li>Crear mapa del local con zonas de peligro </li>
-                    <li>Compara silbatos para el grupo </li>
-                    <li>Solicitar silbatos por sección </li>
-                    <li>Organizar brigada Seguridad </li>
+                    <li>Crear protocolo de seguridad del local de grupo</li>
+                    <li>Crear mapa del local con zonas de peligro</li>
+                    <li>Compara silbatos para el grupo</li>
+                    <li>Solicitar silbatos por sección</li>
+                    <li>Organizar brigada Seguridad</li>
                  </ul> 
             </td>            
             <td>Grupo</td>
@@ -57,11 +57,11 @@
             <td>Secuestros</td>
             <td>
                 <ul>
-                    <li>Crear protocolo de seguridad del local de grupo </li>
-                    <li>Crear mapa del local con zonas de peligro </li>
-                    <li>Solicitar silbatos por sección </li>
-                    <li>Solicitar reporte de salida y llegada segura al local en los chats por sección </li>
-                    <li>Organizar brigada Seguridad </li>
+                    <li>Crear protocolo de seguridad del local de grupo</li>
+                    <li>Crear mapa del local con zonas de peligro</li>
+                    <li>Solicitar silbatos por sección</li>
+                    <li>Solicitar reporte de salida y llegada segura al local en los chats por sección</li>
+                    <li>Organizar brigada Seguridad</li>
                  </ul> 
             </td>            
             <td>Grupo</td>
@@ -70,12 +70,12 @@
             <td>Sismos</td>
             <td>
                 <ul>
-                    <li>Crear protocolo de seguridad del local de grupo </li>
-                    <li>Crear mapa de zona segura en el local </li>
-                    <li>Ubicar zonas seguras en casa, escuela, trabajo </li>
-                    <li>Solicitar que por seccion se reporten en sus chats </li>
-                    <li>Solicitar que los Scouter se reporten en el chat de jefes </li>
-                    <li>Organizar brigada de emergecia </li>
+                    <li>Crear protocolo de seguridad del local de grupo</li>
+                    <li>Crear mapa de zona segura en el local</li>
+                    <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
+                    <li>Solicitar que por seccion se reporten en sus chats</li>
+                    <li>Solicitar que los Scouter se reporten en el chat de jefes</li>
+                    <li>Organizar brigada de emergecia</li>
                  </ul> 
             </td>            
             <td>Grupo</td>
@@ -84,10 +84,10 @@
             <td>Inundación</td>
             <td>
                 <ul>
-                    <li>Crear protocolo de seguridad del local de grupo </li>
-                    <li>Crear mapa de zona segura en el local </li>
-                    <li>Ubicar zonas seguras en casa, escuela, trabajo </li>
-                    <li>Organizar brigada de emergecia </li>
+                    <li>Crear protocolo de seguridad del local de grupo</li>
+                    <li>Crear mapa de zona segura en el local</li>
+                    <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
+                    <li>Organizar brigada de emergecia</li>
                 </ul>
             </td>            
             <td>Grupo</td>
@@ -172,7 +172,7 @@
                 <ul>
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Crear mapa de zona segura en el local</li>
-                    <li>Ubicar zonas seguras en casa, escuela, trabajo  </li>
+                    <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
                     <li>Organizar brigada de emergecia</li>
                 </ul>
             </td>            
@@ -269,11 +269,11 @@
 
 ## Plan de Evacuación
 
-|Acciones básicas a tomar:|
-|---------------------------------------------|
-|Reconocimiento previo de la zona y recorrido |
+|Acciones básicas a tomar:                                 |
+|----------------------------------------------------------|
+|Reconocimiento previo de la zona y recorrido              |
 |Identificación de recursos de apoyo en caso de emergencia |
-|Programa de actividades conocidos por todos |
-|Identificación de los puntos de reunión |
-|Mapa de riesgos |
-|Señales de alarma |
+|Programa de actividades conocidos por todos               |
+|Identificación de los puntos de reunión                   |
+|Mapa de riesgos                                           |
+|Señales de alarma                                         |
