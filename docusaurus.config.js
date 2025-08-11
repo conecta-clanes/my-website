@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Conecta Clanes',
-  tagline: 'Somos un grupo de jóvenes sin fines de lucro con el proposito de crear una base de conocimiento',
+  tagline: 'Somos un grupo de jóvenes sin fines de lucro con el propósito de crear una base de conocimiento',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
