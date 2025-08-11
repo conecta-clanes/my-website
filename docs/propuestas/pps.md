@@ -1,4 +1,4 @@
-#  🔥 Propuesta PPS en sección de Clan
+#  🔥 Propuesta PPS en la sección de Clan
 
 ## Antescedentes
 
