@@ -14,7 +14,7 @@ Comencemos.
 - Instala [Node.js](https://nodejs.org/en/download/) version 22 or superior:
   - Una vez que instales **Node** verifica las dependencia
 - Instala un [cliente de git](https://desktop.github.com/download/)
-  - conecta tu cuenta de github
+  - Conecta tu cuenta de github
 - Clona el repositorio [my-website](https://github.com/conecta-clanes/my-website)
   - Puedes seguir las instrucciones [Clonar un repositorio](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
 - Instala [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable )
@@ -56,3 +56,13 @@ AZC-000 Alguna descripción de la aportación
 ## Para agregar elementos al sitio
 
 - En el apartado de **Docs*>Para agregar elementos al sitio** puedes ver un ficha de Markdown, como crear una página, como crear un documento, como crear un elemento del Blog, puede ver más ligas relacionadas con **Docusaurus**
+
+#Thoublesgooting
+
+Se puede solucionar lo problema ejecutando los comandos
+```bash
+npm i
+npm install docusaurus
+npm audit fix
+npm run start
+```

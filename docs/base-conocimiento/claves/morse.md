@@ -84,13 +84,13 @@ Es una código que hace uso de sonidos o rayos de luz, se copone de rayas y punt
 |-----|---------------|-------|-----|---------------|-------|-----|--------------|-------|
 |A    |as-no          | .-    |J    |ja-bo-no-so    | .---  |R    |ra-mo-na      | .-.   |
 |B    |bo-da-di-lla   | -...  |K    |ko-ka-so       | -.-   |S    |su-sa-na      | ...   |
-|C    |Co-ca-co-la    | -.-.  |L    |li-mo-na-da    | .-..  |T    |Tos           | -     |
+|C    |Co-ca-co-la    | -.-.  |L    |li-mo-na-da    | .-..  |T    |tos           | -     |
 |D    |dó-la-res      | -..   |M    |mo-no          | --    |U    |ú-unico       | ..-   |
 |E    |es             | .     |N    |no-ta          | -.    |V    |ven-ti-la-dor | ...-  |
 |F    |fle-cha-do-ra  | ..-.  |Ñ    |ño-Ño-pa-to-so | --.-- |W    |we-bo-lo      | .--   |
 |G    |go-lo-sa       | --.   |O    |o-to-ño        | ---   |X    |xo-cho-mil-co | -..-  |
 |H    |hu-ra-ca-nes   | ....  |P    |pe-lo-to-ta    | .--.  |Y    |yo-di-ro-so   | -.--  |
-|I    |Is-la          | ..    |Q    |qo-qo-li-so    | --.-  |Z    |zo-zo-bra-ra  | --..  |
+|I    |is-la          | ..    |Q    |qo-qo-li-so    | --.-  |Z    |zo-zo-bra-ra  | --..  |
 |ch   |chi-qui-cho-qui| ----  |
  
 
