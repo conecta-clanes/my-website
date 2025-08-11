@@ -109,8 +109,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Cómo colaborar',
-                to: '/docs/intro',
+                label: 'Base de conocimiento',
+                to: '/docs/category/base-de-conocimiento',
               },
             ],
           },

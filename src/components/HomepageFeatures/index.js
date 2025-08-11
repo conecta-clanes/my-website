@@ -3,13 +3,14 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
+/*  {
     title: 'Cómo colaborar',
     Svg: require('@site/static/img/documents.svg').default,
-    description: (
+    description: (      
       <>
-        Se lista el procedimiento para comenzar a colaborar
-      </>
+                     Se lista el procedimiento para comenzar a colaborar
+                     </>   
+     
     ),
   },
   {
@@ -38,7 +39,7 @@ const FeatureList = [
         Para agregar elementos al sitio
       </>
     ),
-  },
+  },*/
 ];
 
 function Feature({Svg, title, description}) {
