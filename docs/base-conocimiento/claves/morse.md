@@ -80,41 +80,20 @@ Es una código que hace uso de sonidos o rayos de luz, se copone de rayas y punt
 
 **Mnemotecnia** la sílabas con la letra "o" son rayas
 
-|Letra|Palabra   | Clave |Letra|Palabra    | Clave |Letra|Palabra     | Clave |
-|-----|----------|-------|-----|-----------|-------|-----|------------|-------|
-|A    |Asno      | .-    |J    |Jabonodo   | .---  |R    |Ramona      | .-.   |
-|B    |Bonaparte | -...  |K    |Lolino     | -.-   |S    |Silavaierra | ...   |
-|C    |Cocacola  | -.-.  |L    |Limonada   | .-..  |T    |Tos         | -     |
-|D    |Docena    | -..   |M    | Motor     | --    |U    |Unicos      | ..-   |
-|E    |El        | .     |N    |Nogal      | -.    |V    |Ventilador  | ...-  |
-|F    |Faraona   | ..-.  |Ñ    |ÑoÑonátomo | --.-- |W    |Wagospost   | .--   |
-|G    |Gondola   | --.   |O    |Otoño      | ---   |X    |Xochomilco  | -..-  |
-|H    |Habitante | ....  |P    |Pilotonic  | .--.  |Y    |Yo te soplo | -.--  |
-|I    |Iris      | ..    |Q    |Qocorico   | --.-  |Z    |Zozobrada   | --..  |
-
+|Letra|Palabra        | Clave |Letra|Palabra        | Clave |Letra|Palabra       | Clave |
+|-----|---------------|-------|-----|---------------|-------|-----|--------------|-------|
+|A    |as-no          | .-    |J    |ja-bo-no-so    | .---  |R    |ra-mo-na      | .-.   |
+|B    |bo-da-di-lla   | -...  |K    |ko-ka-so       | -.-   |S    |su-sa-na      | ...   |
+|C    |Co-ca-co-la    | -.-.  |L    |li-mo-na-da    | .-..  |T    |Tos           | -     |
+|D    |dó-la-res      | -..   |M    |mo-no          | --    |U    |ú-unico       | ..-   |
+|E    |es             | .     |N    |no-ta          | -.    |V    |ven-ti-la-dor | ...-  |
+|F    |fle-cha-do-ra  | ..-.  |Ñ    |ño-Ño-pa-to-so | --.-- |W    |we-bo-lo      | .--   |
+|G    |go-lo-sa       | --.   |O    |o-to-ño        | ---   |X    |xo-cho-mil-co | -..-  |
+|H    |hu-ra-ca-nes   | ....  |P    |pe-lo-to-ta    | .--.  |Y    |yo-di-ro-so   | -.--  |
+|I    |Is-la          | ..    |Q    |qo-qo-li-so    | --.-  |Z    |zo-zo-bra-ra  | --..  |
+|ch   |chi-qui-cho-qui| ----  |
  
 
-**Mnemotecnia** la raya es una sílaba de 3 letras
-
-
-|Letra|Palabra        | Clave |Letra|Palabra         | Clave |
-|-----|---------------|-------|-----|----------------|-------|
-|A    |a-mor          | .-    |N    |nor-te          | -.    |
-|B    |bar-ce-lo-na   | -...  |Ñ    |ñi-ñac-y-ñi-ñac | --.-- |
-|C    |can-ta-bri-co  | -.-.  |O    |obs-truc-ción   | ---   |
-|D    |des-ta-pe      | -..   |P    |pa-qui-der-mo   | .--.  |
-|E    |ep             | .     |Q    |qui-qui-ri-qui  | --.-  |
-|F    |fi-la-gra-na   | ..-.  |R    |rú-brica        | .-.   |
-|G    |gar-gan-ta     | --.   |S    |si-re-na        | ...   |
-|H    |hu-ma-re-da    | ....  |T    |tos             |  -    |
-|I    |is-la          | ..    |U    |U-ni-dad        | ..-   |
-|J    |je-rin-gui-lla | .---  |V    |vi-vi-do-res    | ...-  |
-|K    |in-de-lan      | -.-   |W    |wa-gos-post     | .--   |
-|L    |li-bre-ri-a    | .-..  |X    |xim-pa-ta-xim   | -..-  |
-|M    |már-mol        | --    |Y    |yer-ba-plan-tan | -.--  |
-|ch   |chi-qui-cho-qui| ----  |Z    |Zar-zal-ba-jo   | --..  |
-
- 
   
 **Mnemotecnia** correlación
   
