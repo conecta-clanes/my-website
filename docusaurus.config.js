@@ -15,6 +15,10 @@ const config = {
   title: 'Conecta Clanes',
   tagline: 'Somos un grupo de jóvenes sin fines de lucro con el propósito de crear una base de conocimiento',
   favicon: 'img/favicon.ico',
+  themes: ['@docusaurus/theme-mermaid'],
+  markdown: {
+    mermaid: true,
+  },
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -149,14 +153,11 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Anzac-Alcira`,
       },
-      /*prism: {
+      prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-      },*/
-      themes: ['@docusaurus/theme-mermaid'],
-      markdown: {
-        mermaid: true,
-      }
+      },
+
     }),
 };
 
