@@ -86,7 +86,7 @@ pie title Ejercen su carrera
 
 Hicieron prueba de orientacion vocacional antes de los 17 años
 ```mermaid
-pie title Ejercen su carrera
+pie title Hicieron prueba de orientacion vocacional
 "Sí" : 42.6
 "No" : 57.4
 ```
