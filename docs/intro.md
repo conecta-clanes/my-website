@@ -37,6 +37,7 @@ Ejecuta el comando
 cd my-website
 yarn clear 
 yarn install
+yarn add @docusaurus/theme-mermaid
 yarn run start
 ```
 
@@ -63,6 +64,7 @@ Se puede solucionar lo problema ejecutando los comandos
 ```bash
 npm i
 npm install docusaurus
+npm install mermaid
 npm audit fix
 npm run start
 ```

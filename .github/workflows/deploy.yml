@@ -23,6 +23,8 @@ jobs:
 
       - name: Install dependencies
         run: yarn install
+      - name: add @docusaurus/theme-mermaid
+        run: yarn add @docusaurus/theme-mermaid
       - name: Build website
         run: yarn build
 
