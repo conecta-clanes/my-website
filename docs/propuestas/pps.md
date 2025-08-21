@@ -97,3 +97,8 @@ pie title Les hubiera gustado tomar la orientación vocacional
 "Sí" :  94.4
 "No" : 5.6
 ```
+
+
+### 👏 Agredecimiento por su contribución👏
+
+- Mónica Ramírez
