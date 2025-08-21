@@ -6,16 +6,16 @@ Ya que la documentación oficial no lo precisa, se recomienda agregar un apartad
 
 
 
-##Sugerencias:
+## Sugerencias
 - Al crear el macro plan anual se recomienda poner fechas **tentativas** de los parlamentos de todo el año, tomando en cuenta que se pueden agregar más o quitar, sin perder de vista que por ciclo de programa se debe tener al menos un parlamento para planeación y otro para evalucación.
 - Siempre documentar el parlamento aunque no se tenga asistencia.
 - Abrir la posibilidad de votación remota o asincrona de temas relevantes, por ejemplo por medio como: **What's APP**, Google Forms, etc.
 - Considerar la ejecución de los parlamemtos de forma remoto (Google Meet, Zoom, Webex, Teams, etc.)
 
 
-### 👏👏👏   Agredecimiento por su contribución 
+### 👏 Agredecimiento por su contribución👏 
 
-- Lilina Vucetich
+- Liliana Vucetich
 - Monserrat Reyes
 
 
