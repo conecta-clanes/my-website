@@ -93,7 +93,7 @@ pie title Ejercen su carrera
 
 Le hubiera gustado tomar la orientación vocacional entre sus 14 y 17 años
 ```mermaid
-pie title Ejercen su carrera
+pie title e hubiera gustado tomar la orientación vocacional
 "Sí" :  94.4
 "No" : 5.6
 ```
