@@ -15,7 +15,7 @@ El PPV idealmente se debe comenzar a ver desde la sección de la Comunidad
 
 ## ¿Y entonces qué se vería en el clan?
 
-La propuesta es que se use en lugar crear un PPV, se debe crear un PPS o Plan Personal de Seguimiento
+La propuesta es que se use en lugar crear un PPV, se debe crear un PPS o Proyecto Personal de Seguimiento
 
 Nota: si el chico es recién ingresado por supuesto se le debe ayudar a crear un PPV
 
