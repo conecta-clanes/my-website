@@ -68,3 +68,7 @@ npm install mermaid
 npm audit fix
 npm run start
 ```
+
+### Dónde puedo encontrar los icons
+
+Existen varias páginas por ejemplo [Icons](https://gist.github.com/rxaviers/7360908)

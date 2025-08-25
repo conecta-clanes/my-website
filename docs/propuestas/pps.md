@@ -55,7 +55,7 @@ pie title Grado Estudios
 
 En qué grado eligieron carrera
 ```mermaid
-pie title Grado Estudios
+pie title En qué grado eligieron carrera
 "Antes del bachillerato" : 22.2
 "En el bachilleto" : 38.9
 "Después de Bachillerato" : 37
@@ -98,6 +98,18 @@ pie title Les hubiera gustado tomar la orientación vocacional
 "No" : 5.6
 ```
 
+#### Conslusiones
+
+Más de l 90% de los encuenstados les hubiera gustado tener orientación vocacional antes 
+de elegir carrera. 
+
+El 37% de los encuestados eligió su depués de launiversidad y 39% en el bachillerato
+
+Apenas el 43% de los encuestados hizo alguna prueba de orientación vacacional antes de los 17 años
+
+El 57% de los encuestados no ejecce la carrera que estudió
+
+El 41% estaba muy reguro de su elección y el 32% poco seguro.
 
 ### 👏 Agredecimiento por su contribución👏
 
