@@ -72,3 +72,7 @@ npm run start
 ### Dónde puedo encontrar los icons
 
 Existen varias páginas por ejemplo [Icons](https://gist.github.com/rxaviers/7360908)
+
+### Cómo puedo aprender a hacer diagramas con mermeid
+
+Ve a ladocumentación oficial [Mermeid](https://mermaid.js.org/intro/getting-started.html)
