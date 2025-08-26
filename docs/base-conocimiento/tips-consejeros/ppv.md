@@ -9,11 +9,11 @@ No es simplemente una lista de metas, sino una brújula interna que integra toda
 
 Características Clave de un Proyecto de Vida
 
-- 1. Personal y Único: No hay dos proyectos de vida iguales. Se basa en tus propios valores, sueños, talentos y circunstancias.
-- 2. Dinámico y Flexible: No es un documento grabado en piedra. Evoluciona contigo, se adapta a los cambios, los imprevistos y las nuevas experiencias.
-- 3. Integral: Abarca todas las dimensiones de tu ser, no solo lo profesional o económico.
-- 4. Motivador: Te da un sentido de propósito y dirección, especialmente en momentos difíciles.
-- 5. Consciente: Requiere de introspección y autoconocimiento para ser genuino.
+1. Personal y Único: No hay dos proyectos de vida iguales. Se basa en tus propios valores, sueños, talentos y circunstancias.
+2. Dinámico y Flexible: No es un documento grabado en piedra. Evoluciona contigo, se adapta a los cambios, los imprevistos y las nuevas experiencias.
+3. Integral: Abarca todas las dimensiones de tu ser, no solo lo profesional o económico.
+4. Motivador: Te da un sentido de propósito y dirección, especialmente en momentos difíciles.
+5. Consciente: Requiere de introspección y autoconocimiento para ser genuino.
 
 
 
