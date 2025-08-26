@@ -108,6 +108,31 @@ En otras palabras, es el diseño consciente de tu futuro, que te permite crecer 
 - FODA personal
 - IKIGAI
 
+#### FODA personal
+![FODA](https://rosanarosas.com/wp-content/uploads/2019/02/Imagen1.png)
+![Vits Árbol](https://rosanarosas.com/wp-content/uploads/2019/02/Imagen8.png)
+![FODA Diagrama](https://rosanarosas.com/wp-content/uploads/2019/02/Imagen5-1.png.webp)
+![Cómo Hacer análisi FODA](https://i.pinimg.com/1200x/ae/c7/68/aec76839c63a7ff7caff01f1f7813067.jpg)
+![Ejemplo](https://i.pinimg.com/1200x/5c/ec/df/5cecdfaf71883c3ac54353ee270daeef.jpg)
+![Otro Ejemplo](https://i.pinimg.com/1200x/af/4b/64/af4b64ce1b88a593dfd471271ad59d6e.jpg)
+
+
+Imagenes en orden:
+- rosanarosas, Rosana Rosas, FODA, Consultado el 26 de agosto de 2025, https://rosanarosas.com/https://rosanarosas.com/matriz-foda-personal/
+- Pinterest, FODA, miriam mendez, Consultado el 26 de agosto de 2025, https://ar.pinterest.com/pin/403705554119281021/
+- Pinterest, Cómo hacer un análisis DAFO (con ejemplos),  Consultado el 26 de agosto de 2025, https://ar.pinterest.com/pin/8796161769767975/
+- Pinterest, FODA PERSONAL,  Fabiola,  Consultado el 26 de agosto de 2025, https://ar.pinterest.com/pin/509399407875568385/
+
+#### IKIGAI
+!(IKIGAI)[https://tristanelosegui.com/wp-content/uploads/2022/05/Ikigai.jpeg]
+!(IKIGAI más detallado)[https://tiewellness.com/wp-content/uploads/2022/12/ikigai2-768x788.png]
+!(Ejemplo IKIGAI)[https://www.educalive.com/blog/wp-content/uploads/2020/02/Ejemplo_IKIGAI-1-1024x768.jpg]
+
+Imagenes en orden:
+- tristanelosegui, Qué es el IKIGAI y cómo definirlo, Consultado al 26 de agosto de 2025, https://tristanelosegui.com/2022/05/26/que-es-el-ikigai-y-como-definirlo/
+- tiewellness, Descubre tu ikigai, el método japonés para encontrar tu verdadero propósito en la vida, Consultado al 26 de agosto de 2025,  https://tiewellness.com/descubre-tu-ikigai/
+- educalive, Orientación IKIGAI: trabajar en lo que te apasiona., Consultado asl 26 de agosto 2025, https://www.educalive.com/blog/ikigai-descubrir-trabajar-que-te-apasiona  
+
 ##### Ejemplo de un PPV generado por ChatGpt(25 de agosto de 2025)
 
 
