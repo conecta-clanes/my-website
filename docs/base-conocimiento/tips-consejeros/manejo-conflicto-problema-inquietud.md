@@ -1,4 +1,4 @@
-# Manejo de conflictos, problema o inquietud que no es de vida o muerte
+# 💡 Manejo de conflictos, problema o inquietud que no es de vida o muerte
 
 Ésta es un propuesta sobre de como manejar algún conflicto, problema o inquitud de un Rover
 
