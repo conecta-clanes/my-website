@@ -228,4 +228,185 @@ classDiagram
     note "Actividades"
     note "Eventos"
 ```
-   
+
+### Proyecto Educativo orientado a la sustentabilidad(Sostenibilidad)
+
+<table>
+  <tr>
+    <th>PLANOS DE RELACIÓN</th>
+    <th >EJES TEMÁTICOS</th>
+  </tr>
+  <tr>
+    <td >Conmigo Mismo</td>
+    <td >Salud y Bienestar</td>
+  </tr>
+  <tr>
+    <td >Con los Demás</td>
+    <td >Habilidades para la Vida</td>
+  </tr>
+  <tr>
+    <td >Con el Entorno</td>
+    <td >Medio Ambiente y Sustentabilidad(Sostenibilidad) </td>
+  </tr>
+  <tr>
+    <td >Con lo Trascendente</td>
+    <td >Paz y Acción Comunitaria</td>
+  </tr>
+</table>
+
+
+
+
+### Escenarios de Aprendizaje (ejemplos) - Ejes Temáticos
+
+
+<!-- Tabla con colores -->
+<table>
+    <thead>
+        <tr>
+            <th >Escenarios de Aprendizaje(ejemplos)</th>
+            <th >Salud y Bienestar</th>
+            <th >Habilidades para la Vida</th>
+            <th >Paz y Acción Comunitaria</th>
+            <th >Medio Ambiente y Sustentabilidad(Sostenibilidad)</th>
+        </tr>
+    </thead>
+    <tbody>    
+        <tr>
+            <td >Actividades Scouts</td>
+            <td >
+                <ul >
+                    <li>Jugar, cantar y bailar.</li>
+                    <li>Practicar deporte.</li>
+                    <li>Realizar actividades en la naturaleza.</li>
+                    <li>Mantenerse la casa limpia y ordenada.</li>
+                    <li>Preparar los alimentos.</li>
+                    <li>Participar en talleres sobre sexualidad.</li>
+                    <li>Descansar sus horas.</li>
+                    <li>Pijamada.</li>
+                </ul>
+            </td>
+            <td >
+                <ul >     
+                    <li>Liderar un equipo.</li>
+                    <li>Experimentos científicos.</li>
+                    <li>Talleres artísticos y tecnológicos.</li>
+                    <li>Actividades económicas.</li>
+                    <li>Tareas y reparaciones domésticas.</li>
+                    <li>Participar en el Fuego Nuevo.</li>
+                    <li>Visita a los bomberos.</li>
+                </ul>
+            </td>
+            <td >
+                <ul >     
+                    <li>Buena acción.</li>
+                    <li>Lecturas sobre el tema de Obras de teatro.</li>
+                    <li>Visitas a museos o sitios históricos.</li>
+                    <li>Viajes a lugares Patrimonio de la Humanidad.</li>
+                    <li>Participar en ceremonias religiosas.</li>            
+                </ul>
+            </td>
+            <td >
+                <ul >       
+                    <li>Reciclar residuos.</li>
+                    <li>Ahorro de recursos.</li>
+                    <li>Hacer composta.</li>
+                    <li>Participar en una reforestación</li>
+                    <li>Caminatas en la naturaleza</li>
+                    <li>Ver videos sobre el cambio climático</li>                  
+                    <li>Jugar al aire libre.</li>
+                </ul>
+            </td>
+        </tr>    
+        <tr>
+            <td >Proyectos Scouts</td>
+            <td>
+                <ul >       
+                    <li>Realizar un huerto casero.</li>
+                    <li>Coordinar un torneo deportivo.</li>
+                    <li>Organizar campañas de salud sexual y reproductiva.</li>
+                    <li>MoP⭐</li>
+                    <li>Viaje Rover⭐</li>
+                </ul>
+            </td>
+            <td >
+                <ul >       
+                    <li>Crear una campaña financiera.</li>
+                    <li>Organizar una exposición de arte.</li>
+                    <li>Planear un campamento.</li>
+                    <li>Construir un robot funcional.</li>
+                    <li>Go Solar.⭐</li>
+                    <li>Especialidades⭐</li>
+                </ul>
+            </td>
+            <td >
+                <ul >       
+                    <li>Campaña de recolección de víveres.</li>
+                    <li>Organizar viajes a museos arqueológicos.</li>
+                    <li>Hacer talleres de LSM.</li>
+                    <li>Voluntariado en ONG.</li>
+                    <li>MoP⭐</li>
+                </ul>
+            </td>
+            <td >
+                <ul >       
+                    <li>Organizar una reforestación.</li>
+                    <li>Armar campaña de protección.</li>
+                    <li>Colocación de ecotecnias.</li>
+                    <li>Diagnósticos y acciones para proteger la Naturaleza.</li>
+                </ul>
+            </td>
+        </tr>    
+        <tr>
+            <td >Eventos Scouts</td>
+            <td >
+                <ul >       
+                    <li>Encuentros Deportivos.</li>
+                    <li>Rover Challenge.⭐</li>
+                    <li>Regatas.</li>
+                    <li>Maratones.</li>
+                    <li>Rallys.⭐</li>
+                    <li>Pistas de ciudad.⭐</li>
+                </ul>
+            </td>
+            <td >
+                <ul >       
+                    <li>EEAS.⭐</li>
+                    <li>Ferias de ciencias.</li>
+                    <li>Punta de Flecha.</li>
+                    <li>Philia.</li>
+                    <li>Encuentro Nacional de Cortes de Honor.⭐</li>
+                    <li>Foros.</li>
+                    <li>Cumbres de Liderazgo</li>
+                    <li>Feria de Especialidades⭐</li>
+                </ul>   
+            </td>
+            <td >
+                <ul >       
+                    <li>Reunión en la Peña de la Paz.</li>
+                    <li>Jamborees.⭐</li>
+                    <li>Moots.⭐</li>
+                    <li>Rallys de Manadas.⭐</li>
+                    <li>Aldeas Globales de Desarrollo</li>
+                    <li>Modelos de Naciones Unidas</li>
+                    <li>JOTA - JOTI.⭐</li>
+                </ul>
+            </td>
+            <td >
+                <ul>       
+                    <li>Torneos de Vida al Aire Libre.</li>
+                    <li>Campamentos.</li>
+                    <li>Expediciones.</li>
+                    <li>Bases Scout del Mundo.⭐</li>
+                    <li>Latatón⭐</li>
+                </ul>
+            </td>
+        </tr> 
+    </tbody>
+</table>
+
+⭐ Pueden estar enfocados a distintos Ejes Temáticos
+
+
+
+
