@@ -1,15 +1,17 @@
 #  🔥 Propuesta PPS en la sección de Clan
 
-## Antescedentes
+## Hipótesis
 
 El PPV idealmente se debe comenzar a ver desde la sección de la Comunidad 
+
+## Antescedentes
 
 - En la mayoria de las escuelas de bachillerato al menos en México al final del segundo año se elige el área a que se decide ir, por ejemplo, ciencias de la salud, fisicomatemáticas, etc.
 - Cuesta tiempo e inversión desde un inicio elegir una carrera no adecuada
 
 ## ¿Qué se debería ver en la comunidad?
 
-- Comenzar a trabajar el IKIGAI
+- Comenzar a trabajar el IKIGAI y FODA Personal
 - Realizar Test de orientación de carrera
 - Genera una versión de PPV
 
@@ -17,7 +19,7 @@ El PPV idealmente se debe comenzar a ver desde la sección de la Comunidad
 
 La propuesta es que se use en lugar crear un PPV, se debe crear un PPS o Proyecto Personal de Seguimiento
 
-Nota: si el chico es recién ingresado por supuesto se le debe ayudar a crear un PPV
+Nota: si el chico es recién ingresado por supuesto se le debe ayudar a cree su PPV
 
 
 ## Sustento
@@ -114,3 +116,4 @@ El 41% estaba muy reguro de su elección y el 32% poco seguro.
 ### 👏 Agredecimiento por su contribución👏
 
 - Mónica Ramírez
+- David Flores
