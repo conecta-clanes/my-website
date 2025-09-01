@@ -124,9 +124,9 @@ Imagenes en orden:
 - Pinterest, FODA PERSONAL,  Fabiola,  Consultado el 26 de agosto de 2025, https://ar.pinterest.com/pin/509399407875568385/
 
 #### IKIGAI
-!(IKIGAI)[https://tristanelosegui.com/wp-content/uploads/2022/05/Ikigai.jpeg]
-!(IKIGAI más detallado)[https://tiewellness.com/wp-content/uploads/2022/12/ikigai2-768x788.png]
-!(Ejemplo IKIGAI)[https://www.educalive.com/blog/wp-content/uploads/2020/02/Ejemplo_IKIGAI-1-1024x768.jpg]
+![IKIGAI](https://tristanelosegui.com/wp-content/uploads/2022/05/Ikigai.jpeg)
+![IKIGAI más detallado](https://tiewellness.com/wp-content/uploads/2022/12/ikigai2-768x788.png)
+![Ejemplo IKIGAI](https://www.educalive.com/blog/wp-content/uploads/2020/02/Ejemplo_IKIGAI-1-1024x768.jpg)
 
 Imagenes en orden:
 - tristanelosegui, Qué es el IKIGAI y cómo definirlo, Consultado al 26 de agosto de 2025, https://tristanelosegui.com/2022/05/26/que-es-el-ikigai-y-como-definirlo/
