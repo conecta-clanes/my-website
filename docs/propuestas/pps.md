@@ -117,3 +117,7 @@ El 41% estaba muy reguro de su elección y el 32% poco seguro.
 
 - Mónica Ramírez
 - David Flores
+
+## Autora
+
+- Yolanda Castillo

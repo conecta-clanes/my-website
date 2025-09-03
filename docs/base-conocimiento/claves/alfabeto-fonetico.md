@@ -12,3 +12,7 @@ Para tener mator claridad al transmitir un mesanje usa el alfabeto fonético en 
 |G|Golf   |O|Oscar    |X|Xray    |
 |H|Hotel  |P|Papa     |Y|Yankee  |
 |I|India  |Q|Québec   |Z|Zulu    |
+
+##### Redactora
+
+- Yolanda Castillo

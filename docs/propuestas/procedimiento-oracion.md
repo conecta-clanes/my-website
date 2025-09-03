@@ -27,3 +27,7 @@ El documento tiene el fin de orientar un poco más a los consejeros, para evitar
 ## Qué pasa con las tradiciones de grupo
 
 - Se pide que las tradiciones de grupo al decir la oración se queden en el grupo y no se llevan a los eventos provinciales o nacionales
+
+## Autora
+
+- Yolanda Castillo

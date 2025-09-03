@@ -31,4 +31,6 @@ con los que te pueden enfrentar un Consejero.
 - https://consejociudadanomx.org/contenido/brinda-consejo-ciudadano-apoyo-psicologico-a-11-mil-905-personas-ante-ideacion-suicida
 - https://www.gob.mx/conasama
 
- 
+##### Redactora
+
+- Yolanda Castillo

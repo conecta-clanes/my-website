@@ -18,6 +18,8 @@ Ya que la documentación oficial no lo precisa, se recomienda agregar un apartad
 - Liliana Vucetich
 - Monserrat Reyes
 
+##### Redactora
 
+- Yolanda Castillo
 
 

@@ -39,5 +39,7 @@ Cuestionarios sobre que clasificación desdes el punto de vista de programación
 ![Cuestionario de Programacion Neurolinguistica](https://www.scribd.com/document/315421105/Cuestionario-de-Programacion-Neurolinguistica)
 
 
+##### Autora
 
+- Yolanda Castillo
 

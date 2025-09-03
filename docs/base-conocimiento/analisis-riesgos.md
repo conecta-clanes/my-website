@@ -277,3 +277,7 @@
 |Identificación de los puntos de reunión                   |
 |Mapa de riesgos                                           |
 |Señales de alarma                                         |
+
+## Autora
+
+- Yolanda Castillo

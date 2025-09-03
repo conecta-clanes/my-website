@@ -408,5 +408,8 @@ classDiagram
 ⭐ Pueden estar enfocados a distintos Ejes Temáticos
 
 
+##### Redactora/Autora
+
+- Yolanda Castillo
 
 
