@@ -1,4 +1,4 @@
-# Mínimos al ejecutar un Parlamento
+# 🔨 Mínimos al ejecutar un Parlamento
 
 Ésta es un propuesta sobre cuántos deben ser los mínimos al ejecutar un parlamento.
 

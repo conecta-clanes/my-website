@@ -1,4 +1,4 @@
-# Quiz para presentar el nuevo esquema de adelantos
+# ⌛ Quiz para presentar el nuevo esquema de adelantos
 
 Mediate la herramienta https://www.mentimeter.com/ se creó
 un quiz sobre las nuevas insignias del nuevo programa que pueden encontrar en 
@@ -14,6 +14,14 @@ Algunas de las preguntas que se pueden encotrar en el quiz
 
 ![Tierra](img/menti-aventurasTierra.png)
 
+## Otra herramientas que se pueden usar para hacer quiz
+
+- https://kahoot.com/
+
+## Otras herramientas para crear pizarras interactivas
+
+- https://padlet.com/
+- https://miro.com/es/pizarra-virtual/
 
 ##### Autora
 
