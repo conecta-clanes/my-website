@@ -16,7 +16,7 @@ Algunas de las preguntas que se pueden encotrar en el quiz
 
 ![Tierra](img/menti-aventurasTierra.png)
 
-## Kahhot
+## Kahoot
 
 Y mediante la herramienta   https://kahoot.com/ se creó
 un quiz sobre las nuevas insignias del nuevo programa que pueden encontrar en 
