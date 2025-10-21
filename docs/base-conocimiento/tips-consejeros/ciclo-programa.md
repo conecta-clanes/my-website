@@ -2,7 +2,7 @@
 
 ## Propuesta
 
-Usar la herramienta de seguimiento ed proyectos [Trello](https://trello.com/es/tour) para dar seguimiento del **Proyecto de Personal de Vida** 
+Usar la herramienta de seguimiento de proyectos [Trello](https://trello.com/es/tour) para dar seguimiento al **Proyecto de Personal de Vida** 
 / **Progresión Personal** / **Ciclo de programa**, ya que Trello es muy intuitivo y cuenta con versión Gratuita.
 
 ### Algunas funcionalidades Trello
@@ -101,6 +101,11 @@ Usar la herramienta de seguimiento ed proyectos [Trello](https://trello.com/es/t
 - Adjuntar evidencia, marca lista de subtareas terminadas 
 ![Asignar Tarea](img/trello/porcentajeAvance.png)
 
+### Otras herramientas
+
+- [Jira](https://www.atlassian.com/) de paga
+- [Monday](https://monday.com/) de paga
+- [Matis Bug Traker](https://mantisbt.org/)
 
 ##### Agradecimientos
 
