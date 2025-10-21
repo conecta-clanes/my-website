@@ -5,6 +5,15 @@
 Usar la herramienta de seguimiento de proyectos [Trello](https://trello.com/es/tour) para dar seguimiento al **Proyecto de Personal de Vida** 
 / **Progresión Personal** / **Ciclo de programa**, ya que Trello es muy intuitivo y cuenta con versión Gratuita.
 
+### Ventajas
+
+- Ahorro en tiempo administrativo
+- Los Rovers adquieren habilidades para la vida al  conocer y ejecutar metodologías Ágiles, Scrum, Trello con las que adquieren habilidades de planeación y seguimiento
+- Seguimiento desde navegador web o desde el celular
+- Se pueden visualizar al instante los avances
+- Exportación de reportes que agilizan el envío de evidencia a la hora de tramitar las insignias de Mundo Mejor, Terminal, etc.
+
+
 ### Algunas funcionalidades Trello
 
 #### Vista Tableros, espacio de trabajo defecto **Espacio de trabajo de Trello**
