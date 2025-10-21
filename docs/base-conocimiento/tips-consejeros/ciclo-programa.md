@@ -145,6 +145,9 @@ que también se usa en desarrolo de software, sin embargo se puede aplicar al ci
 
 ![Scrum](https://www.nimblework.com/wp-content/uploads/2022/12/scrum-methodology.webp)
 
+Para tomar Scrum gratuito [Scrum Study](https://www.scrumstudy.com/) 
+también brinda la certificación curricular de Scrum fundamentos y es gratuita
+
 ### Aplicación de Scrum al Ciclo de Programa
 
 - El Sprint sería el Ciclo de Programa(de 3 o 4 meses) definiendo el enfoque del mismo
