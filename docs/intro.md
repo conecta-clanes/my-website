@@ -65,6 +65,7 @@ Se puede solucionar lo problema ejecutando los comandos
 npm i
 npm install docusaurus
 npm install mermaid
+yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest @docusaurus/theme-mermaid@latest @docusaurus/module-type-aliases@latest @docusaurus/types@latest
 npm audit fix
 npm run start
 ```

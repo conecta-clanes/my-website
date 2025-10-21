@@ -25,6 +25,8 @@ jobs:
         run: yarn install
       - name: add @docusaurus/theme-mermaid
         run: yarn add @docusaurus/theme-mermaid
+      - name: upgrade mermaid
+        run: yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest @docusaurus/theme-mermaid@latest @docusaurus/module-type-aliases@latest @docusaurus/types@latest
       - name: Build website
         run: yarn build
 
