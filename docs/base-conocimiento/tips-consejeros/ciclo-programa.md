@@ -73,7 +73,7 @@ Usar la herramienta de seguimiento de proyectos [Trello](https://trello.com/es/t
 
 #### Además de la vista web, Trello se puede instalar en el celular, es compatible con Andriod y iPhone
 
-### Algunas limitanes de Trello
+### Algunas limitantes de Trello
 
 - Únicamente 10 colaboradores por tablero
 
@@ -101,15 +101,68 @@ Usar la herramienta de seguimiento de proyectos [Trello](https://trello.com/es/t
 - Adjuntar evidencia, marca lista de subtareas terminadas 
 ![Asignar Tarea](img/trello/porcentajeAvance.png)
 
-### Otras herramientas
+## Otras herramientas para administrar proyectos
 
 - [Jira](https://www.atlassian.com/) de paga
 - [Monday](https://monday.com/) de paga
 - [Matis Bug Traker](https://mantisbt.org/)
 
+## Kanban Board
+
+[Kanban Board](https://www.atlassian.com/es/agile/kanban/boards) es una herramienta para visualizar el estado de las actividades, 
+con visibilidad del tiempo, estado de las actividades.
+![Ejemplo de un Kanban Board](https://upload.wikimedia.org/wikipedia/commons/b/b4/Abstract_Kanban_Board.svg)
+
+## Agile
+
+![Agil](https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/) es una metodología comunmente usada de desarrollo de sistemas
+
+### 4 Valores
+- Individuos e interacciones por encima de procesos y herramientas
+- Software funcionando por encima de documentación exhaustiva
+- Colaboración con el cliente por encima de negociación contractual
+- Respuesta ante el cambio por encima de seguir un plan
+
+### 12 principios
+- Satisfacer al cliente mediante la entrega temprana y continua
+- Aprovechar el cambio como ventaja competitiva
+- Entregar valor frecuentemente
+- Cooperación negocio-desarrolladores durante todo el proyecto
+- Construir proyectos en torno a individuos motivados
+- Utilizar la comunicación cara a cara
+- Software funcionando como medida de progreso
+- Promover y mantener un desarrollo sostenible
+- La excelencia técnica mejora la agilidad
+- La simplicidad es fundamental
+- Equipos auto-organizados para generar más valor
+- Reflexión y ajustes frecuentes del trabajo de los equipos
+
+
+## Scrum
+
+Scrum es una metodología ágil ![Scrum](https://www.atlassian.com/es/agile/scrum) 
+que también se usa en desarrolo de software, sin embargo se puede aplicar al ciclo de programa
+
+![Scrum](https://www.nimblework.com/wp-content/uploads/2022/12/scrum-methodology.webp)
+
+### Aplicación de Scrum al Ciclo de Programa
+
+- El sprint sería el Ciclo de Programa(de 3 o 4 meses) definiendo el enfoque del mismo
+- Scrum Team sería uno o más Rovers
+- Scrum Master serían un consjero
+- Product Owner podría ser un consejero o el equipo de seguimiento(que se conforma de Rovers)
+- Las historias de usuario serían resumenes del Ciclo de Programa o PPV o la Progresión Personal, etc.
+- El backlog serían las tareas del Ciclo de Programa o PPV o la Progresión Personal, etc.
+- Las épicas prodían ser grupos o subclasificación de tareas del backlog
+- El planning la planeación de ciclo de programa en un parlamento
+- La implementación sería la ejecución de las tareas
+- La revisión sería el seguimiento de la tareas
+- La retrospectiva sería el Parlamento de evaluación
+- El término o Producto sería la celebranción o entrega de progresión, especialidad, insignias de mundo mejor, etc..
+
 ##### Agradecimientos
 
-- Diana Unzueta, que lleva tiempo usando Trello, junto la metodología Scrum y Kanvan Board para dar seguimiento al Ciclo de Programa/PPV/Progresión Personal, etc..
+- Diana Unzueta, que lleva tiempo usando Trello, junto la metodología Scrum y Kanban Board para dar seguimiento al Ciclo de Programa/PPV/Progresión Personal, etc..
 
 
 ##### Redactora
