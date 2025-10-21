@@ -115,7 +115,7 @@ con visibilidad del tiempo, estado de las actividades.
 
 ## Agile
 
-![Agil](https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/) es una metodología comunmente usada de desarrollo de sistemas
+[Agil](https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/) es una metodología comunmente usada de desarrollo de sistemas
 
 ### 4 Valores
 - Individuos e interacciones por encima de procesos y herramientas
