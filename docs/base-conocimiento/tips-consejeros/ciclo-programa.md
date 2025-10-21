@@ -147,9 +147,9 @@ que también se usa en desarrolo de software, sin embargo se puede aplicar al ci
 
 ### Aplicación de Scrum al Ciclo de Programa
 
-- El sprint sería el Ciclo de Programa(de 3 o 4 meses) definiendo el enfoque del mismo
+- El Sprint sería el Ciclo de Programa(de 3 o 4 meses) definiendo el enfoque del mismo
 - Scrum Team sería uno o más Rovers
-- Scrum Master serían un consjero
+- Scrum Master serían un consejero
 - Product Owner podría ser un consejero o el equipo de seguimiento(que se conforma de Rovers)
 - Las historias de usuario serían resumenes del Ciclo de Programa o PPV o la Progresión Personal, etc.
 - El backlog serían las tareas del Ciclo de Programa o PPV o la Progresión Personal, etc.
