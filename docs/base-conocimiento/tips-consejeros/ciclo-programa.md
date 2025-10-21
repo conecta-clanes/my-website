@@ -149,7 +149,7 @@ con visibilidad del tiempo, estado de las actividades.
 
 ## Scrum
 
-Scrum es una metodología ágil ![Scrum](https://www.atlassian.com/es/agile/scrum) 
+Scrum es una metodología ágil [Scrum](https://www.atlassian.com/es/agile/scrum) 
 que también se usa en desarrolo de software, sin embargo se puede aplicar al ciclo de programa
 
 ![Scrum](https://www.nimblework.com/wp-content/uploads/2022/12/scrum-methodology.webp)
