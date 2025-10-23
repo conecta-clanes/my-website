@@ -16,7 +16,7 @@ Usar inteligencia artificiales para crear actividades atractivas
 ## Notas importantes sobre las IAs
 
 - Las IAs son no deterministas, eso  quiere decir que cada vez que se haga una consulta se obtendrá una respuesta diferente,
-hoy en día las respuesta será casi igual en cada consulta
+hoy en día las respuesta será casi iguales en cada consulta
 - El conocimiento o contexto de las IAs depende de la versión y fecha de creación si una versión se liberó en  31 de diciembre de 2020, 
 la IA no sabe que pasó despues de ese día. Se puede comprobar preguntado que día es hoy
 - Las IAs tiene versión móvil Android y iPhone
