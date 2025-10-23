@@ -1,4 +1,4 @@
-# 🚀 Ciclo de Programa: herramientas administrativas
+# 🚀 Trello: herramientas administrativa para Ciclo de Programa
 
 ## Propuesta
 
