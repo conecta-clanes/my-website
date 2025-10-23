@@ -16,7 +16,7 @@ Usar la herramienta de seguimiento de proyectos [Trello](https://trello.com/es/t
 
 ### Algunas funcionalidades Trello
 
-Si quiere profundizar sobre Trello puede tomar el [Curso de Trello](https://www.youtube.com/playlist?list=PLPlELOb__KoIUAmliVpZlCNqlvw2i4NGk)
+- Si quiere profundizar sobre Trello puede tomar el [Curso de Trello](https://www.youtube.com/playlist?list=PLPlELOb__KoIUAmliVpZlCNqlvw2i4NGk)
 
 
 #### Vista Tableros, espacio de trabajo defecto **Espacio de trabajo de Trello**
