@@ -146,7 +146,7 @@ Consejos para el Facilitador:
 ¡Espero que estas ideas te sirvan para crear una experiencia memorable y muy útil para esos jóvenes!
 ```
 
-### Dónde se puede ver para que es mejor la  cada IA
+### Dónde se puede ver para qué es mejor la  cada IA
 
 En [Velum](https://www.vellum.ai/llm-leaderboard) se pueder observar bencharmarks o pruebas de performance, para que sirve mejor cada una
 
