@@ -16,6 +16,9 @@ Usar la herramienta de seguimiento de proyectos [Trello](https://trello.com/es/t
 
 ### Algunas funcionalidades Trello
 
+Si quiere profundizar sobre Trello puede tomar el [Curso de Trello](https://www.youtube.com/playlist?list=PLPlELOb__KoIUAmliVpZlCNqlvw2i4NGk)
+
+
 #### Vista Tableros, espacio de trabajo defecto **Espacio de trabajo de Trello**
 
   ![Lista de Tareas](img/trello/espacioTrabajo.png)
@@ -98,7 +101,6 @@ Usar la herramienta de seguimiento de proyectos [Trello](https://trello.com/es/t
 - Crear estados de las tareas, se sugieren **en proceso** y **Hecho** 
 ![Lista de Tareas](img/trello/listaTareasEstados.png)
 - Asignar Tareas a los Rovers
-
 
 #### Rovers(Usuarios o grupo de seguimiento)
 
