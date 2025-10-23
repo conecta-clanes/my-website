@@ -10,11 +10,11 @@ https://www.menti.com/al7cxfnatgxt (agosto 2025)
 
 Algunas de las preguntas que se pueden encotrar en el quiz
 
-![Plano conmigo mismo](img/menti-planoComigoMismo.png)
+![Plano conmigo mismo](img/menti/menti-planoComigoMismo.png)
 
-![Ruta Otomí](img/menti-rutaOtomi.png)
+![Ruta Otomí](img/menti/menti-rutaOtomi.png)
 
-![Tierra](img/menti-aventurasTierra.png)
+![Tierra](img/menti/menti-aventurasTierra.png)
 
 ## Kahoot
 
@@ -25,11 +25,11 @@ https://create.kahoot.it/share/nuevo-programa/958e9926-2822-4460-ab73-5028cf85ea
 
 Algunas de las preguntas que se pueden encotrar en el quiz
 
-![Planos Relación](img/kahoot-planosRelacion.png)
+![Planos Relación](img/kahoot/kahoot-planosRelacion.png)
 
-![Rover](img/kahoot-rover.png)
+![Rover](img/kahoot/kahoot-rover.png)
 
-![Ruta Otomí](img/kahoot-otomi.png)
+![Ruta Otomí](img/kahoot/kahoot-otomi.png)
 
 
 

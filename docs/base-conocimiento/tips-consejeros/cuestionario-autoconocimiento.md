@@ -7,22 +7,22 @@ Aclarando que no somos expertos en el tema y los resultados dan una sugerencia.
 
 Nuestro site está basado en el proyecto en el lenguaje de programción PHP y base de datos MySQL con licencia MIT https://github.com/phpdave11/php-survey-builder con algunas mejoras e incorporación de gráficos
 
-![Home](img/site-home.png)
-![Cuestionariose](img/site-cuestionarios.png)
+![Home](img/site/site-home.png)
+![Cuestionariose](img/site/site-cuestionarios.png)
 
 Algunos resultados de la aplicación de los cuestionarios
-![Guía de Cómo se aprende](img/site-dominanciaCerebral.png)
-![Tipo alumno](img/site-tipoAlumno.png)
+![Guía de Cómo se aprende](img/site/site-dominanciaCerebral.png)
+![Tipo alumno](img/site/site-tipoAlumno.png)
 
 Guías de los resultados
-![Dominancia Cerbral](img/site-comoAprende.png)
-![Tipo de alumno parte 1](img/site-guiaComoAprendete-1.png)
-![Tipo de alumno parte 2](img/site-guiaComoAprendete-2.png)
-![Tipo de alumno parte 3](img/site-guiaComoAprendete-3.png)
-![Tipo de alumno parte 4](img/site-guiaComoAprendete-4.png)
+![Dominancia Cerbral](img/site/site-comoAprende.png)
+![Tipo de alumno parte 1](img/site/site-guiaComoAprendete-1.png)
+![Tipo de alumno parte 2](img/site/site-guiaComoAprendete-2.png)
+![Tipo de alumno parte 3](img/site/site-guiaComoAprendete-3.png)
+![Tipo de alumno parte 4](img/site/site-guiaComoAprendete-4.png)
 
-![Domina parte 1](img/site-guiaTipoAlumno-1.png)
-![Domina parte 2](img/site-guiaTipoAlumno-2.png)
+![Domina parte 1](img/site/site-guiaTipoAlumno-1.png)
+![Domina parte 2](img/site/site-guiaTipoAlumno-2.png)
 
 ## Nuestra herramienta la basamos en cuestionarios como los que se listana abajo
 
