@@ -1,7 +1,7 @@
 # ⌛ Quiz para presentar el nuevo esquema de adelantos
 
 Importante, recientemente se actualizó el nombre de "Paz y Acción Comunitaria" 
-a "Paz y Particiáción Comunitaria"
+a "Paz y Participación Comunitaria"
 
 ## Mentimeter
 Mediante la herramienta https://www.mentimeter.com/ se creó
