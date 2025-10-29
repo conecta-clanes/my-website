@@ -1,5 +1,8 @@
 # ⌛ Quiz para presentar el nuevo esquema de adelantos
 
+Importante, recientemente se actualizó el nombre de "Paz y Acción Comunitaria" 
+a "Paz y Particiáción Comunitaria"
+
 ## Mentimeter
 Mediante la herramienta https://www.mentimeter.com/ se creó
 un quiz sobre las nuevas insignias del nuevo programa que pueden encontrar en 
@@ -8,7 +11,7 @@ un quiz sobre las nuevas insignias del nuevo programa que pueden encontrar en
 https://www.menti.com/al7cxfnatgxt (agosto 2025)
 
 
-Algunas de las preguntas que se pueden encotrar en el quiz
+Algunas de las preguntas que se pueden encontrar en el quiz
 
 ![Plano conmigo mismo](img/menti/menti-planoComigoMismo.png)
 
