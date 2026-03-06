@@ -20,13 +20,15 @@ jobs:
         with:
           node-version: 22
           cache: yarn
-
+      
       - name: Install dependencies
         run: yarn install
       - name: add @docusaurus/theme-mermaid
         run: yarn add @docusaurus/theme-mermaid
       - name: upgrade mermaid
         run: yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest @docusaurus/theme-mermaid@latest @docusaurus/module-type-aliases@latest @docusaurus/types@latest
+      - name: clear dependencies
+        run: yarn clear
       - name: Build website
         run: yarn build
 
