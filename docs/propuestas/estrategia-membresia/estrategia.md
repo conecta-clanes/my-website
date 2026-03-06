@@ -58,7 +58,7 @@ La poblacion de manada ha caido 16% mientras que la de clan solo 6%
 
 ### Autora
 
-- Mtra. en C.C. para Negocios Yolanda Castillo
+- Mtra. en C.C. para N. Yolanda Castillo
 
 ### Agredecimientos
 - Antonio Bernal
