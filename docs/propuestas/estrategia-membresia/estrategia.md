@@ -4,7 +4,7 @@
 ## Introducción
 - Esta propuesta pretende proponer estrategías para incrementar la membresía.
 
-- Los estudios fueron iniciado en el 2026, fueron inciados en julio del 2026
+- Los estudios fueron inciados en julio del 2025 y terminados a finales del 2025
 
 - Los estadisticas límites de alcaldías fueron tomados de fuentes oficiales como [INEGI](https://inegi.org.mx/)
 
