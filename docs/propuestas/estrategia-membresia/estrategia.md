@@ -18,7 +18,7 @@
 
 ## Resultados
 
-- [Distribución de dinero por negocios por Alcaldía](./ingresos-x-negocio.html)
+- Distribución de dinero por negocios por Alcaldía
 
 ![Distribución de dinero por negocios por Alcaldía](img/distribucion-dinero-negocio.jpeg)
 
@@ -30,7 +30,7 @@ El top de Alcaldías donde circula más dinero son
 
 Refeflejando el top de membresía por Alcaldía en la CDMX
 
-- [Distribución de cantidad de negocios por Alcaldía](./total_negocios.html) 
+- Distribución de cantidad de negocios por Alcaldía
 
 ![Distribución de cantidad de negocios por Alcaldía](img/districucion-cantidad-negocios.jpeg)
 
