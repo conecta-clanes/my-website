@@ -39,11 +39,12 @@ Iztapala sería un buen blanco por su cantidad de población en edad reglamentar
 - Decaimiento de la infancia de población para ser Scout
 ![Estadistica de población](img/estadistica-poblacion.jpeg)
 
-Grupo edad    2005    2020  Decaimiento (%)
-0        5-9  671579  563907            16.03
-1      10-14  704950  608962            13.62
-2      15-19  740280  650389            12.14
-3      20-24  765641  714605             6.67
+|Grupo |Edad   | 2005   | 2020   | Decaimiento (%) |
+|------|-------|--------|--------|-----------------|
+|0     |   5-9 | 671579 | 563907 |           16.03 |
+|1     | 10-14 | 704950 | 608962 |           13.62 |
+|2     | 15-19 | 740280 | 650389 |           12.14 |
+|3     | 20-24 | 765641 | 714605 |            6.67 |
 
 La poblacion de manada ha caido 16% mientras que la de clan solo 6%
 
