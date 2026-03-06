@@ -8,7 +8,7 @@
 
 - Los estadisticas límites de alcaldías fueron tomados de fuentes oficiales como [INEGI](https://inegi.org.mx/)
 
-- Miembros del Grupo 007 de Azcapotzalco estuvieron intercambiando éstas ideas y estudios para generar las propuestas
+- Miembros del Grupo 007 de Azcapotzalco estuvimos intercambiando éstas ideas y analizando los estudios para generar las propuestas
 
 - Las ideas de explorar con estudios de distribución de  dinero por negocios por Alcandía fueron idea de Antonio Bernal
 
@@ -18,19 +18,19 @@
 
 ## Resultados
 
-- Distribución de dinero por negocios por Alcaldía
+- [Distribución de dinero por negocios por Alcaldía](/archivos/ingresos-x-negocio.html)
 
-![Distribución de dinero por negocios por Alcaldía](img/distribucion-dinero-negocio.jpeg)
+        ![Distribución de dinero por negocios por Alcaldía](img/distribucion-dinero-negocio.jpeg)
 
-El top de Alcaldías donde circula más dinero son
-    - Cuahutemoc
-    - Benito Juarez
-    - Älvaro Obregón
-    - Miguel Hidalgo
+        El top de Alcaldías donde circula más dinero son
+            - Cuahutemoc
+            - Benito Juarez
+            - Älvaro Obregón
+            - Miguel Hidalgo
 
-Refeflejando el top de membresía por Alcaldía en la CDMX
+        Refeflejando el top de membresía por Alcaldía en la CDMX
 
-- Distribución de cantidad de negocios por Alcaldía
+- [Distribución de cantidad de negocios por Alcaldía](/archivos/total_negocios.html)
 
 ![Distribución de cantidad de negocios por Alcaldía](img/districucion-cantidad-negocios.jpeg)
 
@@ -58,10 +58,10 @@ La poblacion de manada ha caido 16% mientras que la de clan solo 6%
 
 ### Autora
 
-- Maestra en C.C. para Negocios Yolanda Castillo
+- Mtra. en C.C. para Negocios Yolanda Castillo
 
 ### Agredecimientos
 - Antonio Bernal
-- Maestro David Flores
-- Doctor Julio César Castillo
+- Mtro. David Flores
+- Doc. Julio César Castillo
 - Lic. Luis Antonio Rea
