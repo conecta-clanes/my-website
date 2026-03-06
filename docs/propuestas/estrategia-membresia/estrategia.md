@@ -18,7 +18,7 @@
 
 ## Resultados
 
-- [Distribución de dinero por negocios por Alcaldía](/archivos/ingresos-x-negocio.html)
+- [Distribución de dinero por negocios por Alcaldía](static/archivos/ingresos-x-negocio.html)
 
         ![Distribución de dinero por negocios por Alcaldía](img/distribucion-dinero-negocio.jpeg)
 
@@ -30,7 +30,7 @@
 
         Refeflejando el top de membresía por Alcaldía en la CDMX
 
-- [Distribución de cantidad de negocios por Alcaldía](/archivos/total_negocios.html)
+- [Distribución de cantidad de negocios por Alcaldía](static/archivos/total_negocios.html)
 
 ![Distribución de cantidad de negocios por Alcaldía](img/districucion-cantidad-negocios.jpeg)
 
