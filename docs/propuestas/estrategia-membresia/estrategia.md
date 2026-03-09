@@ -18,7 +18,8 @@
 
 ## Resultados
 
-- [Distribución de dinero por negocios por Alcaldía](https://y-castillo.com/estrategia-membresia/ingresos-x-negocio.html)
+- Distribución de dinero por negocios por Alcaldía
+        [Ver gráfica interactiva](https://y-castillo.com/estrategia-membresia/ingresos-x-negocio.html)
 
         ![Distribución de dinero por negocios por Alcaldía](img/distribucion-dinero-negocio.jpeg)
 
@@ -30,9 +31,10 @@
 
         Reflejando  el top de membresía por Alcaldía en la CDMX
 
-- [Distribución de cantidad de negocios por Alcaldía](https://y-castillo.com/estrategia-membresia/total_negocios.html)
+- Distribución de cantidad de negocios por Alcaldía 
+        [Ver gráfica interactiva](https://y-castillo.com/estrategia-membresia/total_negocios.html)
 
-![Distribución de cantidad de negocios por Alcaldía](img/districucion-cantidad-negocios.jpeg)
+        ![Distribución de cantidad de negocios por Alcaldía](img/districucion-cantidad-negocios.jpeg)
 
 Iztapalapa sería un buen blanco por su cantidad de población en edad reglamentaría, sin embargo, no circula tanto dinero
 
