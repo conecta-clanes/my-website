@@ -148,7 +148,7 @@ Consejos para el Facilitador:
 
 ### Dónde se puede ver para qué es mejor la  cada IA
 
-En [Velum](https://www.vellum.ai/llm-leaderboard) se pueder observar bencharmarks o pruebas de performance, para que sirve mejor cada una
+En [Velum](https://www.vellum.ai/llm-leaderboard) se pueder observar bencharmarks o pruebas de performance, para qué cosa sirve mejor cada una
 
 
 ##### Redactora
