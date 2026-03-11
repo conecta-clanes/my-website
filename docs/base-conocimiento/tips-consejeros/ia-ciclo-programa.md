@@ -1,4 +1,4 @@
-# 🚀 Inteligencia artificial: herramientas administrativa para Actividaes
+# 🚀 Inteligencia artificial: herramientas administrativa para Actividades
 
 ## Propuesta
 
@@ -22,7 +22,7 @@ la IA no sabe que pasó despues de ese día. Se puede comprobar preguntado que d
 - Las IAs tiene versión móvil Android y iPhone
 - Las IAs no son perfecta, es de nosotros modificar a nuestra conveniencia sus sugerencia o mejor lo específico de nuestro prompt para obtener la mejor respuesta posible
 
-## Qué es un "propomt" de IA
+## Qué es un "propmt" de IA
 
 Son las instrucciones que le damos a la IA para obtener una respuesta
 
@@ -41,7 +41,7 @@ El tipo de prompt sugerido para crear actividade divertidas es RTF
 ## Ejemplo de un prompt
 
 ```bash
-Crea un juevo divertivo para jóvenes de 18 a 21 años sobre su proyecto de vida
+Crea un juego divertivo para jóvenes de 18 a 21 años sobre su proyecto de vida
 ```
 La respuesta se verá como
 
