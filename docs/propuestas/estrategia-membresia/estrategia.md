@@ -63,7 +63,7 @@ La población de manada ha caído un 16%,  mientras que la de clan solo 6%
 - Mtra. en C. de D. para N. Yolanda Castillo
 
 ### Agradecimientos
-- Antonio Bernal
+- Doc. Antonio Bernal
 - Mtro. David Flores
 - Doc. Julio César Castillo
 - Lic. Luis Antonio Rea
