@@ -16,8 +16,10 @@ Los intereses de los jóvenes son
 - K-pop
 - Youtube
 
-[Ejcucuón 1](/archivos/c1.md)
-[Ejcucuón 2](/archivos/c1.md)
+Ejecuciones: 
+- [Ejcucuón 1](../../../../archivos/c1.md)
+
+- [Ejcucuón 2](../../../../archivos/c1.md)
 
 Lo que los profesores comentarons
 
