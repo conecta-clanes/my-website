@@ -17,9 +17,9 @@ Los intereses de los jóvenes son
 - Youtube
 
 Ejecuciones: 
-- [Ejcucuón 1](../../../../archivos/c1.md)
+- [Ejcucuón 1](/archivos/c1.md)
 
-- [Ejcucuón 2](../../../../archivos/c1.md)
+- [Ejcucuón 2](/archivos/c1.md)
 
 Lo que los profesores comentarons
 
