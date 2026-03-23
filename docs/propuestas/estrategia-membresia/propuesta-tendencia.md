@@ -19,7 +19,7 @@ Los intereses de los jóvenes son
 Ejecuciones: 
 - [Ejcucuón 1](/archivos/c1.md)
 
-- [Ejcucuón 2](/archivos/c1.md)
+- [Ejcucuón 2](/archivos/c2.md)
 
 Lo que los profesores comentarons
 
