@@ -1,4 +1,4 @@
-#  🔥 Propuesta de estrategias  para aumento de la membresía en la asociación
+#  🔥 Propuesta de estrategias para aumento de la membresía en la asociación
 
 
 ## Introducción
