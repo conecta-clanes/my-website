@@ -17,9 +17,9 @@ Los intereses de los jóvenes son
 - Youtube
 
 Ejecuciones: 
-- [Ejcucuón 1](img/c1.md)
+- [Ejecución 1](img/ejecucion1.md)
 
-- [Ejcucuón 2](img/c2.md)
+- [Ejecución 2](img/ejecucion2.md)
 
 Lo que los profesores comentarons
 
