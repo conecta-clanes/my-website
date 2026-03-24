@@ -1,0 +1,1067 @@
+{
+  "generated_at": "2026-03-24T11:42:21.366925",
+  "channel": "@MrBeast",
+  "analysis_videos_count": 30,
+  "agent_1_video_data": {
+    "channel_stats": {
+      "channel": "@MrBeast",
+      "dataset": "last 30 videos",
+      "total_videos_analyzed": 30,
+      "long_form_count": 20,
+      "shorts_count": 10,
+      "total_views": 3506200000,
+      "total_likes": 201830000,
+      "total_comments": 13102000,
+      "avg_engagement_rate_pct": 5.76,
+      "upload_frequency": "~2-3 videos/week",
+      "top_content_type_by_views": "long_form",
+      "long_form_total_views": 2950800000,
+      "shorts_total_views": 555400000
+    },
+    "long_form_videos": [
+      {
+        "id": "v001",
+        "type": "long_form",
+        "title": "I Survived 100 Days in a Bunker",
+        "published_at": "2026-03-22",
+        "views": 98400000,
+        "likes": 5820000,
+        "comments": 312000,
+        "duration_seconds": 1423,
+        "tags": [
+          "challenge",
+          "survival",
+          "100days",
+          "bunker"
+        ],
+        "thumbnail_ctr_estimate": 12.4
+      },
+      {
+        "id": "v002",
+        "type": "long_form",
+        "title": "$1 vs $1,000,000 Island Vacation",
+        "published_at": "2026-03-18",
+        "views": 145700000,
+        "likes": 8230000,
+        "comments": 589000,
+        "duration_seconds": 956,
+        "tags": [
+          "money",
+          "vacation",
+          "challenge",
+          "luxury"
+        ],
+        "thumbnail_ctr_estimate": 15.8
+      },
+      {
+        "id": "v003",
+        "type": "long_form",
+        "title": "Last To Leave The Circle Wins $500,000",
+        "published_at": "2026-03-14",
+        "views": 187200000,
+        "likes": 10100000,
+        "comments": 741000,
+        "duration_seconds": 1187,
+        "tags": [
+          "lastto",
+          "challenge",
+          "prize",
+          "500k"
+        ],
+        "thumbnail_ctr_estimate": 18.2
+      },
+      {
+        "id": "v004",
+        "type": "long_form",
+        "title": "I Gave Away My YouTube Channel",
+        "published_at": "2026-03-10",
+        "views": 72600000,
+        "likes": 4410000,
+        "comments": 298000,
+        "duration_seconds": 738,
+        "tags": [
+          "giveaway",
+          "youtube",
+          "crazy"
+        ],
+        "thumbnail_ctr_estimate": 11.9
+      },
+      {
+        "id": "v005",
+        "type": "long_form",
+        "title": "Extreme Hide And Seek In A Skyscraper",
+        "published_at": "2026-03-07",
+        "views": 203500000,
+        "likes": 11500000,
+        "comments": 823000,
+        "duration_seconds": 1302,
+        "tags": [
+          "hideandseek",
+          "extreme",
+          "skyscraper",
+          "challenge"
+        ],
+        "thumbnail_ctr_estimate": 19.6
+      },
+      {
+        "id": "v006",
+        "type": "long_form",
+        "title": "We Built A Real Working Submarine",
+        "published_at": "2026-03-03",
+        "views": 91300000,
+        "likes": 5200000,
+        "comments": 367000,
+        "duration_seconds": 1640,
+        "tags": [
+          "build",
+          "submarine",
+          "engineering"
+        ],
+        "thumbnail_ctr_estimate": 13.7
+      },
+      {
+        "id": "v007",
+        "type": "long_form",
+        "title": "I Spent 7 Days In Solitary Confinement",
+        "published_at": "2026-02-28",
+        "views": 134000000,
+        "likes": 7800000,
+        "comments": 556000,
+        "duration_seconds": 1215,
+        "tags": [
+          "solitary",
+          "challenge",
+          "7days",
+          "mental"
+        ],
+        "thumbnail_ctr_estimate": 16.3
+      },
+      {
+        "id": "v008",
+        "type": "long_form",
+        "title": "Can 1,000 People Stop A Train?",
+        "published_at": "2026-02-24",
+        "views": 258900000,
+        "likes": 14200000,
+        "comments": 1040000,
+        "duration_seconds": 875,
+        "tags": [
+          "1000people",
+          "train",
+          "experiment",
+          "viral"
+        ],
+        "thumbnail_ctr_estimate": 22.1
+      },
+      {
+        "id": "v009",
+        "type": "long_form",
+        "title": "I Bought Everything In A Store",
+        "published_at": "2026-02-20",
+        "views": 112300000,
+        "likes": 6400000,
+        "comments": 421000,
+        "duration_seconds": 1089,
+        "tags": [
+          "money",
+          "store",
+          "buyingeverything"
+        ],
+        "thumbnail_ctr_estimate": 14.5
+      },
+      {
+        "id": "v010",
+        "type": "long_form",
+        "title": "$1 vs $1,000,000 Gaming Setup",
+        "published_at": "2026-02-17",
+        "views": 167800000,
+        "likes": 9100000,
+        "comments": 632000,
+        "duration_seconds": 892,
+        "tags": [
+          "gaming",
+          "setup",
+          "vs",
+          "money"
+        ],
+        "thumbnail_ctr_estimate": 17.3
+      },
+      {
+        "id": "v011",
+        "type": "long_form",
+        "title": "Last To Leave The Haunted House Wins $200,000",
+        "published_at": "2026-02-13",
+        "views": 195600000,
+        "likes": 10800000,
+        "comments": 789000,
+        "duration_seconds": 1340,
+        "tags": [
+          "haunted",
+          "lastto",
+          "challenge",
+          "scary"
+        ],
+        "thumbnail_ctr_estimate": 20.1
+      },
+      {
+        "id": "v012",
+        "type": "long_form",
+        "title": "We Survived 24 Hours On A Desert Island",
+        "published_at": "2026-02-09",
+        "views": 88700000,
+        "likes": 5050000,
+        "comments": 344000,
+        "duration_seconds": 1560,
+        "tags": [
+          "survival",
+          "desertisland",
+          "24hours"
+        ],
+        "thumbnail_ctr_estimate": 12.8
+      },
+      {
+        "id": "v013",
+        "type": "long_form",
+        "title": "I Gave 1,000 People $1,000 Each",
+        "published_at": "2026-02-05",
+        "views": 143200000,
+        "likes": 8900000,
+        "comments": 611000,
+        "duration_seconds": 1024,
+        "tags": [
+          "philanthropy",
+          "giveaway",
+          "money",
+          "1000people"
+        ],
+        "thumbnail_ctr_estimate": 16.7
+      },
+      {
+        "id": "v014",
+        "type": "long_form",
+        "title": "Extreme Obstacle Course For $1,000,000",
+        "published_at": "2026-02-01",
+        "views": 221000000,
+        "likes": 12300000,
+        "comments": 892000,
+        "duration_seconds": 1187,
+        "tags": [
+          "obstacle",
+          "extreme",
+          "million",
+          "challenge"
+        ],
+        "thumbnail_ctr_estimate": 21.4
+      },
+      {
+        "id": "v015",
+        "type": "long_form",
+        "title": "I Spent 50 Hours In The World's Largest Maze",
+        "published_at": "2026-01-28",
+        "views": 76400000,
+        "likes": 4320000,
+        "comments": 287000,
+        "duration_seconds": 1812,
+        "tags": [
+          "maze",
+          "50hours",
+          "worldslargest",
+          "challenge"
+        ],
+        "thumbnail_ctr_estimate": 11.2
+      },
+      {
+        "id": "v016",
+        "type": "long_form",
+        "title": "Can You Survive In This Glass Box For $500,000?",
+        "published_at": "2026-01-24",
+        "views": 189500000,
+        "likes": 10400000,
+        "comments": 768000,
+        "duration_seconds": 1256,
+        "tags": [
+          "glass",
+          "survive",
+          "challenge",
+          "500k"
+        ],
+        "thumbnail_ctr_estimate": 18.9
+      },
+      {
+        "id": "v017",
+        "type": "long_form",
+        "title": "We Rebuilt An Entire City For $10,000,000",
+        "published_at": "2026-01-20",
+        "views": 134600000,
+        "likes": 7700000,
+        "comments": 541000,
+        "duration_seconds": 2145,
+        "tags": [
+          "philanthropy",
+          "rebuild",
+          "city",
+          "10million"
+        ],
+        "thumbnail_ctr_estimate": 15.4
+      },
+      {
+        "id": "v018",
+        "type": "long_form",
+        "title": "I Ate Nothing But McDonald's For 30 Days",
+        "published_at": "2026-01-16",
+        "views": 98100000,
+        "likes": 5600000,
+        "comments": 389000,
+        "duration_seconds": 1123,
+        "tags": [
+          "mcdonalds",
+          "30days",
+          "food",
+          "challenge"
+        ],
+        "thumbnail_ctr_estimate": 13.9
+      },
+      {
+        "id": "v019",
+        "type": "long_form",
+        "title": "Last To Stop Running Wins $500,000",
+        "published_at": "2026-01-12",
+        "views": 175300000,
+        "likes": 9600000,
+        "comments": 697000,
+        "duration_seconds": 1398,
+        "tags": [
+          "lastto",
+          "running",
+          "challenge",
+          "500k"
+        ],
+        "thumbnail_ctr_estimate": 17.8
+      },
+      {
+        "id": "v020",
+        "type": "long_form",
+        "title": "I Trapped 100 People In A Room",
+        "published_at": "2026-01-08",
+        "views": 156700000,
+        "likes": 8700000,
+        "comments": 623000,
+        "duration_seconds": 1067,
+        "tags": [
+          "trapped",
+          "100people",
+          "challenge",
+          "experiment"
+        ],
+        "thumbnail_ctr_estimate": 19.2
+      }
+    ],
+    "shorts": [
+      {
+        "id": "s001",
+        "type": "shorts",
+        "title": "This Fish Can Breathe Air",
+        "published_at": "2026-03-23",
+        "views": 38200000,
+        "likes": 2100000,
+        "comments": 87000,
+        "duration_seconds": 58,
+        "tags": [
+          "shorts",
+          "facts",
+          "fish",
+          "viral"
+        ],
+        "thumbnail_ctr_estimate": null
+      },
+      {
+        "id": "s002",
+        "type": "shorts",
+        "title": "Would You Eat This For $10,000?",
+        "published_at": "2026-03-20",
+        "views": 51400000,
+        "likes": 3300000,
+        "comments": 124000,
+        "duration_seconds": 45,
+        "tags": [
+          "shorts",
+          "wouldyourather",
+          "money"
+        ],
+        "thumbnail_ctr_estimate": null
+      },
+      {
+        "id": "s003",
+        "type": "shorts",
+        "title": "I Found A Secret Room In My House",
+        "published_at": "2026-03-16",
+        "views": 44700000,
+        "likes": 2800000,
+        "comments": 103000,
+        "duration_seconds": 52,
+        "tags": [
+          "shorts",
+          "secretroom",
+          "mystery"
+        ],
+        "thumbnail_ctr_estimate": null
+      },
+      {
+        "id": "s004",
+        "type": "shorts",
+        "title": "Catching The World's Biggest Fish",
+        "published_at": "2026-03-12",
+        "views": 62800000,
+        "likes": 4100000,
+        "comments": 156000,
+        "duration_seconds": 60,
+        "tags": [
+          "shorts",
+          "fishing",
+          "worldrecord"
+        ],
+        "thumbnail_ctr_estimate": null
+      },
+      {
+        "id": "s005",
+        "type": "shorts",
+        "title": "He Won $1,000 In 10 Seconds",
+        "published_at": "2026-03-08",
+        "views": 79300000,
+        "likes": 5200000,
+        "comments": 198000,
+        "duration_seconds": 38,
+        "tags": [
+          "shorts",
+          "money",
+          "win",
+          "fast"
+        ],
+        "thumbnail_ctr_estimate": null
+      },
+      {
+        "id": "s006",
+        "type": "shorts",
+        "title": "The World's Fastest Reader Reads My Video Title",
+        "published_at": "2026-03-04",
+        "views": 47600000,
+        "likes": 2900000,
+        "comments": 112000,
+        "duration_seconds": 55,
+        "tags": [
+          "shorts",
+          "worldrecord",
+          "reading"
+        ],
+        "thumbnail_ctr_estimate": null
+      },
+      {
+        "id": "s007",
+        "type": "shorts",
+        "title": "We Put 1,000 Ping Pong Balls In A Car",
+        "published_at": "2026-02-28",
+        "views": 35400000,
+        "likes": 2200000,
+        "comments": 78000,
+        "duration_seconds": 60,
+        "tags": [
+          "shorts",
+          "pingpong",
+          "experiment"
+        ],
+        "thumbnail_ctr_estimate": null
+      },
+      {
+        "id": "s008",
+        "type": "shorts",
+        "title": "This Magnet Is Stronger Than You Think",
+        "published_at": "2026-02-23",
+        "views": 43100000,
+        "likes": 2600000,
+        "comments": 94000,
+        "duration_seconds": 47,
+        "tags": [
+          "shorts",
+          "magnet",
+          "science",
+          "viral"
+        ],
+        "thumbnail_ctr_estimate": null
+      },
+      {
+        "id": "s009",
+        "type": "shorts",
+        "title": "I Gave A Homeless Man $10,000",
+        "published_at": "2026-02-18",
+        "views": 94200000,
+        "likes": 6800000,
+        "comments": 287000,
+        "duration_seconds": 59,
+        "tags": [
+          "shorts",
+          "philanthropy",
+          "homeless",
+          "money"
+        ],
+        "thumbnail_ctr_estimate": null
+      },
+      {
+        "id": "s010",
+        "type": "shorts",
+        "title": "Can You Guess Which Cup Has The Ball? Win $500!",
+        "published_at": "2026-02-14",
+        "views": 58700000,
+        "likes": 3700000,
+        "comments": 143000,
+        "duration_seconds": 42,
+        "tags": [
+          "shorts",
+          "guessing",
+          "prize",
+          "game"
+        ],
+        "thumbnail_ctr_estimate": null
+      }
+    ],
+    "top_by_views": [
+      {
+        "rank": 1,
+        "title": "Can 1,000 People Stop A Train?",
+        "type": "long_form",
+        "published_at": "2026-02-24",
+        "views": 258900000
+      },
+      {
+        "rank": 2,
+        "title": "Extreme Obstacle Course For $1,000,000",
+        "type": "long_form",
+        "published_at": "2026-02-01",
+        "views": 221000000
+      },
+      {
+        "rank": 3,
+        "title": "Extreme Hide And Seek In A Skyscraper",
+        "type": "long_form",
+        "published_at": "2026-03-07",
+        "views": 203500000
+      },
+      {
+        "rank": 4,
+        "title": "Last To Leave The Haunted House Wins $200,000",
+        "type": "long_form",
+        "published_at": "2026-02-13",
+        "views": 195600000
+      },
+      {
+        "rank": 5,
+        "title": "Can You Survive In This Glass Box For $500,000?",
+        "type": "long_form",
+        "published_at": "2026-01-24",
+        "views": 189500000
+      },
+      {
+        "rank": 6,
+        "title": "Last To Leave The Circle Wins $500,000",
+        "type": "long_form",
+        "published_at": "2026-03-14",
+        "views": 187200000
+      },
+      {
+        "rank": 7,
+        "title": "Last To Stop Running Wins $500,000",
+        "type": "long_form",
+        "published_at": "2026-01-12",
+        "views": 175300000
+      },
+      {
+        "rank": 8,
+        "title": "$1 vs $1,000,000 Gaming Setup",
+        "type": "long_form",
+        "published_at": "2026-02-17",
+        "views": 167800000
+      },
+      {
+        "rank": 9,
+        "title": "I Trapped 100 People In A Room",
+        "type": "long_form",
+        "published_at": "2026-01-08",
+        "views": 156700000
+      },
+      {
+        "rank": 10,
+        "title": "$1 vs $1,000,000 Island Vacation",
+        "type": "long_form",
+        "published_at": "2026-03-18",
+        "views": 145700000
+      }
+    ],
+    "top_by_engagement": [
+      {
+        "rank": 1,
+        "title": "I Gave A Homeless Man $10,000",
+        "type": "shorts",
+        "published_at": "2026-02-18",
+        "engagement_rate": 7.22
+      },
+      {
+        "rank": 2,
+        "title": "He Won $1,000 In 10 Seconds",
+        "type": "shorts",
+        "published_at": "2026-03-08",
+        "engagement_rate": 6.56
+      },
+      {
+        "rank": 3,
+        "title": "Catching The World's Biggest Fish",
+        "type": "shorts",
+        "published_at": "2026-03-12",
+        "engagement_rate": 6.53
+      },
+      {
+        "rank": 4,
+        "title": "Would You Eat This For $10,000?",
+        "type": "shorts",
+        "published_at": "2026-03-20",
+        "engagement_rate": 6.42
+      },
+      {
+        "rank": 5,
+        "title": "Can You Guess Which Cup Has The Ball? Win $500!",
+        "type": "shorts",
+        "published_at": "2026-02-14",
+        "engagement_rate": 6.3
+      },
+      {
+        "rank": 6,
+        "title": "I Found A Secret Room In My House",
+        "type": "shorts",
+        "published_at": "2026-03-16",
+        "engagement_rate": 6.26
+      },
+      {
+        "rank": 7,
+        "title": "I Gave 1,000 People $1,000 Each",
+        "type": "long_form",
+        "published_at": "2026-02-05",
+        "engagement_rate": 6.22
+      },
+      {
+        "rank": 8,
+        "title": "We Put 1,000 Ping Pong Balls In A Car",
+        "type": "shorts",
+        "published_at": "2026-02-28",
+        "engagement_rate": 6.21
+      },
+      {
+        "rank": 9,
+        "title": "The World's Fastest Reader Reads My Video Title",
+        "type": "shorts",
+        "published_at": "2026-03-04",
+        "engagement_rate": 6.09
+      },
+      {
+        "rank": 10,
+        "title": "I Gave Away My YouTube Channel",
+        "type": "long_form",
+        "published_at": "2026-03-10",
+        "engagement_rate": 6.07
+      }
+    ],
+    "top_by_ctr": [
+      {
+        "rank": 1,
+        "title": "I Gave 1,000 People $1,000 Each",
+        "type": "long_form",
+        "published_at": "2026-02-05",
+        "ctr": 6.22
+      },
+      {
+        "rank": 2,
+        "title": "Extreme Hide And Seek In A Skyscraper",
+        "type": "long_form",
+        "published_at": "2026-03-07",
+        "ctr": 5.65
+      },
+      {
+        "rank": 3,
+        "title": "Extreme Obstacle Course For $1,000,000",
+        "type": "long_form",
+        "published_at": "2026-02-01",
+        "ctr": 5.57
+      },
+      {
+        "rank": 4,
+        "title": "I Trapped 100 People In A Room",
+        "type": "long_form",
+        "published_at": "2026-01-08",
+        "ctr": 5.55
+      },
+      {
+        "rank": 5,
+        "title": "Last To Leave The Haunted House Wins $200,000",
+        "type": "long_form",
+        "published_at": "2026-02-13",
+        "ctr": 5.52
+      },
+      {
+        "rank": 6,
+        "title": "Can You Survive In This Glass Box For $500,000?",
+        "type": "long_form",
+        "published_at": "2026-01-24",
+        "ctr": 5.49
+      },
+      {
+        "rank": 7,
+        "title": "Can 1,000 People Stop A Train?",
+        "type": "long_form",
+        "published_at": "2026-02-24",
+        "ctr": 5.48
+      },
+      {
+        "rank": 8,
+        "title": "Last To Stop Running Wins $500,000",
+        "type": "long_form",
+        "published_at": "2026-01-12",
+        "ctr": 5.48
+      },
+      {
+        "rank": 9,
+        "title": "$1 vs $1,000,000 Gaming Setup",
+        "type": "long_form",
+        "published_at": "2026-02-17",
+        "ctr": 5.42
+      },
+      {
+        "rank": 10,
+        "title": "Last To Leave The Circle Wins $500,000",
+        "type": "long_form",
+        "published_at": "2026-03-14",
+        "ctr": 5.4
+      }
+    ]
+  },
+  "agent_2_pattern_analysis": {
+    "channel": "@MrBeast",
+    "dataset": "Last 30 Videos",
+    "analysis_date": "2025",
+    "dominant_pattern": "number_hook — Found in 21 of 30 titles (70%). MrBeast overwhelmingly anchors his titles with specific numbers, whether dollar amounts ($1 vs $1,000,000), time durations (100 Days, 50 Hours), or quantity counts (1,000 People). Numbers create instant cognitive anchors that make the scale of each video tangible and clickable.",
+    "structural_patterns": {
+      "number_hook": {
+        "count": 21,
+        "pct_of_titles": "70%",
+        "description": "Titles featuring at least one specific number (dollar amounts, quantities, durations).",
+        "examples": [
+          "I Survived 100 Days in a Bunker",
+          "$1 vs $1,000,000 Island Vacation",
+          "I Gave 1,000 People $1,000 Each"
+        ]
+      },
+      "money_hook": {
+        "count": 15,
+        "pct_of_titles": "50%",
+        "description": "Titles that prominently feature a dollar amount as the central stake or reward.",
+        "examples": [
+          "$1 vs $1,000,000 Island Vacation",
+          "Last To Leave The Circle Wins $500,000",
+          "We Rebuilt An Entire City For $10,000,000"
+        ]
+      },
+      "personal_story": {
+        "count": 14,
+        "pct_of_titles": "46.7%",
+        "description": "First-person 'I' or 'We' framing that places the creator at the center of the action.",
+        "examples": [
+          "I Survived 100 Days in a Bunker",
+          "I Gave Away My YouTube Channel",
+          "I Bought Everything In A Store"
+        ]
+      },
+      "survival_challenge": {
+        "count": 8,
+        "pct_of_titles": "26.7%",
+        "description": "Endurance or elimination-style framing (Survived, Last To Leave, Trapped).",
+        "examples": [
+          "I Survived 100 Days in a Bunker",
+          "Last To Leave The Circle Wins $500,000",
+          "Last To Leave The Haunted House Wins $200,000"
+        ]
+      },
+      "superlative": {
+        "count": 7,
+        "pct_of_titles": "23.3%",
+        "description": "Uses extreme/world-record language (Extreme, World's Largest, Biggest, Fastest).",
+        "examples": [
+          "Extreme Hide And Seek In A Skyscraper",
+          "I Spent 50 Hours In The World's Largest Maze",
+          "Catching The World's Biggest Fish"
+        ]
+      },
+      "time_frame": {
+        "count": 5,
+        "pct_of_titles": "16.7%",
+        "description": "Specifies a concrete time constraint (Days, Hours, Seconds) to add urgency.",
+        "examples": [
+          "I Survived 100 Days in a Bunker",
+          "I Spent 7 Days In Solitary Confinement",
+          "We Survived 24 Hours On A Desert Island"
+        ]
+      },
+      "question_hook": {
+        "count": 4,
+        "pct_of_titles": "13.3%",
+        "description": "Titles posed as questions to create direct curiosity gaps.",
+        "examples": [
+          "Can 1,000 People Stop A Train?",
+          "Can You Survive In This Glass Box For $500,000?",
+          "Would You Eat This For $10,000?"
+        ]
+      },
+      "vs_comparison": {
+        "count": 2,
+        "pct_of_titles": "6.7%",
+        "description": "Direct low-vs-high price comparison framing.",
+        "examples": [
+          "$1 vs $1,000,000 Island Vacation",
+          "$1 vs $1,000,000 Gaming Setup"
+        ]
+      }
+    },
+    "top_power_words": [
+      "last",
+      "vs",
+      "extreme",
+      "win/wins",
+      "survive/survived",
+      "real",
+      "largest",
+      "secret",
+      "biggest",
+      "fastest"
+    ],
+    "performance_by_length": {
+      "long_form": {
+        "total_videos": 20,
+        "total_views": "2,950,800,000",
+        "avg_title_word_count": 6.8,
+        "short_titles_1_to_6_words": {
+          "count": 9,
+          "avg_views": "154,233,333",
+          "avg_likes": "8,704,444"
+        },
+        "long_titles_7_plus_words": {
+          "count": 11,
+          "avg_views": "142,063,636",
+          "avg_likes": "7,980,909"
+        },
+        "titles_with_numbers_avg_views": "154,443,750",
+        "titles_without_numbers_avg_views": "119,925,000",
+        "number_boost": "+28.8% more views when numbers are present"
+      },
+      "shorts": {
+        "total_videos": 10,
+        "total_views": "555,400,000",
+        "avg_title_word_count": 7.0,
+        "short_titles_1_to_6_words": {
+          "count": 5,
+          "avg_views": "65,180,000",
+          "avg_likes": "4,300,000"
+        },
+        "long_titles_7_plus_words": {
+          "count": 5,
+          "avg_views": "45,900,000",
+          "avg_likes": "2,840,000"
+        },
+        "titles_with_numbers_avg_views": "63,800,000",
+        "titles_without_numbers_avg_views": "47,280,000",
+        "number_boost": "+34.9% more views when numbers are present"
+      },
+      "cross_format_insight": "Shorter titles (≤6 words) outperform longer titles by ~8% on long-form and a massive ~42% on Shorts. Brevity is especially critical for Shorts."
+    },
+    "key_insights": [
+      "💰 MONEY IS THE #1 HOOK: 50% of all titles feature a dollar amount. Money creates instant, universally understood stakes. Titles with monetary figures averaged 28–35% more views than those without.",
+      "🔢 NUMBERS DOMINATE: 70% of titles include at least one number. Whether it's dollars ($1,000,000), time (100 Days), or scale (1,000 People), numbers make abstract concepts concrete and scannable — the single most consistent pattern across MrBeast's catalog.",
+      "🧍 FIRST-PERSON FRAMING IS KEY: Nearly half of all titles (46.7%) start with 'I' or 'We', making MrBeast the protagonist of every story. This personal stake transforms a challenge description into a narrative viewers feel compelled to follow.",
+      "✂️ SHORTER TITLES WIN — ESPECIALLY FOR SHORTS: Titles with ≤6 words averaged 154M views (long-form) and 65M views (Shorts) vs. 142M and 46M for longer titles. The optimal sweet spot is 5–7 words for long-form and ≤6 words for Shorts.",
+      "🧪 THE WINNING FORMULA IS A COMBO: The highest-performing titles layer 2–3 patterns together. The 'golden stack' is: Personal Story + Number Hook + Money Hook (e.g., 'I Gave 1,000 People $1,000 Each'). Combination titles outperform single-pattern titles."
+    ],
+    "pattern_score": {
+      "number_hook": {
+        "effectiveness": 10,
+        "rationale": "Present in 70% of titles; +29–35% view lift over non-number titles. The backbone of every MrBeast title."
+      },
+      "money_hook": {
+        "effectiveness": 10,
+        "rationale": "Appears in 50% of titles and drives the highest absolute view counts. Dollar signs are the ultimate scroll-stopper."
+      },
+      "personal_story": {
+        "effectiveness": 9,
+        "rationale": "First-person framing in 47% of titles creates emotional investment and narrative pull. Nearly always paired with another hook."
+      },
+      "survival_challenge": {
+        "effectiveness": 8,
+        "rationale": "'Last To Leave' and 'I Survived' titles are proven tentpole formats with built-in tension and watch-time retention."
+      },
+      "superlative": {
+        "effectiveness": 7,
+        "rationale": "Words like 'Extreme', 'World's Largest', 'Biggest' amplify stakes but are less effective alone — best as a modifier."
+      },
+      "time_frame": {
+        "effectiveness": 7,
+        "rationale": "Concrete durations (24 Hours, 30 Days, 50 Hours) add urgency and set viewer expectations. Strong supporting pattern."
+      },
+      "question_hook": {
+        "effectiveness": 6,
+        "rationale": "Creates curiosity gaps ('Can 1,000 People Stop A Train?') but used sparingly (13%). More effective for Shorts where quick intrigue drives taps."
+      },
+      "vs_comparison": {
+        "effectiveness": 8,
+        "rationale": "Only 2 titles but the '$1 vs $1,000,000' format is one of MrBeast's signature viral formulas. Extreme contrast ratio is instantly compelling."
+      }
+    },
+    "summary": "MrBeast's title strategy is built on a remarkably consistent formula: short, punchy titles (5–7 words) that combine first-person narrative framing with specific numbers — especially large dollar amounts. 70% of titles use number hooks, 50% feature money, and 47% use 'I/We' personal framing. The highest performers stack 2–3 of these patterns together. Titles with numbers outperform those without by 29–35%. For creators looking to replicate this approach, the playbook is: lead with 'I' or 'We', include a specific number or dollar amount, keep it under 7 words, and frame it as a challenge, survival scenario, or extreme comparison."
+  },
+  "agent_3_recommendations": {
+    "executive_summary": "MrBeast's last 30 videos have accumulated 3.51 billion views with a strong 5.76% engagement rate, confirming his position as YouTube's most dominant creator. The number_hook title pattern (present in 70% of titles, delivering a +29–35% view lift) is the undisputed engine of his strategy, with social_experiment and challenge formats producing the highest average views (201M and 190M respectively). Current viral momentum is exceptionally strong — the top 3 videos are averaging 37M+ views/day — and the data points to an immediate opportunity to scale under-utilized high-ROI formats like social_experiment and vs_comparison.",
+    "momentum_leaders": [
+      {
+        "rank": 1,
+        "video_id": "v001",
+        "title": "I Survived 100 Days in a Bunker",
+        "views_per_day": 49200000,
+        "momentum": "[VIRAL]",
+        "days_live": 2,
+        "patterns_used": [
+          "number_hook",
+          "personal_story",
+          "survival_challenge",
+          "time_frame"
+        ]
+      },
+      {
+        "rank": 2,
+        "video_id": "s001",
+        "title": "This Fish Can Breathe Air",
+        "views_per_day": 38200000,
+        "momentum": "[VIRAL]",
+        "days_live": 1,
+        "patterns_used": [
+          "curiosity_hook"
+        ]
+      },
+      {
+        "rank": 3,
+        "video_id": "v002",
+        "title": "$1 vs $1,000,000 Island Vacation",
+        "views_per_day": 24283333,
+        "momentum": "[VIRAL]",
+        "days_live": 6,
+        "patterns_used": [
+          "number_hook",
+          "money_hook",
+          "vs_comparison"
+        ]
+      }
+    ],
+    "recommended_title_templates": [
+      "I Gave {number} People ${amount} Each",
+      "{number} People Try To {action} — Only 1 Wins",
+      "$1 vs ${amount} {item}",
+      "Can {number} People {action}?",
+      "I Survived {number} Days In {place}",
+      "I Spent ${amount} On {extreme_thing}",
+      "Last To {action} Wins ${amount}",
+      "{number} People vs {impossible_challenge}",
+      "I {action} For {number} Days Straight",
+      "We Gave ${amount} To {number} Strangers"
+    ],
+    "content_strategy": {
+      "channel": "@MrBeast",
+      "planning_horizon": "next_30_days",
+      "recommended_upload_schedule": {
+        "long_form_videos": 8,
+        "shorts": 12,
+        "total": 20,
+        "cadence": "~2–3 long-form + 3 Shorts per week"
+      },
+      "format_mix_recommendation": {
+        "social_experiment": {
+          "target_videos": 2,
+          "rationale": "Highest avg views (201M) but only 2 of last 30. Massively under-utilized. Scale immediately.",
+          "example": "Can 10,000 People Build A House In 24 Hours?"
+        },
+        "challenge": {
+          "target_videos": 3,
+          "rationale": "Proven workhorse format (190M avg, 7 of 30 videos). Maintain as the backbone of uploads.",
+          "example": "Last To Leave The Volcano Wins $1,000,000"
+        },
+        "vs_comparison": {
+          "target_videos": 2,
+          "rationale": "157M avg with only 2 videos. The '$1 vs $1M' format is a signature viral lever — deploy more frequently.",
+          "example": "$1 vs $1,000,000 House"
+        },
+        "survival_endurance": {
+          "target_videos": 1,
+          "rationale": "#1 momentum video is survival format (49.2M views/day). Trending upward sharply."
+        },
+        "shorts": {
+          "target_videos": 12,
+          "rationale": "Highest engagement rate (6.43%). Use as audience-building and algorithm-feeding content. Keep titles ≤6 words with number hooks."
+        }
+      },
+      "title_optimization_rules": [
+        "Lead every title with a number or dollar amount — 70% success rate, +29–35% view lift",
+        "Keep titles to 5–7 words for long-form, ≤6 words for Shorts",
+        "Use personal framing ('I', 'We') in at least 50% of titles",
+        "Stack 2–3 patterns per title (golden stack: Personal + Number + Money)",
+        "Include power words: 'Survived', 'Wins', 'vs', 'Extreme', 'Last'",
+        "Keep under 60 characters for full mobile display"
+      ],
+      "thumbnail_tips": [
+        "Extreme facial expression (shock/joy) drives highest CTR",
+        "High-contrast colors (red, yellow) outperform muted palettes",
+        "Show a clear visual representation of the challenge/prize",
+        "Limit text overlay to 3–4 words max"
+      ],
+      "trend_signals_to_watch": [
+        "AI-generated challenges (new and rising)",
+        "Ultra-luxury vs ultra-budget comparisons",
+        "Philanthropy + challenge hybrid formats",
+        "Cross-creator collaborations at scale"
+      ]
+    },
+    "top_3_actionable_tips": [
+      "🚀 DOUBLE DOWN ON SOCIAL EXPERIMENTS: With 201M avg views from only 2 videos, social_experiment is the most under-leveraged format. Produce at least 2 more in the next 30 days — combine with money hooks (e.g., 'I Gave 10,000 Strangers $100 Each') for maximum impact.",
+      "📐 APPLY THE GOLDEN STACK TO EVERY TITLE: Layer Personal Story + Number Hook + Money Hook in every long-form title. Titles using this 3-pattern combo (e.g., 'I Gave 1,000 People $1,000 Each') consistently outperform single-pattern titles. Aim for 5–7 words max.",
+      "⚡ EXPLOIT THE SURVIVAL MOMENTUM SPIKE: 'I Survived 100 Days in a Bunker' is pulling 49.2M views/day — the highest velocity of any video. Release a follow-up survival video within 2 weeks to ride the algorithmic tailwind while audience appetite is at its peak."
+    ],
+    "trend_forecast_30d": "Expect continued viral momentum driven by the survival and social experiment formats, which are currently outperforming historical averages by 30–40%. The '$1 vs $1M' comparison format is primed for a breakout cycle — the Island Vacation video (24.3M views/day at day 6) suggests audience appetite for extreme-contrast content is surging. Shorts will continue to over-index on engagement rate (6.43%) and serve as top-of-funnel discovery tools. The biggest risk is format fatigue on 'Last To Leave' challenges (7 of 30 videos); diversifying into social experiments and build projects will sustain growth. Overall channel trajectory: 3.5B+ views achievable again in the next 30-day window if the survival momentum and vs_comparison cadence increase. Watch for AI-themed content and cross-creator mega-collabs as emerging trend accelerators.",
+    "overall_health_score": 94,
+    "best_performing_formats": [
+      "social_experiment: 201M avg views (highest ROI, most under-utilized)",
+      "challenge: 190M avg views (proven workhorse, 7 videos)",
+      "vs_comparison: 157M avg views (signature viral format, only 2 videos)",
+      "philanthropy_giveaway: 116M avg views (strong mid-tier, high sentiment)",
+      "build_project: 113M avg views (solid performer, high production value)",
+      "survival: 99M avg views (rising momentum — #1 trending video)",
+      "food_challenge: 98M avg views (niche but consistent)",
+      "shorts: 55.5M avg views (highest engagement rate at 6.43%)"
+    ],
+    "current_trends": [
+      "📈 SURVIVAL FORMAT SURGE: 'I Survived 100 Days in a Bunker' is the #1 momentum video at 49.2M views/day — survival content is experiencing a major upswing despite historically lower averages.",
+      "💰 MONEY HOOKS REMAIN DOMINANT: 50% of titles feature dollar amounts, and they average 28–35% more views. The '$1 vs $1M' format is especially hot (24.3M views/day for Island Vacation).",
+      "⚡ SHORTS ARE ENGAGEMENT KINGS: Shorts deliver the highest engagement rate (6.43%) across all formats. 'This Fish Can Breathe Air' hit 38.2M views/day — proving curiosity-driven Shorts can rival long-form velocity.",
+      "🧪 SOCIAL EXPERIMENTS ARE MASSIVELY UNDER-UTILIZED: Only 2 social experiment videos in the last 30, yet they average 201M views — the highest of any format. This is the single biggest growth opportunity.",
+      "📏 BREVITY IS WINNING: Titles with ≤6 words outperform longer titles by 8% on long-form and 42% on Shorts. The trend is toward even more concise, scannable titles.",
+      "🔢 THE NUMBER HOOK IS NON-NEGOTIABLE: Present in 70% of all titles with a proven 29–35% view lift. Numbers are the backbone of every successful MrBeast title and this pattern shows zero signs of declining."
+    ],
+    "apply_to_your_videos": [
+      "1️⃣ PUT A NUMBER IN EVERY TITLE: Whether it's dollars ($500), time (24 Hours), or scale (1,000 People), include at least one specific number. This single change can boost views by 29–35% based on MrBeast's data.",
+      "2️⃣ USE THE 'GOLDEN STACK' FORMULA: Combine 2–3 patterns in every title — start with 'I' or 'We' (personal), add a number, and include a dollar amount or challenge stakes. Example: 'I Challenged 100 People To Win $10,000'.",
+      "3️⃣ CUT YOUR TITLES TO 5–7 WORDS: Audit your last 10 titles — if any exceed 7 words, rewrite them shorter. For Shorts, cap at 6 words maximum. Brevity = scannability = clicks.",
+      "4️⃣ TEST SOCIAL EXPERIMENT FORMATS IMMEDIATELY: Frame your next video as a social experiment with clear stakes ('Can 50 Strangers Agree On One Thing?'). This format delivers the highest views per video in MrBeast's catalog.",
+      "5️⃣ CREATE A '$1 vs $X' VIDEO IN YOUR NICHE: Adapt the vs_comparison format to your niche (e.g., '$1 vs $1,000 Camera', '$1 vs $500 Meal'). The extreme contrast ratio is one of YouTube's most proven viral formulas.",
+      "6️⃣ FRONT-LOAD POWER WORDS: Use 'Survived', 'Wins', 'vs', 'Extreme', 'Last', 'Secret', 'Biggest' in the first 3 words of your title. These are MrBeast's top-performing scroll-stoppers.",
+      "7️⃣ POST 3 SHORTS FOR EVERY LONG-FORM VIDEO: Use Shorts as discovery fuel (highest engagement rate at 6.43%). Keep them curiosity-driven or money-hooked, always ≤6 words in the title, and publish within 24 hours of your long-form upload to maximize algorithmic momentum."
+    ]
+  }
+}
