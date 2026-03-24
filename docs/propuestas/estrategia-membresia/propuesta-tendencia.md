@@ -25,6 +25,20 @@ Ejecuciones:
 
 ## Resultado cosas que aplicar a videos
 
+- 1️⃣ INCLUYE UN NÚMERO EN CADA TÍTULO: Ya sean dólares ($500), tiempo (24 horas) o escala (1000 personas), incluye al menos un número específico. Este simple cambio puede aumentar las visualizaciones entre un 29 % y un 35 %, según datos de MrBeast.
+
+- 2️⃣ USA LA FÓRMULA «GOLDEN STACK»: Combina 2 o 3 patrones en cada título: empieza con «Yo» o «Nosotros» (personal), añade un número e incluye una cantidad en dólares o el premio del reto. Ejemplo: «Reté a 100 personas a ganar $10 000».
+
+- 3️⃣ RESTRICCIONA TUS TÍTULOS A 5-7 PALABRAS: Revisa tus últimos 10 títulos; si alguno supera las 7 palabras, reescríbelo más corto. Para los títulos cortos, el límite es de 6 palabras. Brevedad = facilidad de escaneo = clics.
+- 4️⃣ PRUEBA INMEDIATAMENTE LOS FORMATOS DE EXPERIMENTOS SOCIALES: Presenta tu próximo video como un experimento social con objetivos claros («¿Pueden 50 desconocidos ponerse de acuerdo en algo?»). Este formato ofrece la mayor cantidad de visualizaciones por video en el catálogo de MrBeast.
+
+- 5️⃣ CREA UN VIDEO DE «$1 vs $X» EN TU NICHO: Adapta el formato de comparación a tu nicho (por ejemplo, «Cámara de $1 vs $1000», «Comida de $1 vs $500»). El contraste extremo es una de las fórmulas virales más efectivas de YouTube.
+
+- 6️⃣ USA PALABRAS CLAVE AL PRINCIPIO: Utiliza «Sobrevivió», «Gana», «vs», «Extremo», «Último», «Secreto», «El más grande» en las primeras tres palabras de tu título. Estos son los vídeos más populares de MrBeast que captan la atención del usuario.
+
+- 7️⃣ PUBLICA 3 VÍDEOS CORTOS POR CADA VÍDEO LARGO: Usa los vídeos cortos para impulsar el descubrimiento (la tasa de interacción más alta es del 6,43 %). Mantenlos enfocados en la curiosidad o en el interés económico, con un título de ≤6 palabras, y publícalos dentro de las 24 horas posteriores a la subida de tu vídeo largo para maximizar su posicionamiento algorítmico.
+
+```bash
 - 1️⃣ PUT A NUMBER IN EVERY TITLE: Whether it's dollars ($500), time (24 Hours), or scale (1,000 People), include at least one specific number. This single change can boost views by 29–35% based on MrBeast's data.
 - 2️⃣ USE THE 'GOLDEN STACK' FORMULA: Combine 2–3 patterns in every title — start with 'I' or 'We' (personal), add a number, and include a dollar amount or challenge stakes. Example: 'I Challenged 100 People To Win $10,000'.
 - 3️⃣ CUT YOUR TITLES TO 5–7 WORDS: Audit your last 10 titles — if any exceed 7 words, rewrite them shorter. For Shorts, cap at 6 words maximum. Brevity = scannability = clicks.,
@@ -32,6 +46,7 @@ Ejecuciones:
 - 5️⃣ CREATE A '$1 vs $X' VIDEO IN YOUR NICHE: Adapt the vs_comparison format to your niche (e.g., '$1 vs $1,000 Camera', '$1 vs $500 Meal'). The extreme contrast ratio is one of YouTube's most proven viral formulas.
 - 6️⃣ FRONT-LOAD POWER WORDS: Use 'Survived', 'Wins', 'vs', 'Extreme', 'Last', 'Secret', 'Biggest' in the first 3 words of your title. These are MrBeast's top-performing scroll-stoppers.
 - 7️⃣ POST 3 SHORTS FOR EVERY LONG-FORM VIDEO: Use Shorts as discovery fuel (highest engagement rate at 6.43%). Keep them curiosity-driven or money-hooked, always ≤6 words in the title, and publish within 24 hours of your long-form upload to maximize algorithmic momentum.
+```
  
 Ejecución:
 
