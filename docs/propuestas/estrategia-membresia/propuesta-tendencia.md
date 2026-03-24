@@ -4,8 +4,8 @@
 
 - A solicitud de la Maestra Patricia Plata se investigaron tendencias y acciones para mejorar en redes sociales
 - La inversión de la investigación fue de unos 100 dolares
-- Se hizo una investigación con agentes IA [Claude Code](https://claude.com/pricing) de marketing de cuenta de youtber muy visto @MrBeast
-- Se hizo una estudio con [X(Twitter)](https://developer.x.com/) para ver las tendencias en los jóvenes(se invirtieron 20 dolares)
+- Se hizo una investigación con agentes IA [Claude Code](https://claude.com/pricing) de marketing de cuenta de youtber muy visto @MrBeast con el lenguaje de programación [Python](https://www.python.org/)
+- Se hizo una estudio con la API [X(Twitter)](https://developer.x.com/) para ver las tendencias en los jóvenes(se invirtieron 20 dolares) con el lenguaje de programación [Python](https://www.python.org/)
 - Se hicieron algunas entrevista a profesores de Bachillerato para ver tendencias en los jóvenes
 
 
