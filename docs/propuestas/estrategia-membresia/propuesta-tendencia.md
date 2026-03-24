@@ -56,9 +56,9 @@ Ejecuciones:
 Lo que los profesores comentaron:
 
 Ejecuciones: 
-- [Vídeo 1](videos/ejecucion1.mp4)
+- Vídeo 1
 
-- [Vídeo 2](videos/ejecucion2.mp4)
+- Vídeo 2
 
 ## Conclusiones
 
