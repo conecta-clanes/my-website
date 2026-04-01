@@ -1,4 +1,4 @@
-#  🔥 Analisis Tendencia en los jóvenes
+#  🔥 Análisis Tendencia en los jóvenes
 
 ## Introducción
 
@@ -76,14 +76,27 @@ Ejecución:
 
 ```
 
-## Resultado Profesores 
+## Entrevistas a Profesores 
 
-Lo que los profesores comentaron:
+Entrevista al profesor Julio Castillo
 
-Ejecuciones: 
-- Vídeo 1
+```bash
+Mi nombre es Julio Castillo, 
+docente del CCH Azcapotzalco, UNAM, 
+con nombramiento de Técnico Académico Titular A. Trabajo con alumnos de 2° y 6° semestre.
+Intereses de los jóvenes en 2026, actualmente, los estudiantes muestran una clara preferencia por:
+- Contenido en formato breve, especialmente videos cortos (tipo reels o TikTok).
+- Videojuegos, no solo como entretenimiento, sino también como espacios de interacción social y aprendizaje.
+Información rápida y accesible, que puedan consumir de manera inmediata y práctica.
+Estos intereses reflejan una tendencia hacia la inmediatez, la interactividad y lo visual como formas principales de aprendizaje y comunicación.
+```
 
-- Vídeo 2
+Entrevista al profesor Francisco
+
+```bash
+Mi nombre es
+```
+
 
 ## Conclusiones
 
@@ -107,3 +120,4 @@ por lo que se requiren incentivos a corto plazo como los que proporcionan los vi
 
 #### Agradecimientos
 - Mtra. Patricia Plata
+- Dr. Julio Castillo Cañedo
