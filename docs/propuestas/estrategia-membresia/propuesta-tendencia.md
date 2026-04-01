@@ -89,7 +89,8 @@ Intereses de los jóvenes en 2026, actualmente, los estudiantes muestran una cla
 - Videojuegos, no solo como entretenimiento, sino también como espacios de interacción social y aprendizaje.
 - Información rápida y accesible, que puedan consumir de manera inmediata y práctica.
 
-Estos intereses reflejan una tendencia hacia la inmediatez, la interactividad y lo visual como formas principales de aprendizaje y comunicación.
+Estos intereses reflejan una tendencia hacia la inmediatez, la interactividad 
+y lo visual como formas principales de aprendizaje y comunicación.
 ```
 
 Entrevista al profesor Francisco
