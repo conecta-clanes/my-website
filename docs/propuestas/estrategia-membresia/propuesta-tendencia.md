@@ -93,10 +93,23 @@ Estos intereses reflejan una tendencia hacia la inmediatez, la interactividad
 y lo visual como formas principales de aprendizaje y comunicación.
 ```
 
-Entrevista al profesor Francisco
+Entrevista al profesor Francisco López
+
 
 ```bash
-Mi nombre es
+Hola, mi nombre es Francisco López García. Estudié la licenciatura en administración de empresas
+ y tengo una maestría en educación. Tengo 28 años frente a grupo 
+ y los últimos 11 años he trabajado en preparatoria. Actualmente imparto clases en UNITEC Campus Sur 
+ y en CEFARHU Iztacalco con chicos de entre 15 y 18 años de los primeros cuatro cuatrimestres de su bachillerato.
+Observo en los jóvenes una muy fuerte disminución de sus habilidades socioafectivas, 
+llegando incluso al punto de mostrar crisis de ansiedad cuando deben trabajar en equipo 
+o hay algún elemento de competitividad. Pienso que esto es debido en gran parte a los dos años de aislamiento 
+por la pandemia en un momento crucial de su desarrollo al inicio de adolescencia.
+En cuanto al manejo de medios electrónicos de comunicación y redes sociales es muy frecuente que opten 
+por tik tok o historias y reels de Instagram como medio de socialización.
+Es muy interesante ver cómo al llevar a cabo actividades lúdicas al exterior del aula se muestran 
+muy sorprendidos con el contacto con la naturaleza y la interacción con sus compañeros. 
+Creo que este tipo de actividades son de gran valor para su formación integral.
 ```
 
 
@@ -122,4 +135,5 @@ por lo que se requiren incentivos a corto plazo como los que proporcionan los vi
 
 #### Agradecimientos
 - Mtra. Patricia Plata
-- Dr. Julio Castillo Cañedo
+- Doc. Julio Castillo Cañedo
+- Mtro. Francisco López
