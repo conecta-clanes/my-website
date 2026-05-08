@@ -15,8 +15,9 @@ Los intereses de los jóvenes son
 
 - Tiktok(vídeos cortos)
 - Videojuegos
-- K-pop
+- K-pop (música)
 - Youtube
+- Animés
 
 Ejecuciones: 
 - [Ejecución 1](ejecucionesX/ejecucion1.md)
