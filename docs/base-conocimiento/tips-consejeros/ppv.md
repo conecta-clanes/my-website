@@ -408,6 +408,10 @@ classDiagram
 ⭐ Pueden estar enfocados a distintos Ejes Temáticos
 
 
+##### Propuesta de PPV interactivo
+
+[Plantilla de PPV Inteactivo](img/ppv.png)
+
 ##### Redactora/Autora
 
 - Yolanda Castillo
