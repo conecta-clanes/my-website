@@ -410,6 +410,8 @@ classDiagram
 
 ##### Propuesta de PPV interactivo
 
+Para hacer más atractivo que los Rovers llenen su PPV creamos una plantilla interactiva con ![HTML5](https://es.wikipedia.org/wiki/HTML5)
+
 [Plantilla de PPV Inteactivo](img/ppv.png)
 
 ##### Redactora/Autora
