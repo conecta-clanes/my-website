@@ -159,7 +159,7 @@ flowchart TD
 - **Simultáneo**: rutas, especialidades e iniciativas se trabajan en paralelo
 - **Duración**: 6 a 9 meses por etapa/proyecto
 - **Registro**: todo avance se registra en **SISAS**
-```
+
 
 #### Herramientas usadas para generar los diargramas
 
@@ -170,3 +170,7 @@ flowchart TD
 ##### Redactora
 
 - Yolanda Castillo
+```
+
+
+
