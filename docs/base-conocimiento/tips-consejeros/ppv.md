@@ -412,7 +412,9 @@ classDiagram
 
 Para hacer más atractivo que los Rovers llenen su PPV creamos una plantilla interactiva con [HTML5](https://es.wikipedia.org/wiki/HTML5)
 
-[Plantilla de PPV Interactivo](img/ppv/ppv.png)
+[Imagen Ilustrativa de la Plantilla de PPV Interactivo](img/ppv/ppv.png)
+
+![Template](https://y-castillo.com/ciclo-programa/ppv-quest.html)
 
 ##### Redactora/Autora
 
