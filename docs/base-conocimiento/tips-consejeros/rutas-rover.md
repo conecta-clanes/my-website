@@ -160,3 +160,13 @@ flowchart TD
 - **Duración**: 6 a 9 meses por etapa/proyecto
 - **Registro**: todo avance se registra en **SISAS**
 ```
+
+#### Herramientas usadas para generar los diargramas
+
+- [Claude Code](https://claude.com/pricing) 
+- [Microsoft Marktdown](https://github.com/microsoft/markitdown) 
+
+
+##### Redactora
+
+- Yolanda Castillo

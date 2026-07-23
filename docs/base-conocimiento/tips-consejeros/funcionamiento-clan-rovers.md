@@ -78,3 +78,11 @@ flowchart TD
 | **Ceremonias** | Compromiso Rover (Vigilia + Investidura) y Partida Rover |
 | **Consejero** | Asesora y acompaña, no dirige; CRR ≥ 27 años |
 ```
+#### Herramientas usadas para generar los diargramas
+
+- [Claude Code](https://claude.com/pricing) 
+- [Microsoft Marktdown](https://github.com/microsoft/markitdown) 
+
+##### Redactora
+
+- Yolanda Castillo
