@@ -8,7 +8,7 @@ Aclarando que no somos expertos en el tema y los resultados dan una sugerencia.
 Nuestro site está basado en el proyecto en el lenguaje de programción PHP y base de datos MySQL con licencia MIT https://github.com/phpdave11/php-survey-builder con algunas mejoras e incorporación de gráficos
 
 ![Home](img/site/site-home.png)
-![Cuestionariose](img/site/site-cuestionarios.png)
+![Cuestionarios](img/site/site-cuestionarios.png)
 
 Algunos resultados de la aplicación de los cuestionarios
 ![Guía de Cómo se aprende](img/site/site-dominanciaCerebral.png)
@@ -28,15 +28,15 @@ Guías de los resultados
 
 Cuestionario de tipo de aprendizaje se tiene relacionado a si se es kinestesico, auditivo, visual
 por ejemplo 
-![¿Eres Visual, Auditivo o Kinestésico?](https://www.clinicabaviera.com/blog/curiosidades/eres-visual-auditivo-o-kinestesico/)
-![Test de estilos de aprendizaje VAK](https://www.psicoactiva.com/test/educacion-y-aprendizaje/test-de-estilos-de-aprendizaje/)
+[¿Eres Visual, Auditivo o Kinestésico?](https://www.clinicabaviera.com/blog/curiosidades/eres-visual-auditivo-o-kinestesico/)
+[Test de estilos de aprendizaje VAK](https://www.psicoactiva.com/test/educacion-y-aprendizaje/test-de-estilos-de-aprendizaje/)
 
 
 Cuestionarios de qué tipo de estudiante se es, por ejemplo:
-![Test estilos de aprendizaje](https://www.cua.uam.mx/public/elfinder/files/PDF/planeacion/test-de-estilos-de-aprendizaje.pdf)
+[Test estilos de aprendizaje](https://www.cua.uam.mx/public/elfinder/files/PDF/planeacion/test-de-estilos-de-aprendizaje.pdf)
 
 Cuestionarios sobre que clasificación desdes el punto de vista de programación neurolinguistica
-![Cuestionario de Programacion Neurolinguistica](https://www.scribd.com/document/315421105/Cuestionario-de-Programacion-Neurolinguistica)
+[Cuestionario de Programacion Neurolinguistica](https://www.scribd.com/document/315421105/Cuestionario-de-Programacion-Neurolinguistica)
 
 
 ##### Autora
