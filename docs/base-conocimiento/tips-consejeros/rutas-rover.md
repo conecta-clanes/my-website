@@ -161,7 +161,7 @@ flowchart TD
 - **Registro**: todo avance se registra en **SISAS**
 
 
-#### Herramientas usadas para generar los diargramas
+#### Herramientas usadas para generar los diagramas
 
 - [Claude Code](https://claude.com/pricing) 
 - [Microsoft Marktdown](https://github.com/microsoft/markitdown) 
