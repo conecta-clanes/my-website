@@ -10,6 +10,8 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 - Se convirtieron todos los archivos a MD para poder carga a memoria la base de conocmiento descargada
 - se pidió a la IA generativa generar el chat multiplataforma
 
+![Chat](img/chat-preguntas.png)
+
 ### Antes de empezar
 
 - Instalar pythhon
@@ -23,7 +25,7 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 - Configurar la variables pertinentes hacer copia del archivo ".env.example"  llamada .env
 - Actualizarle las variables de ambiente segun la IA a Utilizar
 - Ejecutar sobre "python.exe chat_scouts.py"
-- Se puede acceder al chat mediante "http://127.0.0.1:7864/" ![Chat](chat-preguntas.png)
+- Se puede acceder al chat mediante "http://127.0.0.1:7864/" ![Chat](img/chat-preguntas.png)
 
 #### Herramientas usadas
 
