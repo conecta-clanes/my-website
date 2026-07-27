@@ -12,7 +12,7 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 
 ### Antes de empezar
 
-- Instalar pythhon
+- Instalar python
 - Tener alguna cuenta de IA generativa
 - Considerar que constantemente se actualizan los documentos oficiales, en tal caso, descagrar, convertir a .md y reemplazar en la carpeta md
 
@@ -35,7 +35,7 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 
 #### Otras herramientas
 
-- [Kimi] (https://www.kimi.com/es-419/help/kimi-code/cli-getting-started)
+- [Kimi](https://www.kimi.com/es-419/help/kimi-code/cli-getting-started)
 - [Ollama](https://ollama.com/)
 
 ##### Autora
