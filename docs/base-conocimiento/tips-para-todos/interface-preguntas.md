@@ -2,8 +2,7 @@
 
 ## Introducción
 
-Son demasiados los cursos que se tiene que tomar y mucha información que se tiene que leer, por lo que se me ocurrió un chat con ayuda de la IA generativa para contestar todas las dudas que puedan surgir con el fin de aprender más rápido.
-
+Son demasiados los cursos que se tiene que tomar y mucha información que se tiene que leer, por lo que se me ocurrió un chat con ayuda de la IA generativa para contestar todas las dudas que puedan surgir con el fin de aprender más rápido, está aplicació no tiene fines de lucro.
 
 ### Cómo se creó
 
@@ -11,14 +10,11 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 - Se convirtieron todos los archivos a MD para poder carga a memoria la base de conocmiento descargada
 - se pidió a la IA generativa generar el chat multiplataforma
 
-![Chat](chat-preguntas.png)
-
 ### Antes de empezar
 
 - Instalar pythhon
 - Tener alguna cuenta de IA generativa
 - Considerar que constantemente se actualizan los documentos oficiales, en tal caso, descagrar, convertir a .md y reemplazar en la carpeta md
-
 
 ### Cómo usar 
 
@@ -27,6 +23,7 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 - Configurar la variables pertinentes hacer copia del archivo ".env.example"  llamada .env
 - Actualizarle las variables de ambiente segun la IA a Utilizar
 - Ejecutar sobre "python.exe chat_scouts.py"
+- Se puede acceder al chat mediante "http://127.0.0.1:7864/" ![Chat](chat-preguntas.png)
 
 #### Herramientas usadas
 
@@ -40,8 +37,6 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 
 - [Kimi] (https://www.kimi.com/es-419/help/kimi-code/cli-getting-started)
 - [Ollama](https://ollama.com/)
-
-
 
 ##### Autora
 
