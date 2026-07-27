@@ -10,6 +10,8 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 - Se convirtieron todos los archivos a MD para poder carga a memoria la base de conocmiento descargada
 - se pidió a la IA generativa generar el chat multiplataforma
 
+![Chat](img/chat-preguntas.png)
+
 ### Antes de empezar
 
 - Instalar python
@@ -18,12 +20,12 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 
 ### Cómo usar 
 
-- Descargar la carpeta de fuentes
+- **[⬇ Descargar carpeta de fuentes](https://github.com/conecta-clanes/my-website/tree/main/fuentes)** (clonar el repo o descargar como ZIP desde GitHub)
 - Para usar el proyecto, se requiere tener cuenta en alguna de la IAs generativas
 - Configurar la variables pertinentes hacer copia del archivo ".env.example"  llamada .env
 - Actualizarle las variables de ambiente segun la IA a Utilizar
 - Ejecutar sobre "python.exe chat_scouts.py"
-- Se puede acceder al chat mediante "http://127.0.0.1:7864/" ![Chat](chat-preguntas.png)
+- Se puede acceder al chat mediante "http://127.0.0.1:7864/" ![Chat](img/chat-preguntas.png)
 
 #### Herramientas usadas
 
