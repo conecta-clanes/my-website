@@ -18,6 +18,7 @@ const config = {
   themes: ['@docusaurus/theme-mermaid'],
   markdown: {
     mermaid: true,
+    format: 'detect',
   },
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
