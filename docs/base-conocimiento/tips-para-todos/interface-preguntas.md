@@ -34,6 +34,10 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 - [Microsoft Marktdown](https://github.com/microsoft/markitdown) 
 - [Graphify](https://github.com/Graphify-Labs/graphify)
 - [Gradio](https://gradio.app/)
+- para leer las repuestas con voz:
+    - asyncio
+    - tempfile
+    - edge_tts
 
 #### Otras herramientas
 

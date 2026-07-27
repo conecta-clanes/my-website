@@ -7,7 +7,10 @@ Configuración sensible via variables de ambiente o archivo .env
 import os
 import re
 import glob
+import asyncio
+import tempfile
 import gradio as gr
+import edge_tts
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
@@ -169,13 +172,23 @@ def _llamar_llm(mensajes: list[dict], system: str, api_key: str, model: str) -> 
     )
     return r.choices[0].message.content
 
+# ── Texto a voz ───────────────────────────────────────────────────────────────
+def _texto_a_voz(texto: str) -> str | None:
+    try:
+        communicate = edge_tts.Communicate(texto[:2000], voice="es-MX-DaliaNeural")
+        tmp = tempfile.NamedTemporaryFile(suffix=".mp3", delete=False)
+        asyncio.run(communicate.save(tmp.name))
+        return tmp.name
+    except Exception:
+        return None
+
 # ── Lógica de respuesta ───────────────────────────────────────────────────────
 def responder(
     mensaje: str,
     historial: list,
     api_key: str,
     model: str,
-) -> tuple[list, str, str]:
+) -> tuple[list, str, str, str | None]:
     key = api_key.strip() or _env(CFG["key_env"])
     if not key and BACKEND_NAME != "ollama":
         aviso = f"⚠️ Falta la API key para {CFG['label']}. Ingrésala en el panel izquierdo o en el archivo .env."
@@ -183,6 +196,7 @@ def responder(
             historial + [{"role": "user", "content": mensaje}, {"role": "assistant", "content": aviso}],
             "",
             "",
+            None,
         )
 
     contexto, docs_usados = _seleccionar_docs(mensaje)
@@ -200,7 +214,8 @@ def responder(
         {"role": "user",      "content": mensaje},
         {"role": "assistant", "content": texto},
     ]
-    return nuevo_historial, "", info
+    audio = _texto_a_voz(texto)
+    return nuevo_historial, "", info, audio
 
 # ── Interfaz Gradio ───────────────────────────────────────────────────────────
 DEFAULT_MODEL = _env(CFG["model_env"]) or CFG["default_model"]
@@ -219,9 +234,20 @@ EJEMPLOS = [
     "¿Cómo se organiza una Provincia Scout?",
 ]
 
+AVATAR_CSS = """
+.message.bot img {
+    animation: avatar-pulse 2s ease-in-out infinite;
+    border-radius: 50%;
+}
+@keyframes avatar-pulse {
+    0%, 100% { transform: scale(1);    box-shadow: 0 0 0 0 rgba(34,197,94,0.4); }
+    50%       { transform: scale(1.08); box-shadow: 0 0 0 8px rgba(34,197,94,0); }
+}
+"""
+
 lista_docs = "\n".join(f"- {d}" for d in sorted(DOCS))
 
-with gr.Blocks(title="Chat Scouts · ASMAC") as demo:
+with gr.Blocks(title="Chat Scouts · ASMAC", css=AVATAR_CSS) as demo:
     gr.Markdown(
         f"# 🏕️ Chat · Documentos ASMAC\n"
         f"**Backend activo:** {CFG['label']} &nbsp;|&nbsp; "
@@ -248,6 +274,11 @@ with gr.Blocks(title="Chat Scouts · ASMAC") as demo:
                 show_label=False,
                 avatar_images=(None, str(BASE_DIR / "popeye.jpeg")),
             )
+            audio_out = gr.Audio(
+                label="Respuesta en voz",
+                autoplay=True,
+                visible=True,
+            )
             info_box = gr.Textbox(
                 label="Documentos consultados en la última respuesta",
                 interactive=False,
@@ -270,20 +301,20 @@ with gr.Blocks(title="Chat Scouts · ASMAC") as demo:
     # ── Eventos ───────────────────────────────────────────────────────────────
     def chat(mensaje, historial, api_key, model):
         if not mensaje.strip():
-            return historial, "", ""
+            return historial, "", "", None
         return responder(mensaje, historial, api_key, model)
 
     btn_enviar.click(
         chat,
         inputs=[entrada, chatbot, api_key_input, model_input],
-        outputs=[chatbot, entrada, info_box],
+        outputs=[chatbot, entrada, info_box, audio_out],
     )
     entrada.submit(
         chat,
         inputs=[entrada, chatbot, api_key_input, model_input],
-        outputs=[chatbot, entrada, info_box],
+        outputs=[chatbot, entrada, info_box, audio_out],
     )
-    btn_limpiar.click(lambda: ([], "", ""), outputs=[chatbot, entrada, info_box])
+    btn_limpiar.click(lambda: ([], "", "", None), outputs=[chatbot, entrada, info_box, audio_out])
 
 
 if __name__ == "__main__":
