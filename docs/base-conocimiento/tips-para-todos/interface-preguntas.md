@@ -20,7 +20,7 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 
 ### Cómo usar 
 
-- Descargar la carpeta de fuentes
+- **[⬇ Descargar carpeta de fuentes](https://github.com/conecta-clanes/my-website/tree/main/fuentes)** (clonar el repo o descargar como ZIP desde GitHub)
 - Para usar el proyecto, se requiere tener cuenta en alguna de la IAs generativas
 - Configurar la variables pertinentes hacer copia del archivo ".env.example"  llamada .env
 - Actualizarle las variables de ambiente segun la IA a Utilizar
