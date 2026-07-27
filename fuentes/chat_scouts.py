@@ -246,7 +246,7 @@ with gr.Blocks(title="Chat Scouts · ASMAC") as demo:
             chatbot = gr.Chatbot(
                 height=460,
                 show_label=False,
-                avatar_images=(None, "🏕️"),
+                avatar_images=(None, str(BASE_DIR / "popeye.jpeg")),
             )
             info_box = gr.Textbox(
                 label="Documentos consultados en la última respuesta",
