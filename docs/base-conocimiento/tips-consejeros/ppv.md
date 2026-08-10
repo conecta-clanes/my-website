@@ -414,7 +414,7 @@ Para hacer más atractivo que los Rovers llenen su PPV creamos una plantilla int
 
 [Imagen Ilustrativa de la Plantilla de PPV Interactivo](img/ppv/ppv.png)
 
-![Template](https://y-castillo.com/ciclo-programa/ppv-quest.html)
+[Template](https://y-castillo.com/ciclo-programa/ppv-quest.html)
 
 ##### Redactora/Autora
 
