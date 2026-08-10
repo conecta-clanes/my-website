@@ -34,3 +34,5 @@ flowchart TD
     HERR -.-> F3
     HERR -.-> F4
 ```
+##### Redactora
+    - Yolanda Castillo

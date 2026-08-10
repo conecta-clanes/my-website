@@ -59,3 +59,6 @@ flowchart TD
     HERR -.-> EJEC
     HERR -.-> REVI
 ```
+
+##### Redactora
+    - Yolanda Castillo
