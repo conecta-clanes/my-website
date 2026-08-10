@@ -38,6 +38,7 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
     - asyncio
     - tempfile
     - edge_tts
+- para generar Avatar se usó el generador [d-id](https://www.d-id.com/pricing/studio/) para lo cual se requiere suscripción y tener configurada la variable de ambiente  "DID_API_KEY"
 
 #### Otras herramientas
 
