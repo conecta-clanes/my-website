@@ -4,7 +4,7 @@
 flowchart TD
     INI(["🐾 MI PRIMER RASTRO\nInsignia de entrada a la Manada"])
 
-    subgraph PLANOS["4 PLANOS DE RELACIÓN\n(cada Cazadero trabaja los 4 planos)"]
+    subgraph PLANOS["4 PLANOS DE RELACIÓN (cada Cazadero trabaja los 4 planos)"]
         PL1["Consigo Mismo"]
         PL2["Con los Demás"]
         PL3["Con el Entorno"]
