@@ -34,7 +34,7 @@ flowchart TD
         E3["Observación\ndel Scouter"]
     end
 
-    subgraph ESP["ESPECIALIDADES · 8 grupos temáticos\nProceso: Conozco → Aplico → Comparto"]
+    subgraph ESP["ESPECIALIDADES · 8 grupos temáticos, Proceso: Conozco → Aplico → Comparto"]
         direction LR
         G1["Rikki-Tikki-Tavi · Mao/Mor\nMysa · Jacala"]
         G2["Kotick · Mang\nPukeena · Darzee"]

@@ -4,7 +4,7 @@
 flowchart TD
     INI(["⚜️ INGRESO A LA TROPA\nActividades de bienvenida y orientación"])
 
-    subgraph SENDAS["4 SENDAS (Planos de Relación)\n(cada Rumbo trabaja las 4 Sendas)"]
+    subgraph SENDAS["4 SENDAS (Planos de Relación)(cada Rumbo trabaja las 4 Sendas)"]
         direction LR
         S1["Senda\nConsigo Mismo"]
         S2["Senda\nCon los Demás"]
@@ -45,7 +45,7 @@ flowchart TD
         IM5["Mensajeros de la Paz"]
     end
 
-    subgraph ESP["ESPECIALIDADES · 8 campos del conocimiento\nProceso: Conozco → Aplico → Comparto"]
+    subgraph ESP["ESPECIALIDADES · 8 campos del conocimiento, Proceso: Conozco → Aplico → Comparto"]
         direction LR
         EC["8 grupos temáticos\nadaptados a 10–14 años"]
     end

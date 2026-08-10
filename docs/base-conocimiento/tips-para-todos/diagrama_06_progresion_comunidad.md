@@ -4,7 +4,7 @@
 flowchart TD
     INI(["🏔️ INGRESO A LA COMUNIDAD\nEncuentro de orientación · Promesa de Equipo"])
 
-    subgraph CAMINOS["4 CAMINOS (Planos de Relación)\n(cada Sendero trabaja los 4 Caminos)"]
+    subgraph CAMINOS["4 CAMINOS (Planos de Relación)(cada Sendero trabaja los 4 Caminos)"]
         direction LR
         C1["Camino\nConsigo Mismo"]
         C2["Camino\nCon los Demás"]
@@ -38,7 +38,7 @@ flowchart TD
         E1 --- E2 --- E3 --> REG --> VAL
     end
 
-    subgraph ESP["ESPECIALIDADES · 8 campos del conocimiento\nProceso: Conozco → Aplico → Comparto"]
+    subgraph ESP["ESPECIALIDADES · 8 campos del conocimiento, Proceso: Conozco → Aplico → Comparto"]
         EC["8 grupos temáticos\nadaptados a 14–18 años"]
     end
 
