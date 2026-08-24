@@ -10,12 +10,12 @@ stateDiagram-v2
 
     state "El tema se da por cerrado" as tc
 
-    state "Buscar directamente a los consejeros" as bdc
-    state "Pedir que se asiente en el actua del parlamento" as pap
+    state "Buscar directamente a los Consejeros" as bdc
+    state "Pedir que se asiente en el acta del Parlamento" as pap
 
     state "Buscar a los representantes juveniles" as rj
 
-    state "Buscar al consejo de grupo" as cg
+    state "Buscar al Consejo de Grupo" as cg
 
     state "Buscar instancias superiores" as is
     
