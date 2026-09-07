@@ -250,7 +250,7 @@ classDiagram
   </tr>
   <tr>
     <td >Con lo Trascendente</td>
-    <td >Paz y Acción Comunitaria</td>
+    <td >Paz y Participación Comunitaria</td>
   </tr>
 </table>
 

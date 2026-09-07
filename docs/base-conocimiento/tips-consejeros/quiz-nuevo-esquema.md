@@ -1,6 +1,6 @@
 # ⌛ Quiz para presentar el nuevo esquema de adelantos
 
-Importante, recientemente se actualizó el nombre de "Paz y Acción Comunitaria" 
+Importante, recientemente se actualizó el nombre de "Paz y Participación Comunitaria" 
 a "Paz y Participación Comunitaria"
 
 ## Mentimeter

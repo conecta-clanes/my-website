@@ -1769,7 +1769,7 @@ OBJETIVOS COMPETENCIALES:
 Saberes a desarrollar en cada Eje Temático
 PLANOS DE  METAS
 RELACIÓN (Metacompetencias) Salud y Bienestar Habilidades para Paz y  Medio Ambiente y
-|     | la Vida | Acción Comunitaria | Sustentabilidad |
+|     | la Vida | Paz y Participación Comunitaria | Sustentabilidad |
 | --- | ------- | ------------------ | --------------- |
 Construye
 relaciones
