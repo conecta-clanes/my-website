@@ -25,7 +25,7 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 - Configurar la variables pertinentes hacer copia del archivo ".env.example"  llamada .env
 - Actualizarle las variables de ambiente segun la IA a Utilizar
 - Ejecutar sobre "python.exe chat_scouts.py"
-- Se puede acceder al chat mediante "http://127.0.0.1:7864/" ![Chat](img/chat-preguntas.png)
+- Se puede acceder al chat mediante "http://127.0.0.1:7864/" ![Chat](img/app-chat-preguntas.png)
 
 #### Herramientas usadas
 
