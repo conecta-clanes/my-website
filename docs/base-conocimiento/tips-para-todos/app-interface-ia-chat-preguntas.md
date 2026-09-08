@@ -10,7 +10,7 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 - Se convirtieron todos los archivos a MD para poder carga a memoria la base de conocmiento descargada
 - se pidió a la IA generativa generar el chat multiplataforma
 
-![Chat](img/chat-preguntas.png)
+![Chat](img/app-chat-preguntas.png)
 
 ### Antes de empezar
 
