@@ -1,4 +1,4 @@
-# Juego interactivo "Dibujos animados"
+# 👷 Juego interactivo "Dibujos animados"
 
 
 ## Introducción
@@ -23,6 +23,7 @@ Creemos que con la llegada de la IA ahora el límite es la imaginación
 
 
 ## Ténologías usadas:
+
 - [Python](https://www.python.org/)
 - [Meshy](https://www.meshy.ai/) pero se puede usar el Modelo de ChatGPT Images 2.0
 - [Claude Code](https://claude.com/product/claude-code) para generar el código
@@ -39,6 +40,10 @@ Creemos que con la llegada de la IA ahora el límite es la imaginación
 ## Código fuente
 
 - **[⬇ Descargar carpeta de fuentes](https://github.com/conecta-clanes/my-website/tree/main/dibujos-animados-fuentes)** 
+
+### Aplicación
+- la version 1 ya fue probada
+- en cuanto probemos la versión 2 en una actividad real, actualizaremos el código fuente
 
 ##### Autora
 
