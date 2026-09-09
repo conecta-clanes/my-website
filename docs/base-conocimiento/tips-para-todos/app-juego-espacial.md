@@ -7,7 +7,7 @@ Fue inspirada en un juego educativo con otro motor de juegos, esta versión fue 
 
 ![Inicio](img/app-juego-espacial-inicio.jpg)
 ![Juego](img/app-juego-espacial-escenario.jpg)
-![Fin](img/app-juego-espacial-fin.jpgs)
+![Fin](img/app-juego-espacial-fin.jpg)
 
 ## Material
 
