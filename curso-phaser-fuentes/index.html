@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0d1b2a" />
+  <title>Siempre Listo: La Aventura Scout</title>
+  <!-- Fuente web nítida: Nunito es excelente para juegos/UI en canvas -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: #0d1b2a;
+      font-family: 'Segoe UI', system-ui, sans-serif;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* Phaser crea el canvas dentro de este div.
+       Dejamos que el Scale plugin gestione el tamaño. */
+    #game-container {
+      width: 100%;
+      height: 100%;
+      position: relative;
+    }
+
+    canvas {
+      display: block;
+      /* Forzar renderizado nítido en pantallas de alta densidad */
+      image-rendering: auto;
+    }
+
+    /* ── Pantalla de carga ── */
+    #loading-screen {
+      position: absolute;
+      inset: 0;
+      background: #0d1b2a;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #f5c842;
+      z-index: 10;
+      gap: 1rem;
+    }
+
+    #loading-screen h1 {
+      font-size: clamp(1.4rem, 5vw, 2.2rem);
+      letter-spacing: 2px;
+    }
+
+    #loading-bar-bg {
+      width: min(320px, 70vw);
+      height: 18px;
+      background: #1e2d40;
+      border-radius: 9px;
+      overflow: hidden;
+      border: 1px solid #2a4060;
+    }
+
+    #loading-bar {
+      height: 100%;
+      background: linear-gradient(90deg, #f5c842, #e8a020);
+      width: 0%;
+      transition: width 0.25s ease;
+      border-radius: 9px;
+    }
+
+    #loading-text {
+      font-size: clamp(0.75rem, 2.5vw, 0.95rem);
+      color: #8ab0cc;
+      letter-spacing: 1px;
+    }
+  </style>
+</head>
+<body>
+  <div id="game-container">
+    <div id="loading-screen">
+      <h1>⚜ Siempre Listo</h1>
+      <div id="loading-bar-bg"><div id="loading-bar"></div></div>
+      <div id="loading-text">Cargando recursos…</div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/phaser@3.60.0/dist/phaser.min.js"></script>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>
