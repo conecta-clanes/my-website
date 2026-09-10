@@ -1,8 +1,8 @@
 {
   "chat_scouts.py": {
-    "mtime": 1784904396.6731856,
-    "ast_hash": "b493af6ce4b26487d67c1ae844a882df",
-    "semantic_hash": "b493af6ce4b26487d67c1ae844a882df"
+    "mtime": 1785191761.1232011,
+    "ast_hash": "4d063a267875f8f9413fd1d5940da2d5",
+    "semantic_hash": "4d063a267875f8f9413fd1d5940da2d5"
   },
   "md/01 Manual de Operaci\u00f3n Nivel Provincia.md": {
     "mtime": 1784910182.6451943,
@@ -183,5 +183,35 @@
     "mtime": 1785163903.6913815,
     "ast_hash": "60e26d2b01d57051b7ba9c49dec4690e",
     "semantic_hash": "60e26d2b01d57051b7ba9c49dec4690e"
+  },
+  "README.md": {
+    "mtime": 1789061486.334116,
+    "ast_hash": "b453c900fe7514d48617e6e87d1bff25",
+    "semantic_hash": "b453c900fe7514d48617e6e87d1bff25"
+  },
+  "md/ProyectosActividades.md": {
+    "mtime": 1788204188.7527153,
+    "ast_hash": "8b46c868ecbc35a1be41a922cd1b3d7b",
+    "semantic_hash": "8b46c868ecbc35a1be41a922cd1b3d7b"
+  },
+  "AvatarMaker.png": {
+    "mtime": 1785193062.4024212,
+    "ast_hash": "87ae685a42f0b6465bf34c3c1fa31af7",
+    "semantic_hash": "87ae685a42f0b6465bf34c3c1fa31af7"
+  },
+  "popeye.jpeg": {
+    "mtime": 1785188759.166067,
+    "ast_hash": "e2f3008d70a0119650948329e1f62ef5",
+    "semantic_hash": "e2f3008d70a0119650948329e1f62ef5"
+  },
+  "popeye.jpg": {
+    "mtime": 1785192348.044001,
+    "ast_hash": "93998a8bec27e4b542642b78598b4873",
+    "semantic_hash": "93998a8bec27e4b542642b78598b4873"
+  },
+  "popeye.png": {
+    "mtime": 1785192543.1712735,
+    "ast_hash": "e44507480121a063c694045024312707",
+    "semantic_hash": "e44507480121a063c694045024312707"
   }
 }
