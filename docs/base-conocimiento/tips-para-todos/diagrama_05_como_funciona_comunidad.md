@@ -1,4 +1,4 @@
-# Diagrama 5: Cómo Funciona la Comunidad
+# ✏️ Diagrama 5: Cómo Funciona la Comunidad
 
 ```mermaid
 flowchart TD

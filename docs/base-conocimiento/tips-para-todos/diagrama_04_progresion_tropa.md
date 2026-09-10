@@ -1,4 +1,4 @@
-# Diagrama 4: Progresión en la Tropa
+# ✏️ Diagrama 4: Progresión en la Tropa
 
 ```mermaid
 flowchart TD

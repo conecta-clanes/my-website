@@ -1,4 +1,4 @@
-# Diagrama 2: Progresión en la Manada
+# ✏️ Diagrama 2: Progresión en la Manada
 
 ```mermaid
 flowchart TD

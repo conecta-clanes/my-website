@@ -1,4 +1,4 @@
-# Diagramas Scout en Mermaid
+# ✏️ Diagramas Scout en Mermaid
 
 ---
 

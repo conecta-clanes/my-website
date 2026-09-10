@@ -1,4 +1,4 @@
-# Proceso de Selección de Proyectos y Actividades — Ciclo PER
+# ✏️ Proceso de Selección de Proyectos y Actividades — Ciclo PER
 
 ```mermaid
 flowchart TD

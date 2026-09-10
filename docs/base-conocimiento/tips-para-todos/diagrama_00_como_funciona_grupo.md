@@ -1,4 +1,4 @@
-# Diagramas del Grupo Scout
+# ✏️ Diagrama 0:  Grupo Scout
 
 ---
 

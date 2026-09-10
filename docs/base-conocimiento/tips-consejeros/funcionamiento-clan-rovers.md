@@ -1,4 +1,4 @@
-# Diagrama: Funcionamiento del Clan de Rovers
+# ✏️ Diagrama: Funcionamiento del Clan de Rovers
 
 ```mermaid
 flowchart TD

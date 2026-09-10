@@ -1,4 +1,4 @@
-# Diagrama 3: Cómo Funciona la Tropa
+# ✏️ Diagrama 3: Cómo Funciona la Tropa
 
 ```mermaid
 flowchart TD

@@ -1,4 +1,4 @@
-# Metodología PER — Clan de Rovers
+# ✏️ Metodología PER — Clan de Rovers
 ### Ciclo Personal de Programa | Jóvenes 18 a 21 años
 
 ```mermaid

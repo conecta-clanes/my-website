@@ -1,4 +1,4 @@
-# Metodología PER — Planear · Ejecutar · Revisar
+# ✏️ Metodología PER — Planear · Ejecutar · Revisar
 
 ```mermaid
 flowchart LR

@@ -1,4 +1,4 @@
-# Diagrama 1: Cómo Funciona la Manada
+# ✏️ Diagrama 1: Cómo Funciona la Manada
 
 ```mermaid
 flowchart TD

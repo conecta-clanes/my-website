@@ -1,4 +1,4 @@
-# Diagrama 6: Progresión en la Comunidad
+# ✏️ Diagrama 6: Progresión en la Comunidad
 
 ```mermaid
 flowchart TD
