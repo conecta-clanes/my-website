@@ -29,7 +29,9 @@
 
 
 
+## Preguntas y respues
 
+Las preguntas y respuestas son configurables en un archivo "%HOME-PROJECT%/src/data/scoutData.js"
 
 
 
