@@ -22,7 +22,9 @@ Fue inspirada en un juego educativo con otro motor de juegos, esta versión fue 
 
 ## Aplicación
 
-- El juego ya esta funcional, sin embargo no lo hemos aplicado en una actividad real, en cuanto tengamos la prueba de campo subiremos el código fuente
+- **[⬇ Descargar carpeta de fuentes](https://github.com/conecta-clanes/my-website/tree/main/juego-espacial-fuentes)** (clonar el repo o descargar como ZIP desde GitHub)
+
+- El juego ya esta funcional, sin embargo no lo hemos aplicado en una actividad real, en cuanto tengamos la prueba de campo actualizaremos el código fuente
 
 
 #### Autora
