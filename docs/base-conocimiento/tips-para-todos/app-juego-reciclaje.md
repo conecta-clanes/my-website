@@ -28,5 +28,5 @@ Juego educativo de reciclaje con reconocimiento de rostro
 
 #### Autores
 
-- Leticia Cortes
+- Leticia Cortés
 - Yolanda Castillo
