@@ -26,7 +26,7 @@
         El top de Alcaldías donde circula más dinero son
             - Cuahutemoc
             - Benito Juarez
-            - Älvaro Obregón
+            - Álvaro Obregón
             - Miguel Hidalgo
 
         Reflejando  el top de membresía por Alcaldía en la CDMX
