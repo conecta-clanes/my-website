@@ -1,5 +1,9 @@
 # 🧪 Cuestionarios de Autoconocimiento del Clan Anzanc-Alcira
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
 La intención de éste documento es facilitar a otros clanes la herramienta que creamos de autoconocimiento, la cual les podemos ayudar a replicar en nuestro hosting con base de datos independiente y usuario administrador independiente,
 cuyo objetivo es poder aplicar algunos cuestionarios como la clasificación de programación neurolinguística, qué tipo de alumno se es, cómo se aprende. 
 

@@ -1,5 +1,11 @@
 # ✏️ Diagrama 5: Cómo Funciona la Comunidad
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama Cómo funciona la Comunidad de Caminantes
+
 ```mermaid
 flowchart TD
     COM(["🏔️ COMUNIDAD DE CAMINANTES · 14 a 18 años\nLema: Siempre Adelante"])

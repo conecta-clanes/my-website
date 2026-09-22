@@ -1,5 +1,13 @@
 # ✏️ Diagrama 3: Cómo Funciona la Tropa
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama
+
+Cómo funciona la Tropa
+
 ```mermaid
 flowchart TD
     TROPA(["⚜️ TROPA DE SCOUTS · 10 a 14 años\nLema: Siempre Listos"])

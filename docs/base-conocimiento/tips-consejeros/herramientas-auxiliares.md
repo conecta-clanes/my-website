@@ -1,5 +1,9 @@
 # ✏️ Herramientas auxialiares
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
 ## Pizarras interactivas
 
 - [Padlet](https://padlet.com/) 

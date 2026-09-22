@@ -1,7 +1,12 @@
 # 💡 Manejo de conflictos, problema o inquietud que no es de vida o muerte
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
 Ésta es un propuesta sobre de como manejar algún conflicto, problema o inquitud de un Rover
 
+## Diagrama Manejo de Conflictos
 
 ```mermaid
 stateDiagram-v2

@@ -1,5 +1,9 @@
 # 🚑 Dilemas sobre bullying 
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
 Éstas historias puedes o no ser basadas en hechos reales.
 No pretende juzgar a nadie. Intenta poner en la mesa los casos imaginarios o reales
 con los que te pueden enfrentar un Consejero.

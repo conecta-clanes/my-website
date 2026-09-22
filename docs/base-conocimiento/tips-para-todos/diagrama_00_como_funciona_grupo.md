@@ -2,6 +2,11 @@
 
 ---
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+
 ## 1. Estructura Organizacional del Grupo Scout
 
 ```mermaid

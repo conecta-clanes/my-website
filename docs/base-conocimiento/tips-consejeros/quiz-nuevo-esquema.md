@@ -1,5 +1,10 @@
 # ⌛ Quiz para presentar el nuevo esquema de adelantos
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+
 Importante, recientemente se actualizó el nombre de "Paz y Participación Comunitaria" 
 a "Paz y Participación Comunitaria"
 

@@ -2,7 +2,10 @@
 
 ## Introducción
 
-Basado en el libro de "Activividades y Proyecto" junto con la página [SDGS](https://sdgs.scout.org/)
+Esta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+Basado en el libro de "Activividades y Proyecto" junto con la página [SDGS](https://sdgs.scout.org/).
+
 
 ## Plantillas oficiales
 

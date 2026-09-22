@@ -1,5 +1,11 @@
 # Ciclo de Programa — La Gran Cacería (Manada)
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama Ciclo de Programa Manada
+
 ```mermaid
 flowchart TD
     TITLE(["🐺 LA GRAN CACERÍA\nCiclo de Programa · Manada de Lobatos · 6–10 años\nDuración: 3 a 4 meses · 3 o 4 ciclos por año"])

@@ -1,5 +1,9 @@
 # 👷 Demo Curso de Inducción
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
 Éste es un demo de lo que podría ser un Curso de Inducción que se ejecuta sobre el motodo de video juegos [Phaser](https://phaser.io/)
 
 ## Pantallas

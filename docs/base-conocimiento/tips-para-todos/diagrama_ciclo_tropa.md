@@ -1,5 +1,11 @@
 # Ciclo de Programa — La Gran Exploración (Tropa)
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama Ciclo de Programa en Tropa
+
 ```mermaid
 flowchart TD
     TITLE(["⚜️ LA GRAN EXPLORACIÓN\nCiclo de Programa · Tropa de Scouts · 10–14 años\nDuración: 3 a 4 meses · 3 o 4 ciclos por año · hasta 16 ciclos en la sección"])

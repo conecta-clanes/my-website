@@ -1,5 +1,11 @@
 # ✏️ Diagrama 2: Progresión en la Manada
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama Progresión en la Manada de Lobatos
+
 ```mermaid
 flowchart TD
     INI(["🐾 MI PRIMER RASTRO\nInsignia de entrada a la Manada"])

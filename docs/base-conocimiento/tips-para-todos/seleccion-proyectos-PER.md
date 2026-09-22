@@ -1,5 +1,11 @@
 # ✏️ Proceso de Selección de Proyectos y Actividades — Ciclo PER
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama Selección de Proyectos en el Cliclo de Programa del Clan
+
 ```mermaid
 flowchart TD
     INICIO(["🌟 Inicio del ciclo"])

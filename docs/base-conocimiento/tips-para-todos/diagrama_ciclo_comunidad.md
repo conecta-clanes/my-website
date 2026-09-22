@@ -1,5 +1,11 @@
 # Ciclo de Programa — PER (Comunidad)
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama Ciclo de Programa en la Comunidad de Caminantes
+
 ```mermaid
 flowchart TD
     TITLE(["🏔️ CICLO DE PROGRAMA · PER\nComunidad de Caminantes · 14–18 años\nDuración: 3 a 4 meses · 3 o 4 ciclos por año"])

@@ -1,4 +1,10 @@
 # ✏️ Selección de Proyectos y Actividades — Clan de Rovers
+
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+
 ### Proceso dentro del Ciclo PER | Jóvenes 18 a 21 años
 
 ```mermaid

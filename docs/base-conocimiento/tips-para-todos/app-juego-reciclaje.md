@@ -1,6 +1,9 @@
 # 👷 Juego reciclaje
 
-# Introducción
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
 
 Juego educativo de reciclaje con reconocimiento de rostro
 

@@ -9,9 +9,6 @@ En el Phila 2026 pasado asistieron más de 2 mil caminantes, el objetivo era pre
 
 Se presentaron únicamente 4  proyectos de 350 personas asistenten en uno de los campo, lo que representa menos de 2 % de la población de la Comunidad de Caminantes, lo que implica que no se están haciendo proyectos.
 
-
-
-
 ### Reflexión
 
 - El nuevo programa no está considerando la población significativa que son aquellos que no están haciendo proyectos.

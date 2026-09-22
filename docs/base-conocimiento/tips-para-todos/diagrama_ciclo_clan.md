@@ -1,5 +1,11 @@
 # Ciclo de Programa — Clan de Rovers
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama Ciclo de Programa en el Clan de Rovers
+
 ```mermaid
 flowchart TD
     TITLE(["🏕️ CICLOS DE PROGRAMA\nClan de Rovers · 18–21 años\nDos ciclos paralelos: Colectivo + Personal"])

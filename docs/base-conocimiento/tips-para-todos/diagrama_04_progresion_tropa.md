@@ -1,5 +1,11 @@
 # ✏️ Diagrama 4: Progresión en la Tropa
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+# Diagrama Progresión en Tropa
+
 ```mermaid
 flowchart TD
     INI(["⚜️ INGRESO A LA TROPA\nActividades de bienvenida y orientación"])

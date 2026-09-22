@@ -1,6 +1,5 @@
 #  🔥 Propuesta de estrategias para aumento de la membresía en la asociación
 
-
 ## Introducción
 - Esta propuesta pretende proponer estrategias para incrementar la membresía.
 

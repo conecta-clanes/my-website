@@ -1,6 +1,8 @@
 # 🚀 Trello: herramientas administrativa para Ciclo de Programa
 
-## Propuesta
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
 
 Usar la herramienta de seguimiento de proyectos [Trello](https://trello.com/es/tour) para dar seguimiento al **Proyecto de Personal de Vida** 
 / **Progresión Personal** / **Ciclo de programa**, ya que Trello es muy intuitivo y cuenta con versión Gratuita.

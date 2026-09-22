@@ -1,5 +1,10 @@
 # 👷 ¿Qué es el PPV o Proyecto Personal de Vida?
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+
 ## De acuerdo don DeepSeek(v1.3.1 consultado el 25 de agosto de 2025) un PPV es
 
 

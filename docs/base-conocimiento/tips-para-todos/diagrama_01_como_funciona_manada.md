@@ -1,5 +1,11 @@
 # ✏️ Diagrama 1: Cómo Funciona la Manada
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama Cómo funciona laManada de Lobatos
+
 ```mermaid
 flowchart TD
     MANADA(["🐺 MANADA DE LOBATOS · 6 a 10 años\nLema: Haremos lo mejor"])

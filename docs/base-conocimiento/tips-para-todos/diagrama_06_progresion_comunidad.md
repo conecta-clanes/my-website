@@ -1,5 +1,11 @@
 # ✏️ Diagrama 6: Progresión en la Comunidad
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama Progresión en la Comunidad de Caminantes
+
 ```mermaid
 flowchart TD
     INI(["🏔️ INGRESO A LA COMUNIDAD\nEncuentro de orientación · Promesa de Equipo"])

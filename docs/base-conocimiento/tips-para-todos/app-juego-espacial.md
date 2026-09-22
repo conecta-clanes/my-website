@@ -1,6 +1,8 @@
 # 👷 Juego espacial
 
-# Introducción
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
 
 Fue inspirada en un juego educativo con otro motor de juegos, esta versión fue hecha con python y reconocmiento facial
 

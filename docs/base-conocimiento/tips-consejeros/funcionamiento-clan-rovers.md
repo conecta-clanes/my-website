@@ -1,5 +1,11 @@
 # ✏️ Diagrama: Funcionamiento del Clan de Rovers
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+### Diagrama CICLO DE VIDA EN EL CLAN
+
 ```mermaid
 flowchart TD
     subgraph VIDA["⛵  CICLO DE VIDA EN EL CLAN  ·  18 a 22 años"]

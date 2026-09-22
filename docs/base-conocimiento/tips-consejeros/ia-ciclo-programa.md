@@ -1,5 +1,10 @@
 # 🚀 Inteligencia artificial: herramientas administrativa para Actividades
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+
 ## Propuesta
 
 Usar inteligencia artificiales para crear actividades atractivas

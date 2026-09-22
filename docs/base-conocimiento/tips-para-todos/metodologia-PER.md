@@ -1,5 +1,11 @@
 # ✏️ Metodología PER — Planear · Ejecutar · Revisar
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama Metodología PER
+
 ```mermaid
 flowchart LR
     P(["🎯 PLANEAR"])

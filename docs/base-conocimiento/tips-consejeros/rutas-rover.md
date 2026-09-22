@@ -1,5 +1,11 @@
 # ✏️ Diagrama: Las Rutas del Rover — Progresión Personal
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+## Diagrama PROYECTO PERSONAL DE VIDA — PPV
+
 ```mermaid
 flowchart TD
     PPV["📋 PROYECTO PERSONAL DE VIDA — PPV

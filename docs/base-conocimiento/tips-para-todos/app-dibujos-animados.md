@@ -3,6 +3,8 @@
 
 ## Introducción
 
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
 Éste proyecto fue inspirado en una visita al acuero Michin de la CDMX sobre su experiencia interactiva en el que los niños iluminan o colorean un dibujo, se escanea y aparece en una proyección su dibujo.
 
 Con la llegada de la la IA generativa, nos hicimos de la pregunta si ese tipo de experiencia digitales no se podrían llevar a una actividad en el local de grupo.

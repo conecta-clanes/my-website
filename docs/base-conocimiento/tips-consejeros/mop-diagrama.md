@@ -1,5 +1,14 @@
 # 👷 Diagrama: Ruta para la Insignia Mensajeros de la Paz
 
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+
+## Diagrama Mensajeros de la Paz
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
 ```mermaid
 flowchart TD
     START(["🕊️ INICIO\nQuiero ser Mensajero de la Paz"])
