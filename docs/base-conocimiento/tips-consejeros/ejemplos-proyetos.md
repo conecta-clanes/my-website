@@ -1,4 +1,4 @@
-# Ejemplos Proyectos
+# 👷 Ejemplos Proyectos
 
 ## Introducción
 
@@ -27,7 +27,7 @@ Las pantillas oficiales se encuentran en el site [RECME] (https://recme.scouts.o
 - [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
 - [sdgs.scout.org/youth](https://sdgs.scout.org/youth)
 - [scout.org/messengers-of-peace](https://www.scout.org/messengers-of-peace)
-
+- [Proyectos y actividades educativas para jovenes de 15 a 21 años](https://www.scribd.com/doc/2366505/Proyectos-y-actividades-educativas-para-jovenes-de-15-a-21-anos)
 
 
 ##### Autora
