@@ -6,7 +6,7 @@ Basado en el libro de "Activividades y Proyecto" junto con la página [SDGS](htt
 
 ## Plantillas oficiales
 
-Las pantillas oficiales se encuentran en el site [RECME] (https://recme.scouts.org.mx/)
+Las pantillas oficiales se encuentran en el site [RECME](https://recme.scouts.org.mx/)
 
 ### Herramientas auxiliares
 
