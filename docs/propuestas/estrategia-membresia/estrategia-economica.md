@@ -20,7 +20,7 @@
 - Distribución de dinero por negocios por Alcaldía
         [Ver gráfica interactiva](https://y-castillo.com/estrategia-membresia/ingresos-x-negocio.html)
 
-        ![Distribución de dinero por negocios por Alcaldía](img/distribucion-dinero-negocio.jpeg)
+![Distribución de dinero por negocios por Alcaldía](img/distribucion-dinero-negocio.jpeg)
 
         El top de Alcaldías donde circula más dinero son
             - Cuahutemoc
@@ -33,11 +33,12 @@
 - Distribución de cantidad de negocios por Alcaldía 
         [Ver gráfica interactiva](https://y-castillo.com/estrategia-membresia/total_negocios.html)
 
-        ![Distribución de cantidad de negocios por Alcaldía](img/distribucion-cantidad-negocios.jpeg)
+![Distribución de cantidad de negocios por Alcaldía](img/distribucion-cantidad-negocios.jpeg)
 
 Iztapalapa sería un buen blanco por su cantidad de población en edad reglamentaría, sin embargo, no circula tanto dinero
 
 - Decaimiento de la infancia de población para ser Scout
+
 ![Estadistica de población](img/estadistica-poblacion.jpeg)
 
 |Grupo |Edad   | 2005   | 2020   | Decaimiento (%) |
@@ -61,8 +62,9 @@ La población de manada ha caído un 16%,  mientras que la de clan solo 6%
 
 - Mtra. en C. de D. para N. Yolanda Castillo
 
-### Agradecimientos
-- Doc. Antonio Bernal
+### Colaboradores
+
+- Doc. Antonio Bernal (idea original del estudio de distribución de dinero)
 - Mtro. David Flores
 - Doc. Julio César Castillo
 - Lic. Luis Antonio Rea
