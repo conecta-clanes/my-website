@@ -10,7 +10,8 @@ Son demasiados los cursos que se tiene que tomar y mucha información que se tie
 
 - Se descargaron los documentos con fecha del 23 de julio de 2026 de la página oficial
 - Se convirtieron todos los archivos a MD para poder carga a memoria la base de conocmiento descargada
-- se pidió a la IA generativa generar el chat multiplataforma
+- Se pidió a la IA generativa generar el chat multiplataforma
+- También se ejecuto el comando /memory de claude code para agregar todos los libros md a memoria
 
 ![Chat](img/app-chat-preguntas.png)
 

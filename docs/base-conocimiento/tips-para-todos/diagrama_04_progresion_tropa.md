@@ -4,7 +4,11 @@
 
 Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
 
-# Diagrama Progresión en Tropa
+## Tecnologías usadas
+
+- [Claude Code](https://claude.com/product/claude-code) 
+
+## Diagrama Progresión en Tropa
 
 ```mermaid
 flowchart TD

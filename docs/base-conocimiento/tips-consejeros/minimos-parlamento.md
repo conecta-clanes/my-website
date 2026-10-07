@@ -8,7 +8,14 @@
 
 Ya que la documentación oficial no lo precisa, se recomienda agregar un apartado en la **Carta de Clan** sorbre el tema, no olvidar considerar la relevancia del tema.
 
+## Tecnologías usadas
 
+- [Claude Code](https://claude.com/product/claude-code) 
+
+## Fuentes
+
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
 
 ## Sugerencias
 

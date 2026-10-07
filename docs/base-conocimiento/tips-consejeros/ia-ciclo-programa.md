@@ -13,7 +13,7 @@ Usar inteligencia artificiales para crear actividades atractivas
 
 - ChatGPT
 - Deep Seek
-- Claude
+- [Claude Code](https://claude.com/product/claude-code) 
 - Gemini
 - Copilot
 

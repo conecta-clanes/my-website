@@ -6,6 +6,11 @@
 
 Ésta es un propuesta sobre de como manejar algún conflicto, problema o inquitud de un Rover
 
+## Tecnologías usadas
+
+- [Claude Code](https://claude.com/product/claude-code) 
+
+
 ## Diagrama Manejo de Conflictos
 
 ```mermaid

@@ -1,11 +1,24 @@
 # Estructura del Clan de Rovers
 
+## Introducción
+
 Esta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
 
+## Tecnologías usadas
 
-**Sección:** Clan de Rovers · **Edades:** 18 a 21 años · **Lema:** ¡Servir!
+- [Claude Code](https://claude.com/product/claude-code) 
 
-> Fuentes: *Las Rutas del Rover* (ASMAC, 2024) · *Guía de Scouter de Clan de Rovers* (DNME/CNAM, 2024)
+## Fuentes
+
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+
+
+**Sección:** Clan de Rovers · 
+**Edades:** 18 a 21 años · 
+**Lema:** ¡Servir!
+
+## Diagrama Estructura del Clan de Rovers
 
 ---
 

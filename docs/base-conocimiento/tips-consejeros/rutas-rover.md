@@ -4,6 +4,15 @@
 
 Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
 
+## Tecnologías usadas
+
+- [Claude Code](https://claude.com/product/claude-code) 
+
+## Fuentes
+
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+
 ## Diagrama PROYECTO PERSONAL DE VIDA — PPV
 
 ```mermaid
