@@ -1,8 +1,8 @@
 #  🔥 Propuesta de estrategias para aumento de la membresía en la asociación
 
 
-Fecha: julio 2025-diciembre 2025
-Actualización 7 de octubre de 2026
+- Creación: julio 2025-diciembre 2025
+- Actualización: 7 de octubre de 2026
 
 ## Introducción
 
