@@ -1,3 +1,4 @@
+# ✏️ Liderazgo en el Clan de Rovers
 ---
 id: liderazgo-clan-rovers
 title: Liderazgo en el Clan de Rovers
@@ -12,9 +13,7 @@ tags: [clan, rovers, liderazgo, promotor, seguimiento, ASMAC]
 - [Claude Code](https://claude.com/product/claude-code) 
 
 
-# Liderazgo en el Clan de Rovers
-
-> Fuentes: *Las Rutas del Rover* §3.3–3.7 (ASMAC, 2024) · *Guía de Scouter de Clan de Rovers* (DNME/CNAM, 2024)
+## Diagrama Liderazgo en el Clan de Rovers
 
 ```mermaid
 flowchart TB
@@ -92,3 +91,14 @@ flowchart TB
 | **Formativo** | Liderazgo fuera del Movimiento | Brigadistas, consejeros, capitanes, representantes comunitarios | Variable |
 | **Adultos** | Consejero Rover Responsable (CRR) | Designado · mín. 27 años | Período del cargo |
 | **Adultos** | Consejeros Rover (CR) | Designados · mín. 25 años | Período del cargo |
+
+
+## Fuentes
+
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+
+
+#### Autora
+
+- Yolanda Castillo 
