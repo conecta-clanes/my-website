@@ -7,6 +7,11 @@ sidebar_position: 2
 tags: [clan, rovers, liderazgo, promotor, seguimiento, ASMAC]
 ---
 
+## Tecnologías usadas
+
+- [Claude Code](https://claude.com/product/claude-code) 
+
+
 # Liderazgo en el Clan de Rovers
 
 > Fuentes: *Las Rutas del Rover* §3.3–3.7 (ASMAC, 2024) · *Guía de Scouter de Clan de Rovers* (DNME/CNAM, 2024)
