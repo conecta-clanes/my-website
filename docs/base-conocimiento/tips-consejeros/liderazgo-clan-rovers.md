@@ -1,19 +1,12 @@
 # ✏️ Liderazgo en el Clan de Rovers
 ---
-id: liderazgo-clan-rovers
-title: Liderazgo en el Clan de Rovers
-description: Tipos y roles de liderazgo en el Clan de Rovers ASMAC — operativo, de proyecto, representativo y formativo.
-sidebar_label: Liderazgo
-sidebar_position: 2
-tags: [clan, rovers, liderazgo, promotor, seguimiento, ASMAC]
----
 
 ## Tecnologías usadas
 
 - [Claude Code](https://claude.com/product/claude-code) 
 
 
-## Diagrama Liderazgo en el Clan de Rovers
+## Diagrama Tipos y roles de liderazgo en el Clan de Rovers ASMAC — operativo, de proyecto, representativo y formativo.
 
 ```mermaid
 flowchart TB
