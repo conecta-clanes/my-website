@@ -25,3 +25,7 @@
 - [Gaia GPS](https://www.gaiagps.com/)
 - [OruxMapsGP](https://www.oruxmaps.com/)
 - [komoot](https://www.komoot.com/)
+
+##### Redactora
+
+- Yolanda Castillo

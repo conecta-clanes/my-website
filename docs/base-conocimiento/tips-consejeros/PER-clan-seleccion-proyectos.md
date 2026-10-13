@@ -81,3 +81,7 @@ flowchart TD
 > El **Parlamento Rover** selecciona las actividades colectivas del Clan (Ciclo de Programa y Macrociclo).
 > El **Ciclo Personal de Programa** es independiente y responde al PPV de cada Rover.
 ```
+
+#### Autora
+
+- Yolanda Castillo 

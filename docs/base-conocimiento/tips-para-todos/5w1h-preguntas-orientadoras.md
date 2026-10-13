@@ -119,8 +119,14 @@ flowchart TD
 
 ---
 
+
 ## Fuentes
 
-- Framework 5W+1H — Center for Teaching & Learning, UAF (ctl.uaf.edu)
-- Guía Nacional MoP ASMAC 2018 — aplicación como Preguntas Orientadoras
-- Las Rutas del Rover — ASMAC 2024
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+- [Framework 5W+1H — Center for Teaching & Learning, UAF](https://ctl.uaf.edu/2025/07/24/the-5w-and-1h-framework-in-academic-writing/)
+
+
+#### Autora
+
+- Yolanda Castillo 
