@@ -69,5 +69,7 @@ flowchart TD
     COM --> SIM
     COM --> MET
 ```
-##### Redactora
+
+##### Autora
+
     - Yolanda Castillo

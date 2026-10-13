@@ -133,3 +133,7 @@ flowchart TD
 | **Comités Especiales** | Temporal, designada por el Consejo | Según necesidad (máx. 1 año) |
 
 **Jerarquía de decisiones:** Comisión Ejecutiva de Provincia → Consejo de Grupo → Comité de Grupo → Secciones
+
+##### Autora
+
+- Yolanda Castillo

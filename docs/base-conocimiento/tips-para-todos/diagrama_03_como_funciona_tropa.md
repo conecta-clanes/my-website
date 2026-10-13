@@ -69,5 +69,6 @@ flowchart TD
     TROPA --> SIM
     TROPA --> MET
 ```
-##### Redactora
+##### Autora
+
     - Yolanda Castillo

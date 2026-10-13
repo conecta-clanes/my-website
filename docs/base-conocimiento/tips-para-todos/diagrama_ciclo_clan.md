@@ -79,5 +79,7 @@ flowchart TD
     ORG -.-> PER
     COL <-->|"Se integran\nmutualmente"| PER
 ```
-##### Redactora
+
+##### Autora
+
     - Yolanda Castillo

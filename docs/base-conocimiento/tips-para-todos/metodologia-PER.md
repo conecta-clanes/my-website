@@ -4,6 +4,10 @@
 
 Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
 
+La metodología PER en el mundo también se le conoce com o PDCA(Plan, Do, Check, Act)
+![PDCA](https://mitti.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fueprkma36dz5%2F72TD1x2DDrHqqosNGcoXmo%2Ffa9cb737f95ee2e4fef35a6eb84f33a4%2FEl-ciclo-PDCA.png&w=640&q=75)
+
+
 ## Tecnologías usadas
 
 - [Claude Code](https://claude.com/product/claude-code) 
@@ -46,3 +50,8 @@ flowchart LR
     E --- exec
     R --- rev
 ```
+
+
+##### Autora
+
+    - Yolanda Castillo

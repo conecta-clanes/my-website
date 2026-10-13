@@ -65,5 +65,6 @@ flowchart TD
     
 
 ```
-##### Redactora
+##### Autora
+
     - Yolanda Castillo

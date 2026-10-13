@@ -70,5 +70,6 @@ flowchart TD
     HERR -.-> REVI
 ```
 
-##### Redactora
+##### Autora
+
     - Yolanda Castillo

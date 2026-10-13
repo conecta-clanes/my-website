@@ -56,3 +56,8 @@ flowchart TD
     EJECUTAR --> REVISAR
     REVISAR -->|"♻️ Mejora continua\nnuevo ciclo"| PLANEAR
 ```
+
+
+##### Autora
+
+    - Yolanda Castillo

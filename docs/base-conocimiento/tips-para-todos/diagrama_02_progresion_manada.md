@@ -64,5 +64,7 @@ flowchart TD
     EVAL --> ESP
     EVAL --> FIN
 ```
-##### Redactora
+
+##### Autora
+
     - Yolanda Castillo
