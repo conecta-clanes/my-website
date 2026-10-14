@@ -14,7 +14,7 @@ Cómo funciona la Tropa
 
 ```mermaid
 flowchart TD
-    TROPA(["⚜️ TROPA DE SCOUTS · 10 a 14 años\nLema: Siempre Listos"])
+    TROPA(["⚜️ TROPA DE SCOUTS · 10 a 14 años<BR>Lema: Siempre Listos"])
 
     subgraph ADU["ADULTOS — Scouters"]
         direction TB
@@ -29,17 +29,17 @@ flowchart TD
         GUIA["Guía de Patrulla · Líder"]
         SUBG["Subguía de Patrulla"]
         MIEMB["2–6 Integrantes"]
-        ROLES["Roles rotativos: Tesorero · Secretario\nCronista · Botiquinero · Cocinero"]
+        ROLES["Roles rotativos: Tesorero · Secretario<BR>Cronista · Botiquinero · Cocinero"]
         GUIA --> SUBG --> MIEMB
         MIEMB --- ROLES
     end
 
     subgraph GOB["ÓRGANOS DE GOBIERNO"]
         direction TB
-        CP["Consejo de Patrulla\nGuía + Subguía + miembros\nDecisiones internas de la Patrulla"]
-        AT["Asamblea de Tropa\nTodos los scouts + Scouters\nDecisiones generales"]
-        CH["Corte de Honor\nGuías + Subguías + Jefe + Subjefe\nEvaluación de progresión"]
-        ES["Equipo de Scouters\nSolo adultos · Planificación pedagógica"]
+        CP["Consejo de Patrulla<BR>Guía + Subguía + miembros<BR>Decisiones internas de la Patrulla"]
+        AT["Asamblea de Tropa<BR>Todos los scouts + Scouters<BR>Decisiones generales"]
+        CH["Corte de Honor<BR>Guías + Subguías + Jefe + Subjefe<BR>Evaluación de progresión"]
+        ES["Equipo de Scouters<BR>Solo adultos · Planificación pedagógica"]
         CP --> AT
         AT --- CH
         CH --- ES
@@ -48,7 +48,7 @@ flowchart TD
     subgraph SIM["MARCO SIMBÓLICO — Tradición Scout B-P"]
         direction TB
         PROM["Promesa Scout · Honor personal"]
-        LEY10["Ley Scout · 10 artículos\nConfianza · Lealtad · Servicio\nAmistad · Amabilidad · Obediencia\nAlegría · Frugalidad · Valentía · Pureza"]
+        LEY10["Ley Scout · 10 artículos<BR>Confianza · Lealtad · Servicio<BR>Amistad · Amabilidad · Obediencia<BR>Alegría · Frugalidad · Valentía · Pureza"]
         GRITO["Grito de Patrulla · identidad del grupo"]
         PROM --> LEY10 --> GRITO
     end
@@ -57,8 +57,8 @@ flowchart TD
         direction TB
         EXP["Ciclo: Gran Exploración · 3–4 meses"]
         PER["PER: Planear → Ejecutar → Revisar"]
-        TEC["Técnicas Scout\nOrientación · Campismo · Primeros Auxilios\nNudos · Señalamiento"]
-        NAT["Aventuras en la Naturaleza\nSalidas · Campamentos · Excursiones"]
+        TEC["Técnicas Scout<BR>Orientación · Campismo · Primeros Auxilios<BR>Nudos · Señalamiento"]
+        NAT["Aventuras en la Naturaleza<BR>Salidas · Campamentos · Excursiones"]
         EXP --> PER --> TEC --> NAT
     end
 

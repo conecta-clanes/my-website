@@ -21,25 +21,25 @@ flowchart TD
 
     %% ─── PLANEAR ────────────────────────────────────────────
     subgraph PLANEAR ["📋 PLANEAR — Preparo mi propia aventura"]
-        P1["1️⃣ Inspirarse\nResponder Preguntas Generadoras:\n¿qué me interesa?, ¿qué necesito?,\n¿qué quiero lograr en esta etapa de mi vida?"]
-        P2["2️⃣ Elegir Ruta y Eje Temático\n🏃 Salud y Bienestar\n🤝 Habilidades para la Vida\n☮️ Paz y Acción Comunitaria\n🌿 Medio Ambiente y Sustentabilidad"]
-        P3{"3️⃣ ¿Qué tipo de\nAcción Educativa?"}
+        P1["1️⃣ Inspirarse<BR>Responder Preguntas Generadoras:<BR>¿qué me interesa?, ¿qué necesito?,<BR>¿qué quiero lograr en esta etapa de mi vida?"]
+        P2["2️⃣ Elegir Ruta y Eje Temático<BR>🏃 Salud y Bienestar<BR>🤝 Habilidades para la Vida<BR>☮️ Paz y Acción Comunitaria<BR>🌿 Medio Ambiente y Sustentabilidad"]
+        P3{"3️⃣ ¿Qué tipo de<BR>Acción Educativa?"}
 
-        P4A["🗂️ PROYECTO\n1 a 3 Ciclos de Programa\nActividades centrales + conexas\nAlto impacto en PPV y comunidad"]
-        P4B["📌 ACTIVIDAD\nCorta o mediana duración\nUn evento o experiencia puntual"]
-        P4C["🏅 ESPECIALIDAD\nDesarrollo de una habilidad específica\nPuede combinarse con Ruta o Iniciativa"]
-        P4D["🌐 EVENTO\nDentro o fuera del Movimiento\n(provincial · nacional · internacional)"]
+        P4A["🗂️ PROYECTO<BR>1 a 3 Ciclos de Programa<BR>Actividades centrales + conexas<BR>Alto impacto en PPV y comunidad"]
+        P4B["📌 ACTIVIDAD<BR>Corta o mediana duración<BR>Un evento o experiencia puntual"]
+        P4C["🏅 ESPECIALIDAD<BR>Desarrollo de una habilidad específica<BR>Puede combinarse con Ruta o Iniciativa"]
+        P4D["🌐 EVENTO<BR>Dentro o fuera del Movimiento<BR>(provincial · nacional · internacional)"]
 
-        P5["4️⃣ Verificar alineación con el PPV\n¿Contribuye a mi Proyecto Personal de Vida?\n¿Qué Plano de Relación desarrolla?\n(Consigo Mismo · los Demás · el Entorno · lo Trascendente)"]
-        P6["5️⃣ Definir objetivos SMART\nEspecífico · Medible · Alcanzable\nRealista · Con plazo definido"]
-        P7["6️⃣ Elaborar cronograma y plan de recursos\n• Tiempo de planeación / ejecución / revisión\n• Presupuesto y materiales\n• Personas involucradas\n• Colaboradores dentro y fuera del Movimiento"]
-        P8["7️⃣ Presentar al Parlamento Rover\ny registrar en la Agenda Rover"]
+        P5["4️⃣ Verificar alineación con el PPV<BR>¿Contribuye a mi Proyecto Personal de Vida?<BR>¿Qué Plano de Relación desarrolla?<BR>(Consigo Mismo · los Demás · el Entorno · lo Trascendente)"]
+        P6["5️⃣ Definir objetivos SMART<BR>Específico · Medible · Alcanzable<BR>Realista · Con plazo definido"]
+        P7["6️⃣ Elaborar cronograma y plan de recursos<BR>• Tiempo de planeación / ejecución / revisión<BR>• Presupuesto y materiales<BR>• Personas involucradas<BR>• Colaboradores dentro y fuera del Movimiento"]
+        P8["7️⃣ Presentar al Parlamento Rover<BR>y registrar en la Agenda Rover"]
 
         P1 --> P2 --> P3
-        P3 -->|"Largo plazo\nalta complejidad"| P4A
-        P3 -->|"Corta duración\nevento único"| P4B
-        P3 -->|"Desarrollo de\nhabilidad específica"| P4C
-        P3 -->|"Participación\nen evento"| P4D
+        P3 -->|"Largo plazo<BR>alta complejidad"| P4A
+        P3 -->|"Corta duración<BR>evento único"| P4B
+        P3 -->|"Desarrollo de<BR>habilidad específica"| P4C
+        P3 -->|"Participación<BR>en evento"| P4D
         P4A --> P5
         P4B --> P5
         P4C --> P5
@@ -49,19 +49,19 @@ flowchart TD
 
     %% ─── EJECUTAR ───────────────────────────────────────────
     subgraph EJECUTAR ["🚀 EJECUTAR — Vivo mi propia aventura"]
-        E1["Inicio\nVerificar recursos, materiales\ny personas para cada fase"]
-        E2["Ejecución\n• Realizar las AES dentro y fuera del Movimiento\n• Registrar horas de servicio del equipo\n• Documentar con fotos, videos y testimonios"]
-        E3["Monitoreo continuo\n• Seguimiento de tiempo y presupuesto\n• Ajustar el plan si es necesario\n• Comunicación con Consejero/a (CRR)"]
-        E4["Cierre\nReconocer el esfuerzo\nde todos los colaboradores"]
+        E1["Inicio<BR>Verificar recursos, materiales<BR>y personas para cada fase"]
+        E2["Ejecución<BR>• Realizar las AES dentro y fuera del Movimiento<BR>• Registrar horas de servicio del equipo<BR>• Documentar con fotos, videos y testimonios"]
+        E3["Monitoreo continuo<BR>• Seguimiento de tiempo y presupuesto<BR>• Ajustar el plan si es necesario<BR>• Comunicación con Consejero/a (CRR)"]
+        E4["Cierre<BR>Reconocer el esfuerzo<BR>de todos los colaboradores"]
         E1 --> E2 --> E3 --> E4
     end
 
     %% ─── REVISAR ────────────────────────────────────────────
     subgraph REVISAR ["🔍 REVISAR — Reflexiono y registro"]
-        R1["Autoevaluación\n• ¿Logré mis objetivos SMART?\n• ¿Qué competencias desarrollé?\n• ¿Cómo impactó mi PPV?"]
-        R2["Evaluación con apoyo\n• Revisión con Consejero/a, amistades o familia\n• Medir impacto en la comunidad\n• Retroalimentación del Equipo de Seguimiento (ES)"]
-        R3["Registro en Agenda Rover\n• Anotar avance en la Ruta elegida\n• Registrar lecciones aprendidas\n• Documentar horas de servicio"]
-        R4["Proyección hacia el siguiente ciclo\n• ¿Continúo o inicio un nuevo proyecto?\n• ¿Qué nuevas competencias quiero desarrollar?\n• Compartir resultados en el Parlamento Rover"]
+        R1["Autoevaluación<BR>• ¿Logré mis objetivos SMART?<BR>• ¿Qué competencias desarrollé?<BR>• ¿Cómo impactó mi PPV?"]
+        R2["Evaluación con apoyo<BR>• Revisión con Consejero/a, amistades o familia<BR>• Medir impacto en la comunidad<BR>• Retroalimentación del Equipo de Seguimiento (ES)"]
+        R3["Registro en Agenda Rover<BR>• Anotar avance en la Ruta elegida<BR>• Registrar lecciones aprendidas<BR>• Documentar horas de servicio"]
+        R4["Proyección hacia el siguiente ciclo<BR>• ¿Continúo o inicio un nuevo proyecto?<BR>• ¿Qué nuevas competencias quiero desarrollar?<BR>• Compartir resultados en el Parlamento Rover"]
         R1 --> R2 --> R3 --> R4
     end
 
@@ -69,7 +69,7 @@ flowchart TD
     INICIO --> PLANEAR
     PLANEAR --> EJECUTAR
     EJECUTAR --> REVISAR
-    REVISAR -->|"♻️ Nuevo Ciclo Personal\nde Programa"| PLANEAR
+    REVISAR -->|"♻️ Nuevo Ciclo Personal<BR>de Programa"| PLANEAR
 ```
 
 > **Tipos de Acción Educativa (AES) en el Clan de Rovers:**

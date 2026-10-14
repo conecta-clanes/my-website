@@ -24,28 +24,28 @@ Esta propuesta no sustituyen la documentación oficial, no nos hacemos responsab
 
 ```mermaid
 flowchart LR
-    CRR["**CRR**\nConsejero Rover Responsable\nmín. 27 años\nvoto igual al Rover · veto limitado"]
-    CR["**CR**\nConsejeros Rover\nmín. 25 años\n1 por cada 5 Rovers"]
+    CRR["**CRR**<BR>Consejero Rover Responsable<BR>mín. 27 años<BR>voto igual al Rover · veto limitado"]
+    CR["**CR**<BR>Consejeros Rover<BR>mín. 25 años<BR>1 por cada 5 Rovers"]
 
     subgraph PARL["PARLAMENTO ROVER · órgano legislativo · voz y voto igualitario"]
-        RV["**ROVERS**\n18-21 años\nProtagonistas del Programa"]
-        PR["**Promotor Rover**\nElegido democráticamente\nmáx. 1 año · Presidenta-e"]
-        ES["**Equipo de Seguimiento ES**\n1 por cada 5 Rovers · máx. 1 año"]
-        EAP["**Equipo de Apoyo a Proyecto EAP**\nTemporal · Líder elegido por el equipo"]
-        REP_G["**Representantes Juveniles**\nnivel Grupo"]
-        IA["**Individuo Asociado**\nRover sin Clan activo"]
+        RV["**ROVERS**<BR>18-21 años<BR>Protagonistas del Programa"]
+        PR["**Promotor Rover**<BR>Elegido democráticamente<BR>máx. 1 año · Presidenta-e"]
+        ES["**Equipo de Seguimiento ES**<BR>1 por cada 5 Rovers · máx. 1 año"]
+        EAP["**Equipo de Apoyo a Proyecto EAP**<BR>Temporal · Líder elegido por el equipo"]
+        REP_G["**Representantes Juveniles**<BR>nivel Grupo"]
+        IA["**Individuo Asociado**<BR>Rover sin Clan activo"]
     end
 
     subgraph GRUPO["NIVEL GRUPO"]
-        CG["**Consejo de Grupo**\nVeto sobre acuerdos contrarios\na ordenamientos o seguridad"]
-        ASC["**Asociado Rover**\nEx-Rover con registro vigente"]
+        CG["**Consejo de Grupo**<BR>Veto sobre acuerdos contrarios<BR>a ordenamientos o seguridad"]
+        ASC["**Asociado Rover**<BR>Ex-Rover con registro vigente"]
     end
 
     subgraph INST["VINCULACIÓN INSTITUCIONAL"]
-        FOROS["**Foros**\nProvinciales y Nacionales"]
-        RJ["**Red de Jóvenes**\nRepresentantes elegidos por Foros"]
-        COP["**COP**\nConsejo de Provincia"]
-        CEP["**CEP**\nComisión Ejecutiva de Provincia"]
+        FOROS["**Foros**<BR>Provinciales y Nacionales"]
+        RJ["**Red de Jóvenes**<BR>Representantes elegidos por Foros"]
+        COP["**COP**<BR>Consejo de Provincia"]
+        CEP["**CEP**<BR>Comisión Ejecutiva de Provincia"]
     end
 
     CRR -->|"voto + veto limitado"| PR

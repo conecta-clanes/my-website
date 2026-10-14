@@ -16,33 +16,33 @@
 ```mermaid
 flowchart TB
 
-    RV(["ROVERS · 18-21 años\nProtagonistas de todos los liderazgos del Clan"])
+    RV(["ROVERS · 18-21 años<BR>Protagonistas de todos los liderazgos del Clan"])
 
     subgraph OP["LIDERAZGO OPERATIVO · elegido democráticamente en el Parlamento"]
-        PR["Promotor Rover\nmáx. 1 año consecutivo\nPreside el Parlamento\nAdministra y coordina el Clan"]
-        CAL["Calidades en apoyo al Promotor\nOrientadores · Secretario de acuerdos\nTesorero · Encargado de redes\nPrimeros auxilios · Mentores · Sinodales"]
-        ES["Equipo de Seguimiento ES\n1 por cada 5 Rovers · máx. 1 año\nSeguimiento al PPV · informa al Parlamento\nRequisito: haber concluido al menos un proyecto"]
+        PR["Promotor Rover<BR>máx. 1 año consecutivo<BR>Preside el Parlamento<BR>Administra y coordina el Clan"]
+        CAL["Calidades en apoyo al Promotor<BR>Orientadores · Secretario de acuerdos<BR>Tesorero · Encargado de redes<BR>Primeros auxilios · Mentores · Sinodales"]
+        ES["Equipo de Seguimiento ES<BR>1 por cada 5 Rovers · máx. 1 año<BR>Seguimiento al PPV · informa al Parlamento<BR>Requisito: haber concluido al menos un proyecto"]
     end
 
     subgraph PROY["LIDERAZGO DE PROYECTO · dentro de los EAP"]
-        LP["Líder de Proyecto\nElegido por el equipo\nDirige y coordina el EAP\nToma decisiones y gestiona el equipo"]
-        EAP["Equipo de Apoyo a Proyecto EAP\nTemporal · todos reciben reconocimiento al concluir"]
+        LP["Líder de Proyecto<BR>Elegido por el equipo<BR>Dirige y coordina el EAP<BR>Toma decisiones y gestiona el equipo"]
+        EAP["Equipo de Apoyo a Proyecto EAP<BR>Temporal · todos reciben reconocimiento al concluir"]
     end
 
     subgraph REP["LIDERAZGO REPRESENTATIVO · portavoces elegidos democráticamente"]
-        REP_G["Representante Juvenil\nnivel Grupo\nVoz y voto en el Consejo de Grupo\nPeríodo: 1 año calendario"]
-        FOR["Foristas\nAsisten a Foros Provinciales y Nacionales\nExponen propuestas del Clan"]
-        REP_P["Representante Juvenil\nnivel Provincia\nComité Red de Jóvenes\nVoz y voto en COP y CEP"]
-        REP_N["Representante Juvenil\nnivel Nacional\nComité Nacional Red de Jóvenes"]
+        REP_G["Representante Juvenil<BR>nivel Grupo<BR>Voz y voto en el Consejo de Grupo<BR>Período: 1 año calendario"]
+        FOR["Foristas<BR>Asisten a Foros Provinciales y Nacionales<BR>Exponen propuestas del Clan"]
+        REP_P["Representante Juvenil<BR>nivel Provincia<BR>Comité Red de Jóvenes<BR>Voz y voto en COP y CEP"]
+        REP_N["Representante Juvenil<BR>nivel Nacional<BR>Comité Nacional Red de Jóvenes"]
     end
 
     subgraph FORM["LIDERAZGO FORMATIVO · espacios de desarrollo"]
-        PF["Puntas de Flecha\nEvento Provincial o Nacional\nTalleres de liderazgo y autonomía\nValor curricular y para proyectos"]
-        EXT["Liderazgo fuera del Movimiento\nBrigadistas · Voluntarios\nConsejeros estudiantiles\nCapitanes · Representantes comunitarios"]
+        PF["Puntas de Flecha<BR>Evento Provincial o Nacional<BR>Talleres de liderazgo y autonomía<BR>Valor curricular y para proyectos"]
+        EXT["Liderazgo fuera del Movimiento<BR>Brigadistas · Voluntarios<BR>Consejeros estudiantiles<BR>Capitanes · Representantes comunitarios"]
     end
 
-    CRR["CRR · Consejero Rover Responsable\nmín. 27 años · Facilitador\nMiembro del Parlamento · voto + veto limitado"]
-    CR["CR · Consejeros Rover\nmín. 25 años · Facilitadores\nAcompañan PPV y liderazgos · 1 por cada 5 Rovers"]
+    CRR["CRR · Consejero Rover Responsable<BR>mín. 27 años · Facilitador<BR>Miembro del Parlamento · voto + veto limitado"]
+    CR["CR · Consejeros Rover<BR>mín. 25 años · Facilitadores<BR>Acompañan PPV y liderazgos · 1 por cada 5 Rovers"]
 
     RV -->|"eligen"| PR
     RV -->|"eligen"| ES

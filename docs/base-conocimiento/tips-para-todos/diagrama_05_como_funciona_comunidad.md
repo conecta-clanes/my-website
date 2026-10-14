@@ -12,7 +12,7 @@
 
 ```mermaid
 flowchart TD
-    COM(["🏔️ COMUNIDAD DE CAMINANTES · 14 a 18 años\nLema: Siempre Adelante"])
+    COM(["🏔️ COMUNIDAD DE CAMINANTES · 14 a 18 años<BR>Lema: Siempre Adelante"])
 
     subgraph ADU["ADULTOS — Scouters (rol de acompañamiento)"]
         direction TB
@@ -33,11 +33,11 @@ flowchart TD
 
     subgraph GOB["ÓRGANOS DE GOBIERNO · Sistema democrático"]
         direction TB
-        CE["Consejo de Equipo\nMiembros del Equipo\nDecisiones internas del Equipo"]
-        CC["Comité de Comunidad\nRepresentantes + Scouters\nCoordinación cotidiana · órgano ejecutivo"]
-        CON["Congreso de Comunidad\nTodos los Caminantes\nDecisiones estratégicas · órgano legislativo"]
-        CS["Consejo de Sección\nCoordinadores + Scouters\nSeguimiento general"]
-        ES["Equipo de Scouters\nSolo adultos · Planificación pedagógica"]
+        CE["Consejo de Equipo<BR>Miembros del Equipo<BR>Decisiones internas del Equipo"]
+        CC["Comité de Comunidad<BR>Representantes + Scouters<BR>Coordinación cotidiana · órgano ejecutivo"]
+        CON["Congreso de Comunidad<BR>Todos los Caminantes<BR>Decisiones estratégicas · órgano legislativo"]
+        CS["Consejo de Sección<BR>Coordinadores + Scouters<BR>Seguimiento general"]
+        ES["Equipo de Scouters<BR>Solo adultos · Planificación pedagógica"]
         CE --> CC
         CC --> CON
         CON --- CS
@@ -46,7 +46,7 @@ flowchart TD
 
     subgraph SIM["MARCO SIMBÓLICO — La propia aventura"]
         direction TB
-        CONC["Concepto central:\nEl desafío de vivir mi propia aventura"]
+        CONC["Concepto central:<BR>El desafío de vivir mi propia aventura"]
         PROM["Promesa Scout · Ley Scout · 10 artículos"]
         ORA["Oración del Caminante · reflexión profunda"]
         CONC --> PROM --> ORA
@@ -55,10 +55,10 @@ flowchart TD
     subgraph MET["METODOLOGÍA"]
         direction TB
         CIC["Ciclo de Programa · 3–4 meses"]
-        HOJ["Hoja de Caminata\nherramienta central de planificación\ny seguimiento personal"]
+        HOJ["Hoja de Caminata<BR>herramienta central de planificación<BR>y seguimiento personal"]
         PER["PER: Planear → Ejecutar → Revisar"]
         SMART["SMART: Específico · Medible · Alcanzable · Realista · Tiempo"]
-        PROY["Proyectos de Equipo\nmetodología por proyectos"]
+        PROY["Proyectos de Equipo<BR>metodología por proyectos"]
         CIC --> HOJ --> PER --> SMART --> PROY
     end
 

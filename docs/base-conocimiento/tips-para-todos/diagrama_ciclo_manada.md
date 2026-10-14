@@ -12,25 +12,25 @@
 
 ```mermaid
 flowchart TD
-    TITLE(["🐺 LA GRAN CACERÍA\nCiclo de Programa · Manada de Lobatos · 6–10 años\nDuración: 3 a 4 meses · 3 o 4 ciclos por año"])
+    TITLE(["🐺 LA GRAN CACERÍA<BR>Ciclo de Programa · Manada de Lobatos · 6–10 años<BR>Duración: 3 a 4 meses · 3 o 4 ciclos por año"])
 
-    F1["📋 FASE 1\nDIAGNÓSTICO\nEvaluaciones personales o de Sección\nDefine el énfasis de la Gran Cacería"]
+    F1["📋 FASE 1<BR>DIAGNÓSTICO<BR>Evaluaciones personales o de Sección<BR>Define el énfasis de la Gran Cacería"]
 
-    F2["💡 FASE 2\nPROPUESTA Y SELECCIÓN DE ACTIVIDADES\nPropuestas del Consejo de Roca\nJuego democrático: voluntad de la mayoría"]
+    F2["💡 FASE 2<BR>PROPUESTA Y SELECCIÓN DE ACTIVIDADES<BR>Propuestas del Consejo de Roca<BR>Juego democrático: voluntad de la mayoría"]
 
-    F3["🗓️ FASE 3\nORGANIZACIÓN, DISEÑO Y PREPARACIÓN\nCalendario de actividades\nDiseño de acuerdo a los objetivos"]
+    F3["🗓️ FASE 3<BR>ORGANIZACIÓN, DISEÑO Y PREPARACIÓN<BR>Calendario de actividades<BR>Diseño de acuerdo a los objetivos"]
 
-    F4["🏃 FASE 4\nDESARROLLO Y EVALUACIÓN\nFase de mayor duración del ciclo\nEvaluación por observación continua\nSeguimiento de la Progresión Personal"]
+    F4["🏃 FASE 4<BR>DESARROLLO Y EVALUACIÓN<BR>Fase de mayor duración del ciclo<BR>Evaluación por observación continua<BR>Seguimiento de la Progresión Personal"]
 
     subgraph GOB["ÓRGANO CENTRAL — Consejo de Roca"]
-        OR["Todos los miembros de la Manada:\nSeiseneros/as + demás lobatos/lobeznas + Viejos Lobos\n• Define énfasis del ciclo\n• Propone y elige actividades\n• Evalúa la cacería al cierre"]
+        OR["Todos los miembros de la Manada:<BR>Seiseneros/as + demás lobatos/lobeznas + Viejos Lobos<BR>• Define énfasis del ciclo<BR>• Propone y elige actividades<BR>• Evalúa la cacería al cierre"]
     end
 
     subgraph HERR["HERRAMIENTAS DEL CICLO"]
-        H1["Malla de Competencias\nPresas · Dentelladas · Rastros"]
-        H2["Preguntas Orientadoras\nDetonadores de actividades e inquietudes"]
-        H3["Vida al Aire Libre (VAL)\nAl menos 1 por Gran Cacería\nCampamento · Excursión · Acantonamiento"]
-        H4["Libro de Rastros\nRegistro personal de progresión"]
+        H1["Malla de Competencias<BR>Presas · Dentelladas · Rastros"]
+        H2["Preguntas Orientadoras<BR>Detonadores de actividades e inquietudes"]
+        H3["Vida al Aire Libre (VAL)<BR>Al menos 1 por Gran Cacería<BR>Campamento · Excursión · Acantonamiento"]
+        H4["Libro de Rastros<BR>Registro personal de progresión"]
     end
 
     TITLE --> F1

@@ -13,41 +13,41 @@
 
 ```mermaid
 mindmap
-  root(("❓ 5W + 1H\nPreguntas\nOrientadoras"))
-    WHO("👤 WHO\n¿QUIÉN?")
+  root(("❓ 5W + 1H<BR>Preguntas<BR>Orientadoras"))
+    WHO("👤 WHO<BR>¿QUIÉN?")
       ::icon(fa fa-user)
-      académico("Académico:\nAutor · Audiencia\nPartes interesadas\n¿Quién investiga?\n¿A quién va dirigido?")
-      scout("Scout:\n¿Quiénes participan?\n¿Quién coordina?\n¿Quiénes son los\nbenefiiciarios?\n¿Quién evalúa?")
-    WHAT("📦 WHAT\n¿QUÉ?")
-      académico2("Académico:\nTema · Problema\nHipótesis · Argumento\n¿Qué se investiga?\n¿Qué se demuestra?")
-      scout2("Scout:\n¿Qué problema\nqueremos resolver?\n¿Qué actividad\no proyecto?\n¿Qué ODS impactamos?")
-    WHEN("📅 WHEN\n¿CUÁNDO?")
-      académico3("Académico:\nContexto temporal\nPeríodo de estudio\n¿Cuándo ocurrió?\n¿Cuándo es relevante?")
-      scout3("Scout:\n¿Cuándo se realiza?\nCronograma\nFechas clave\nDuración del proyecto")
-    WHERE("📍 WHERE\n¿DÓNDE?")
-      académico4("Académico:\nContexto geográfico\nÁmbito de la investigación\n¿Dónde aplica?\n¿Dónde se desarrolla?")
-      scout4("Scout:\n¿Dónde se realiza?\nComunidad · Barrio\nEscuela · Parque\nÁrea de impacto")
-    WHY("💡 WHY\n¿POR QUÉ?")
-      académico5("Académico:\nJustificación\nRelevancia · Propósito\n¿Por qué es importante?\n¿Qué vacío llena?")
-      scout5("Scout:\n¿Por qué este proyecto?\nNecesidad identificada\nVinculación con ODS\nImpacto esperado")
-    HOW("⚙️ HOW\n¿CÓMO?")
-      académico6("Académico:\nMetodología · Proceso\nEstrategia · Método\n¿Cómo se investiga?\n¿Cómo se argumenta?")
-      scout6("Scout:\n¿Cómo lo haremos?\nPlan de acción\nRecursos · Etapas\nMonitoreo y evaluación")
+      académico("Académico:<BR>Autor · Audiencia<BR>Partes interesadas<BR>¿Quién investiga?<BR>¿A quién va dirigido?")
+      scout("Scout:<BR>¿Quiénes participan?<BR>¿Quién coordina?<BR>¿Quiénes son los<BR>benefiiciarios?<BR>¿Quién evalúa?")
+    WHAT("📦 WHAT<BR>¿QUÉ?")
+      académico2("Académico:<BR>Tema · Problema<BR>Hipótesis · Argumento<BR>¿Qué se investiga?<BR>¿Qué se demuestra?")
+      scout2("Scout:<BR>¿Qué problema<BR>queremos resolver?<BR>¿Qué actividad<BR>o proyecto?<BR>¿Qué ODS impactamos?")
+    WHEN("📅 WHEN<BR>¿CUÁNDO?")
+      académico3("Académico:<BR>Contexto temporal<BR>Período de estudio<BR>¿Cuándo ocurrió?<BR>¿Cuándo es relevante?")
+      scout3("Scout:<BR>¿Cuándo se realiza?<BR>Cronograma<BR>Fechas clave<BR>Duración del proyecto")
+    WHERE("📍 WHERE<BR>¿DÓNDE?")
+      académico4("Académico:<BR>Contexto geográfico<BR>Ámbito de la investigación<BR>¿Dónde aplica?<BR>¿Dónde se desarrolla?")
+      scout4("Scout:<BR>¿Dónde se realiza?<BR>Comunidad · Barrio<BR>Escuela · Parque<BR>Área de impacto")
+    WHY("💡 WHY<BR>¿POR QUÉ?")
+      académico5("Académico:<BR>Justificación<BR>Relevancia · Propósito<BR>¿Por qué es importante?<BR>¿Qué vacío llena?")
+      scout5("Scout:<BR>¿Por qué este proyecto?<BR>Necesidad identificada<BR>Vinculación con ODS<BR>Impacto esperado")
+    HOW("⚙️ HOW<BR>¿CÓMO?")
+      académico6("Académico:<BR>Metodología · Proceso<BR>Estrategia · Método<BR>¿Cómo se investiga?<BR>¿Cómo se argumenta?")
+      scout6("Scout:<BR>¿Cómo lo haremos?<BR>Plan de acción<BR>Recursos · Etapas<BR>Monitoreo y evaluación")
 ```
 
 ---
 
 ```mermaid
 flowchart TD
-    TITLE["🧭 PREGUNTAS ORIENTADORAS EN EL ESCULTISMO\nAplicación en Proyectos y Actividades Scout"]
+    TITLE["🧭 PREGUNTAS ORIENTADORAS EN EL ESCULTISMO<BR>Aplicación en Proyectos y Actividades Scout"]
 
     TITLE --> PLAN
 
     subgraph PLAN["📋 FASE DE PLANEACIÓN"]
         direction LR
-        WHO["👤 ¿QUIÉN?\nCoordinadores · Colaboradores\nBeneficiarios · Scouters"]
-        WHAT["📦 ¿QUÉ?\nProblema a resolver\nTipo de proyecto o actividad\nODS a impactar"]
-        WHY["💡 ¿POR QUÉ?\nNecesidad detectada\nJustificación del proyecto\nConexión con la Promesa y Ley"]
+        WHO["👤 ¿QUIÉN?<BR>Coordinadores · Colaboradores<BR>Beneficiarios · Scouters"]
+        WHAT["📦 ¿QUÉ?<BR>Problema a resolver<BR>Tipo de proyecto o actividad<BR>ODS a impactar"]
+        WHY["💡 ¿POR QUÉ?<BR>Necesidad detectada<BR>Justificación del proyecto<BR>Conexión con la Promesa y Ley"]
         WHO --- WHAT --- WHY
     end
 
@@ -55,9 +55,9 @@ flowchart TD
 
     subgraph EXEC["⚡ FASE DE EJECUCIÓN"]
         direction LR
-        WHEN["📅 ¿CUÁNDO?\nCronograma · Fechas clave\nDuración · Horas de servicio"]
-        WHERE["📍 ¿DÓNDE?\nComunidad · Espacio físico\nÁrea de impacto"]
-        HOW["⚙️ ¿CÓMO?\nPlan de acción · Etapas\nRecursos · Método de trabajo"]
+        WHEN["📅 ¿CUÁNDO?<BR>Cronograma · Fechas clave<BR>Duración · Horas de servicio"]
+        WHERE["📍 ¿DÓNDE?<BR>Comunidad · Espacio físico<BR>Área de impacto"]
+        HOW["⚙️ ¿CÓMO?<BR>Plan de acción · Etapas<BR>Recursos · Método de trabajo"]
         WHEN --- WHERE --- HOW
     end
 
@@ -65,24 +65,24 @@ flowchart TD
 
     subgraph EVAL["🔍 FASE DE EVALUACIÓN"]
         direction LR
-        E1["¿Quién participó\nrealmente?"]
-        E2["¿Qué se logró\nvs. lo planeado?"]
-        E3["¿Por qué se\nlograron o no\nlos objetivos?"]
-        E4["¿Cuándo se\nalcanzaron los\nhitos clave?"]
-        E5["¿Dónde fue\nel mayor\nimpacto?"]
-        E6["¿Cómo se puede\nmejorar para la\npróxima vez?"]
+        E1["¿Quién participó<BR>realmente?"]
+        E2["¿Qué se logró<BR>vs. lo planeado?"]
+        E3["¿Por qué se<BR>lograron o no<BR>los objetivos?"]
+        E4["¿Cuándo se<BR>alcanzaron los<BR>hitos clave?"]
+        E5["¿Dónde fue<BR>el mayor<BR>impacto?"]
+        E6["¿Cómo se puede<BR>mejorar para la<BR>próxima vez?"]
         E1 --- E2 --- E3 --- E4 --- E5 --- E6
     end
 
     EVAL --> MOP
 
     subgraph MOP["🕊️ APLICACIÓN EN MENSAJEROS DE LA PAZ"]
-        M1["¿QUIÉN?\n→ Máx. 5 coordinadores Rovers\nBeneficiarios activos en el proyecto"]
-        M2["¿QUÉ?\n→ Proyecto de servicio comunitario\nalineado a un ODS"]
-        M3["¿POR QUÉ?\n→ Construir una Cultura de Paz\nContribuir a la Agenda 2030"]
-        M4["¿CUÁNDO?\n→ Inicio conteo de horas al informar\nal Jefe de Sección · 800 h mínimo"]
-        M5["¿DÓNDE?\n→ Comunidad local · scout.org\nsdgs.scout.org → mapa global"]
-        M6["¿CÓMO?\n→ 4 Pasos: Inspira · Aprende\nActúa · Comparte"]
+        M1["¿QUIÉN?<BR>→ Máx. 5 coordinadores Rovers<BR>Beneficiarios activos en el proyecto"]
+        M2["¿QUÉ?<BR>→ Proyecto de servicio comunitario<BR>alineado a un ODS"]
+        M3["¿POR QUÉ?<BR>→ Construir una Cultura de Paz<BR>Contribuir a la Agenda 2030"]
+        M4["¿CUÁNDO?<BR>→ Inicio conteo de horas al informar<BR>al Jefe de Sección · 800 h mínimo"]
+        M5["¿DÓNDE?<BR>→ Comunidad local · scout.org<BR>sdgs.scout.org → mapa global"]
+        M6["¿CÓMO?<BR>→ 4 Pasos: Inspira · Aprende<BR>Actúa · Comparte"]
     end
 
     style TITLE fill:#1a1a2e,color:#f0c040,stroke:#c8a92b

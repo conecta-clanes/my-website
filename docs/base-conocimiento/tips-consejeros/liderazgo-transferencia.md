@@ -30,20 +30,20 @@ xychart-beta
 ```mermaid
 flowchart LR
     subgraph MAN["🟡 MANADA · 6-9 años"]
-        MA1["Adulto\n━━━━━━━━━ 90 %"]
-        MJ1["Joven\n━ 10 %"]
+        MA1["Adulto<BR>━━━━━━━━━ 90 %"]
+        MJ1["Joven<BR>━ 10 %"]
     end
     subgraph TRO["🟢 TROPA · 10-13 años"]
-        TA1["Adulto\n━━━━━━ 65 %"]
-        TJ1["Joven\n━━━━ 35 %"]
+        TA1["Adulto<BR>━━━━━━ 65 %"]
+        TJ1["Joven<BR>━━━━ 35 %"]
     end
     subgraph COM["🔵 COMUNIDAD · 14-17 años"]
-        CA1["Adulto\n━━━━ 35 %"]
-        CJ1["Joven\n━━━━━━ 65 %"]
+        CA1["Adulto<BR>━━━━ 35 %"]
+        CJ1["Joven<BR>━━━━━━ 65 %"]
     end
     subgraph CLA["🔴 CLAN · 18-21 años"]
-        XA1["Adulto\n━ 10 %"]
-        XJ1["Joven\n━━━━━━━━━ 90 %"]
+        XA1["Adulto<BR>━ 10 %"]
+        XJ1["Joven<BR>━━━━━━━━━ 90 %"]
     end
 
     MAN --> TRO --> COM --> CLA
@@ -70,9 +70,9 @@ En el Clan, los Consejeros Rover (CRR y CR) adoptan el rol de **Facilitadores**,
 
 ```mermaid
 flowchart LR
-    RV["ROVERS\nProtagonistas\nDeciden · planean · evalúan"]
-    CRR["CRR\nConsejero Rover\nResponsable\nFacilitador · voto + veto limitado"]
-    CR["CR\nConsejeros Rover\nFacilitadores\nAsesoran el PPV"]
+    RV["ROVERS<BR>Protagonistas<BR>Deciden · planean · evalúan"]
+    CRR["CRR<BR>Consejero Rover<BR>Responsable<BR>Facilitador · voto + veto limitado"]
+    CR["CR<BR>Consejeros Rover<BR>Facilitadores<BR>Asesoran el PPV"]
 
     CRR -.->|"orienta"| RV
     CR -.->|"acompaña PPV"| RV
