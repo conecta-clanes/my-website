@@ -85,6 +85,8 @@ flowchart LR
     class CRR,CR adulto
 ```
 
+
+---
 #### Autora
 
 - Yolanda Castillo 
