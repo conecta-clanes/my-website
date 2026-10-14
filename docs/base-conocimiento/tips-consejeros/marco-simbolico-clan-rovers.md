@@ -1,15 +1,17 @@
----
-id: marco-simbolico-clan-rovers
-title: Marco Simbólico del Clan de Rovers
-description: Elementos, dinamismos y significado del Marco Simbólico del Clan de Rovers ASMAC — intangibles, físicos y contextos de aplicación.
-sidebar_label: Marco Simbólico
-sidebar_position: 4
-tags: [clan, rovers, marco-simbólico, horquilla, ceremonias, ASMAC]
----
+# ✏️ Marco Simbólico del Clan de Rovers
+
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+
+
+## Tecnologías usadas
+
+- [Claude Code](https://claude.com/product/claude-code) 
+
 
 # Marco Simbólico del Clan de Rovers
-
-> Fuentes: *Las Rutas del Rover* §2 (ASMAC, 2024) · *Guía de Scouter de Clan de Rovers* (DNME/CNAM, 2024) · *Manual del Uniforme ASMAC* (DEN, junio 2026)
 
 Un **conjunto de símbolos, temas e historias** que desarrollan sentido de pertenencia, transmiten un mensaje educativo y estimulan la cohesión y la solidaridad dentro del Clan y del Movimiento Scout.
 
@@ -98,7 +100,6 @@ flowchart LR
 
 ## Uniforme del Clan de Rovers
 
-> *Manual del Uniforme ASMAC, Artículos 1–6 (junio 2026)*
 
 | Prenda | Especificación |
 |---|---|
@@ -112,8 +113,6 @@ flowchart LR
 ---
 
 ## Insignias del Clan de Rovers
-
-> *Manual del Uniforme ASMAC, Artículos 58–63 (junio 2026)*
 
 ```mermaid
 flowchart TB
@@ -155,8 +154,6 @@ La Horquilla es una **rama con forma de «Y» y base recta** encontrada en el en
 ---
 
 ## Elementos complementarios del Marco Simbólico
-
-> *Manual del Uniforme ASMAC, Artículo 64 (junio 2026)*
 
 Además de la Horquilla, el Art. 64 reconoce cuatro elementos que identifican físicamente al Clan:
 
@@ -219,3 +216,14 @@ flowchart LR
     class NO si
     class SI no
 ```
+## Fuentes
+
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+-[01 Manual del Uniforme Actualizado Junio 2026](https://drive.scouts.org.mx/s/qWioxWMRs4p3zFt?dir=/&editing=false&openfile=true)
+
+
+---
+#### Autora
+
+- Yolanda Castillo

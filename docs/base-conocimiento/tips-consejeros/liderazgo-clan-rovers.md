@@ -1,4 +1,10 @@
 # ✏️ Liderazgo en el Clan de Rovers
+
+## Introducción
+
+Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+
+
 ---
 
 ## Tecnologías usadas
