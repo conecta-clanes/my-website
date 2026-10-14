@@ -1,55 +1,69 @@
-# Graph Report - C:/Users/user21/Documents/formatos-scouts/libros  (2026-09-10)
+# Graph Report - .  (2026-10-14)
 
 ## Corpus Check
-- Large corpus: 45 files · ~786,774 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder.
+- Large corpus: 59 files · ~911,087 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder.
 
 ## Summary
-- 138 nodes · 274 edges · 12 communities (9 shown, 3 thin omitted)
-- Extraction: 90% EXTRACTED · 10% INFERRED · 0% AMBIGUOUS · INFERRED: 27 edges (avg confidence: 0.88)
+- 208 nodes · 368 edges · 23 communities (14 shown, 9 thin omitted)
+- Extraction: 89% EXTRACTED · 10% INFERRED · 0% AMBIGUOUS · INFERRED: 38 edges (avg confidence: 0.88)
 - Token cost: 0 input · 0 output
 
 ## Community Hubs (Navigation)
-- Principios y Adultos Scout
-- Proyectos y Actividades Educativas
-- Ramas y Progresion Juvenil
-- Formacion de Adultos
-- Iniciativas Mundiales y Sostenibilidad
-- Estructura Organizacional ASMAC
-- Chatbot ASMAC (Codigo)
-- Medio Ambiente y Mundo Mejor
-- Avatar AvatarMaker
-- Avatar D-ID JPEG
-- Ilustracion Popeye JPG
-- Ilustracion Popeye PNG
+- Marco Simbólico Rover
+- Actividades y Proyectos
+- Misión Scout y Uniforme
+- Formación y Secciones
+- Liderazgo del Clan
+- Formación de Adultos
+- Programas Mundiales
+- Estructura Institucional
+- Chatbot Scout IA
+- Conversión PDF
+- Aventuras en la Naturaleza
+- Recursos Visuales
+- Extracción de PDFs
+- Avatar Popeye JPEG
+- Personaje Popeye JPG
+- Ilustración Popeye PNG
+- Asociado Rover
+- Bandera del Clan
+- COP y CEP
+- Foros Nacionales
+- Individuo Asociado
+- Insignia ASMAC
+- Community 22
 
 ## God Nodes (most connected - your core abstractions)
-1. `Programa de Jóvenes` - 13 edges
-2. `Método Scout` - 13 edges
-3. `Declaración de Principios de la Asociación de Scouts de México 2020` - 12 edges
-4. `Guia de Scouter de Tropa de Scouts 2024` - 12 edges
-5. `Manual de Operación Nivel Provincia` - 11 edges
-6. `Manual de Operación Nivel Grupo 2018` - 11 edges
-7. `Políticas y Procedimientos de la Comisión Nacional de Formación` - 10 edges
-8. `Comunidad de Caminantes (14-18 años)` - 10 edges
-9. `Clan de Rovers (18-21 años)` - 10 edges
-10. `Guia Punta de Flecha 2025 - Tropa de Scouts` - 10 edges
+1. `Clan de Rovers` - 18 edges
+2. `Manual del Uniforme ASMAC 2026 (Markdown)` - 15 edges
+3. `Programa de Jóvenes` - 13 edges
+4. `Método Scout` - 13 edges
+5. `Declaración de Principios de la Asociación de Scouts de México 2020` - 12 edges
+6. `Guia de Scouter de Tropa de Scouts 2024` - 12 edges
+7. `Estructura del Clan de Rovers (diagrama v1)` - 11 edges
+8. `Marco Simbólico del Clan de Rovers` - 11 edges
+9. `Manual de Operación Nivel Provincia` - 11 edges
+10. `Manual de Operación Nivel Grupo 2018` - 11 edges
 
 ## Surprising Connections (you probably didn't know these)
-- `Comunidad de Caminantes (14-18 años)` --covered_by--> `Guías de Scouter por Rama (Manada, Tropa, Comunidad, Clan)`  [INFERRED]
-  md/ProyectosActividades.md → README.md
-- `Comunidad Rover / Clan de Rovers (18-21 años)` --covered_by--> `Guías de Scouter por Rama (Manada, Tropa, Comunidad, Clan)`  [INFERRED]
-  md/ProyectosActividades.md → README.md
-- `Guía Nacional para la Obtención de la Insignia Mensajeros de la Paz` --semantically_similar_to--> `Guía Nacional para la Obtención de la Insignia Reconocimiento Scouts del Mundo`  [INFERRED] [semantically similar]
-  md/05 Guía Insignia Mensajeros de la Paz.md → md/07 Guía Insignia Reconocimiento Scouts del Mundo.md
-- `Guía Nacional para la Obtención de la Insignia Mensajeros de la Paz` --semantically_similar_to--> `Guía Nacional para la Obtención de la Insignia Scouts Go Solar`  [INFERRED] [semantically similar]
-  md/05 Guía Insignia Mensajeros de la Paz.md → md/08 Guia Insignia Go Solar.md
-- `Guía Nacional para la Obtención de la Insignia Mensajeros de la Paz` --semantically_similar_to--> `Guía Champions For Nature México`  [INFERRED] [semantically similar]
-  md/05 Guía Insignia Mensajeros de la Paz.md → md/Guia Champions for nature.md
+- `Playwright MCP Session` --conceptually_related_to--> `Gradio Application Session`  [AMBIGUOUS]
+  .playwright-mcp/page-2026-10-05T17-47-32-385Z.yml → gradio_out.txt
+- `Consejo de Grupo` --references--> `Comité de Grupo`  [EXTRACTED]
+  .playwright-mcp/page-2026-10-05T17-49-43-466Z.yml → md/02 Manual de Operación Nivel Grupo 2018.md
+- `Anexo 8 - Procedimiento de Captación y Selección de Adultos` --references--> `Consejo de Grupo`  [EXTRACTED]
+  md/Anexo 8 Captación y Selección de Adultos.md → .playwright-mcp/page-2026-10-05T17-49-43-466Z.yml
+- `Punta de Flecha (curso de liderazgo)` --references--> `Clan de Rovers`  [EXTRACTED]
+  .playwright-mcp/page-2026-10-13T17-38-38-662Z.yml → md/01 Manual del Uniforme Actualizado Junio 2026.md
+- `Transferencia de Liderazgo Adulto-Juvenil` --rationale_for--> `Clan de Rovers`  [EXTRACTED]
+  .playwright-mcp/page-2026-10-13T21-54-09-422Z.yml → md/01 Manual del Uniforme Actualizado Junio 2026.md
 
 ## Import Cycles
 - None detected.
 
 ## Hyperedges (group relationships)
+- **Gobierno del Clan: Parlamento + Promotor + CRR** — concept_parlamento_rover, concept_promotor_rover, concept_consejero_rover_responsable, concept_consejeros_rover [EXTRACTED 0.95]
+- **Ciclo de Vida Rover: Inducción → Compromiso → Vida en Clan → Partida** — concept_periodo_induccion, concept_compromiso_rover, concept_ppv, concept_partida_rover [EXTRACTED 0.95]
+- **Progresión Personal Rover: Rutas + Especialidades + Aventuras + Insignias Terminales** — concept_rutas_progresion_rover, concept_especialidades_rover, concept_aventuras_naturaleza_rover, concept_insignias_terminales_rover [EXTRACTED 0.95]
 - **Estructura Organizacional ASMAC (Nacional - Provincia - Grupo)** — concept_direccion_ejecutiva_nacional, concept_provincia_scout, concept_grupo_scout, concept_asmac [EXTRACTED 1.00]
 - **Progresión de Formación de Adultos Voluntarios** — concept_curso_induccion, concept_insignia_de_madera, concept_ttt1, concept_ttt2, concept_formacion_basica, concept_comision_nacional_de_formacion [EXTRACTED 1.00]
 - **Secciones del Programa de Jóvenes ASMAC** — concept_manada_de_lobatos, concept_tropa_de_scouts, concept_comunidad_de_caminantes, concept_clan_de_rovers, concept_programa_de_jovenes [EXTRACTED 1.00]
@@ -63,63 +77,87 @@
 - **Marco documental de Adultos en el Movimiento Scout** — md_politica_nacional_ams_2024, md_modelo_de_gestion_de_adultos_2025_b, md_modelo_de_actualizacion_continua_para_adultos, concept_adultos_en_el_movimiento_scout [INFERRED 0.95]
 - **Politicas Nacionales ASMAC** — md_politica_nacional_ams_2024, md_politica_nacional_programa_de_jovenes_2025, md_pn_nineces_adolescencias_y_juventudes, concept_asmac [INFERRED 0.95]
 
-## Communities (12 total, 3 thin omitted)
+## Communities (23 total, 9 thin omitted)
 
-### Community 0 - "Principios y Adultos Scout"
-Cohesion: 0.17
-Nodes (26): Adultos en el Movimiento Scout (AMS), Asociación de Scouts de México, A.C. (ASMAC), Robert Baden-Powell - Fundador del Escultismo, Ciclo de Vida del Adulto en el Movimiento Scout, Comunidad Digital de Conocimiento (CDC) - ASMAC, Insignia de Madera - Formacion de Dirigentes, Ley Scout y Promesa Scout, Manada de Lobatos y Lobeznas (6-10 años) (+18 more)
+### Community 0 - "Marco Simbólico Rover"
+Cohesion: 0.21
+Nodes (26): Agenda 2030 - Objetivos de Desarrollo Sostenible, Robert Baden-Powell - Fundador del Escultismo, Comunidad de Caminantes (14-18 años), Marco Mundo Mejor - Iniciativas Scouts Globales, NNAJ - Ninos Ninas Adolescentes y Jovenes, Participacion Juvenil Scout, Plastic Tide Turners - Desafio Ambiental Scout, Programa de las Naciones Unidas para el Medio Ambiente (PNUMA/UNEP) (+18 more)
 
-### Community 1 - "Proyectos y Actividades Educativas"
+### Community 1 - "Actividades y Proyectos"
+Cohesion: 0.11
+Nodes (26): Aventuras en la Naturaleza — Rover (Art. 61), Cintas de Liderazgo Clan de Rovers (Art. 58), Compromiso Rover (ceremonia), Comunidad de Caminantes (Sección 14-17 años), Distintivo de Viaje Rover (Art. 64), Elementos Físicos del Marco Simbólico, Elementos Intangibles del Marco Simbólico, Escudo de Clan (Art. 64) (+18 more)
+
+### Community 2 - "Misión Scout y Uniforme"
 Cohesion: 0.10
 Nodes (25): Actividades Centrales y Conexas de Proyectos Scout, Actividades Educativas (Radioteatro, Safari Fotográfico, Debate Político, etc.), Proyectos y Actividades Educativas para Jóvenes de 15 a 21 Años (REME/OMMS), Comunidad de Caminantes (14-18 años), Comunidad Rover / Clan de Rovers (18-21 años), Proyecto: Excursión en Bicicleta, Oportunidades de Aprendizaje y Desarrollo de Competencias Scout, Otros Proyectos Scout (Parque Recreativo, Sendero Ecológico, Programa de Radio, etc.) (+17 more)
 
-### Community 2 - "Ramas y Progresion Juvenil"
-Cohesion: 0.29
-Nodes (17): Aventuras en la Naturaleza (programa de vida al aire libre), Clan de Rovers (18-21 años), Comunidad de Caminantes (14-18 años), Participacion Juvenil Scout, Proyecto Personal de Vida (PPV) - Clan de Rovers, Curso de Liderazgo Juvenil Punta de Flecha, Safe from Harm (A Salvo del Peligro), Tropa de Scouts (10-14 años) (+9 more)
+### Community 3 - "Formación y Secciones"
+Cohesion: 0.16
+Nodes (24): Champions For Nature / Tribu de la Tierra, Cultura de Paz, Insignia Scouts Go Solar, Insignia Mensajeros de la Paz, Ley Scout y Promesa Scout, Manada de Lobatos y Lobeznas (6-10 años), Método Scout, Objetivos de Desarrollo Sostenible (ODS / Agenda 2030) (+16 more)
 
-### Community 3 - "Formacion de Adultos"
+### Community 4 - "Liderazgo del Clan"
+Cohesion: 0.17
+Nodes (20): Camisola Roja — Rovers, Clan de Rovers, Consejero Rover Responsable (CRR), Consejeros Rover (CR), Equipo de Apoyo a Proyecto (EAP), Equipo de Seguimiento (ES), Liderazgo de Proyecto, Liderazgo Formativo (+12 more)
+
+### Community 5 - "Formación de Adultos"
 Cohesion: 0.27
 Nodes (13): Captación y Selección de Adultos Voluntarios, Clave de Autorización de Curso (CLAC), Comisión Nacional de Formación (CNF), Curso de Inducción al Escultismo, Formación Básica (Inducción + CIM), Formación de Adultos en el Movimiento Scout, Curso Insignia de Madera (CIM), Curso TTT1 (Formación de Formadores Nivel 1) (+5 more)
 
-### Community 4 - "Iniciativas Mundiales y Sostenibilidad"
-Cohesion: 0.26
-Nodes (13): Champions For Nature / Tribu de la Tierra, Cultura de Paz, Insignia Scouts Go Solar, Insignia Mensajeros de la Paz, Objetivos de Desarrollo Sostenible (ODS / Agenda 2030), Organización Mundial del Movimiento Scout (OMMS), Reconocimiento Scouts del Mundo (RSDM), WWF (World Wide Fund for Nature) (+5 more)
-
-### Community 5 - "Estructura Organizacional ASMAC"
+### Community 6 - "Programas Mundiales"
 Cohesion: 0.22
 Nodes (13): Comisión Ejecutiva de Provincia, Comité de Grupo, Consejo de Grupo, Consejo de Provincia, Dirección Ejecutiva Nacional (DEN), Grupo Scout, Jefe de Grupo, Presidente de Provincia (+5 more)
 
-### Community 6 - "Chatbot ASMAC (Codigo)"
+### Community 7 - "Estructura Institucional"
 Cohesion: 0.26
 Nodes (8): chat(), _env(), _generar_video_hablante(), _llamar_llm(), Chat con documentos ASMAC — multi-backend LLM_BACKEND: claude | openai | gemini, Retorna los TOP_K documentos más relevantes para la consulta., responder(), _seleccionar_docs()
 
-### Community 7 - "Medio Ambiente y Mundo Mejor"
-Cohesion: 0.44
-Nodes (9): Agenda 2030 - Objetivos de Desarrollo Sostenible, Marco Mundo Mejor - Iniciativas Scouts Globales, Plastic Tide Turners - Desafio Ambiental Scout, Programa de las Naciones Unidas para el Medio Ambiente (PNUMA/UNEP), Tribu de la Tierra - Iniciativa Ambiental Scout, Guia para la implementacion de la iniciativa Tribu de la Tierra 2021, Manual Plastic Tide Turners Mexico, Mis Rastros en la Selva 2024 - Manada de Lobatos y Lobeznas (+1 more)
+### Community 8 - "Chatbot Scout IA"
+Cohesion: 0.20
+Nodes (8): fs, lines, lines2, md, out, pages, raw, text
 
-### Community 8 - "Avatar AvatarMaker"
+### Community 9 - "Conversión PDF"
+Cohesion: 0.39
+Nodes (8): Adultos en el Movimiento Scout (AMS), Asociación de Scouts de México (ASMAC), Ciclo de Vida del Adulto en el Movimiento Scout, Comunidad Digital de Conocimiento (CDC) - ASMAC, Modelo de Actualizacion Continua para Adultos, Modelo de Gestion de Adultos en el Movimiento Scout 2025, Politica Nacional de Adultos en el Movimiento Scout 2024, Reglamento Asociacion de Scouts de Mexico 2023
+
+### Community 10 - "Aventuras en la Naturaleza"
+Cohesion: 0.47
+Nodes (6): Playwright MCP Page Snapshot 2026-10-05, Playwright MCP Page Snapshot 2026-10-13, Gradio Application Session, Gradio Error Log, Gradio Output Log, Playwright MCP Session
+
+### Community 11 - "Recursos Visuales"
+Cohesion: 0.70
+Nodes (5): Aventuras en la Naturaleza (programa de vida al aire libre), Carnet de Aventuras en la Naturaleza para Caminantes 2024, Carnet de Aventuras en la Naturaleza para Lobatos y Lobeznas 2024, Carnet de Aventuras en la Naturaleza para Rovers 2024, Carnet de Aventuras en la Naturaleza para Scouts 2024
+
+### Community 12 - "Extracción de PDFs"
 Cohesion: 0.50
 Nodes (4): AvatarMaker Avatar Image, Scout Educational Material Avatar Asset, Illustrated Female Character, Flat Vector Illustration Style
 
+### Community 13 - "Avatar Popeye JPEG"
+Cohesion: 0.50
+Nodes (3): fs, p, PDFParser
+
+## Ambiguous Edges - Review These
+- `Playwright MCP Session` → `Gradio Application Session`  [AMBIGUOUS]
+  gradio_out.txt · relation: conceptually_related_to
+
 ## Knowledge Gaps
-- **35 isolated node(s):** `Dirección Ejecutiva Nacional (DEN)`, `Presidente de Provincia`, `Vicepresidente Administrativo de Provincia`, `Vicepresidente de Métodos Educativos de Provincia`, `Formación de Adultos en el Movimiento Scout` (+30 more)
+- **67 isolated node(s):** `fs`, `raw`, `pages`, `text`, `lines` (+62 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **9 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Programa de Jóvenes` connect `Principios y Adultos Scout` to `Formacion de Adultos`, `Iniciativas Mundiales y Sostenibilidad`, `Estructura Organizacional ASMAC`?**
-  _High betweenness centrality (0.079) - this node is a cross-community bridge._
-- **Why does `Asociación de Scouts de México, A.C. (ASMAC)` connect `Principios y Adultos Scout` to `Formacion de Adultos`, `Iniciativas Mundiales y Sostenibilidad`, `Estructura Organizacional ASMAC`?**
-  _High betweenness centrality (0.073) - this node is a cross-community bridge._
-- **Why does `Manual de Operación Nivel Provincia` connect `Estructura Organizacional ASMAC` to `Principios y Adultos Scout`, `Formacion de Adultos`?**
-  _High betweenness centrality (0.071) - this node is a cross-community bridge._
+- **What is the exact relationship between `Playwright MCP Session` and `Gradio Application Session`?**
+  _Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low._
+- **Why does `Clan de Rovers` connect `Liderazgo del Clan` to `Marco Simbólico Rover`, `Actividades y Proyectos`, `Formación y Secciones`, `Programas Mundiales`, `Recursos Visuales`?**
+  _High betweenness centrality (0.157) - this node is a cross-community bridge._
+- **Why does `Manual del Uniforme ASMAC 2026 (Markdown)` connect `Actividades y Proyectos` to `Conversión PDF`, `Liderazgo del Clan`, `Programas Mundiales`?**
+  _High betweenness centrality (0.078) - this node is a cross-community bridge._
+- **Why does `Asociación de Scouts de México (ASMAC)` connect `Conversión PDF` to `Marco Simbólico Rover`, `Actividades y Proyectos`, `Formación y Secciones`, `Formación de Adultos`, `Programas Mundiales`?**
+  _High betweenness centrality (0.072) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `Declaración de Principios de la Asociación de Scouts de México 2020` (e.g. with `Código de Ética de la Asociación de Scouts de México` and `Guía de Aplicación del Método Scout en Jóvenes de 18 a 21 años (Clan de Rovers) 2024`) actually correct?**
   _`Declaración de Principios de la Asociación de Scouts de México 2020` has 2 INFERRED edges - model-reasoned connections that need verification._
-- **Are the 2 inferred relationships involving `Guia de Scouter de Tropa de Scouts 2024` (e.g. with `Guia Punta de Flecha 2025 - Tropa de Scouts` and `Pistas de la Aventura 2024 - Tropa Scout`) actually correct?**
-  _`Guia de Scouter de Tropa de Scouts 2024` has 2 INFERRED edges - model-reasoned connections that need verification._
-- **What connects `Dirección Ejecutiva Nacional (DEN)`, `Presidente de Provincia`, `Vicepresidente Administrativo de Provincia` to the rest of the system?**
-  _35 weakly-connected nodes found - possible documentation gaps or missing edges._
-- **Should `Proyectos y Actividades Educativas` be split into smaller, more focused modules?**
-  _Cohesion score 0.09666666666666666 - nodes in this community are weakly interconnected._
+- **What connects `fs`, `raw`, `pages` to the rest of the system?**
+  _67 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Should `Actividades y Proyectos` be split into smaller, more focused modules?**
+  _Cohesion score 0.11076923076923077 - nodes in this community are weakly interconnected._

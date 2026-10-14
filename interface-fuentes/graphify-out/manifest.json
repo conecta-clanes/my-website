@@ -213,5 +213,85 @@
     "mtime": 1785192543.1712735,
     "ast_hash": "e44507480121a063c694045024312707",
     "semantic_hash": "e44507480121a063c694045024312707"
+  },
+  ".claude/settings.local.json": {
+    "mtime": 1792013511.1404822,
+    "ast_hash": "66610bd59b3d752c0c5408c234df6d81",
+    "semantic_hash": "66610bd59b3d752c0c5408c234df6d81"
+  },
+  "convert-pdf.js": {
+    "mtime": 1791935288.623047,
+    "ast_hash": "ed16639e9a86e0afb88cacdf4ec0bdf9",
+    "semantic_hash": "ed16639e9a86e0afb88cacdf4ec0bdf9"
+  },
+  "extract-pdf.js": {
+    "mtime": 1791934944.155539,
+    "ast_hash": "b12c347cf0911838f2920282f761c817",
+    "semantic_hash": "b12c347cf0911838f2920282f761c817"
+  },
+  "files_export.json": {
+    "mtime": 1789062826.1024904,
+    "ast_hash": "1818cd3355692dd1ff9ad2a451a26a23",
+    "semantic_hash": "1818cd3355692dd1ff9ad2a451a26a23"
+  },
+  ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml": {
+    "mtime": 1791222583.4693084,
+    "ast_hash": "dcca529511f83bf0d81bdf27294974c5",
+    "semantic_hash": "dcca529511f83bf0d81bdf27294974c5"
+  },
+  ".playwright-mcp/page-2026-10-05T17-57-11-062Z.yml": {
+    "mtime": 1791223031.0654955,
+    "ast_hash": "d54665aef87a3e1491d9004a6d0c6e49",
+    "semantic_hash": "d54665aef87a3e1491d9004a6d0c6e49"
+  },
+  ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml": {
+    "mtime": 1791913118.665497,
+    "ast_hash": "783d7345e95822fdf18e1a9ab2d35b89",
+    "semantic_hash": "783d7345e95822fdf18e1a9ab2d35b89"
+  },
+  ".playwright-mcp/page-2026-10-13T21-54-09-422Z.yml": {
+    "mtime": 1791928449.4260511,
+    "ast_hash": "8d0fee9e74c05c0793c99cdf53d4fc02",
+    "semantic_hash": "8d0fee9e74c05c0793c99cdf53d4fc02"
+  },
+  ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml": {
+    "mtime": 1791932469.4496949,
+    "ast_hash": "fa28dc1470c9df20bb8926530a14541c",
+    "semantic_hash": "fa28dc1470c9df20bb8926530a14541c"
+  },
+  ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml": {
+    "mtime": 1791935599.124257,
+    "ast_hash": "62e8c731f07f3115d7bae3b29a57cd5b",
+    "semantic_hash": "62e8c731f07f3115d7bae3b29a57cd5b"
+  },
+  "md/01 Manual del Uniforme Actualizado Junio 2026.md": {
+    "mtime": 1791935288.6986864,
+    "ast_hash": "47480530aeed2f002bf13bd7e00f46e5",
+    "semantic_hash": "47480530aeed2f002bf13bd7e00f46e5"
+  },
+  "uniforme-raw.txt": {
+    "mtime": 1791934952.019107,
+    "ast_hash": "9d4974dd2017c20aae6b7d63dd333803",
+    "semantic_hash": "9d4974dd2017c20aae6b7d63dd333803"
+  },
+  ".playwright-mcp/page-2026-10-05T17-47-32-385Z.yml": {
+    "mtime": 1791222452.3892639,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  ".playwright-mcp/page-2026-10-13T23-41-57-857Z.yml": {
+    "mtime": 1791934917.859396,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "gradio_err.txt": {
+    "mtime": 1785175734.0607347,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "gradio_out.txt": {
+    "mtime": 1785175734.0590973,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
   }
 }

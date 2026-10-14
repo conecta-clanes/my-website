@@ -4,6 +4,48 @@
   "graph": {
     "hyperedges": [
       {
+        "id": "clan_governance_structure",
+        "label": "Gobierno del Clan: Parlamento + Promotor + CRR",
+        "nodes": [
+          "concept_parlamento_rover",
+          "concept_promotor_rover",
+          "concept_consejero_rover_responsable",
+          "concept_consejeros_rover"
+        ],
+        "relation": "participate_in",
+        "confidence": "EXTRACTED",
+        "confidence_score": 0.95,
+        "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml"
+      },
+      {
+        "id": "ciclo_vida_rover_ceremonias",
+        "label": "Ciclo de Vida Rover: Inducci\u00f3n \u2192 Compromiso \u2192 Vida en Clan \u2192 Partida",
+        "nodes": [
+          "concept_periodo_induccion",
+          "concept_compromiso_rover",
+          "concept_ppv",
+          "concept_partida_rover"
+        ],
+        "relation": "form",
+        "confidence": "EXTRACTED",
+        "confidence_score": 0.95,
+        "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml"
+      },
+      {
+        "id": "progresion_personal_rover",
+        "label": "Progresi\u00f3n Personal Rover: Rutas + Especialidades + Aventuras + Insignias Terminales",
+        "nodes": [
+          "concept_rutas_progresion_rover",
+          "concept_especialidades_rover",
+          "concept_aventuras_naturaleza_rover",
+          "concept_insignias_terminales_rover"
+        ],
+        "relation": "form",
+        "confidence": "EXTRACTED",
+        "confidence_score": 0.95,
+        "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml"
+      },
+      {
         "id": "hyperedge_estructura_organizacional_asmac",
         "label": "Estructura Organizacional ASMAC (Nacional - Provincia - Grupo)",
         "nodes": [
@@ -189,7 +231,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "chat_scouts",
-      "community": 6,
+      "community": 7,
       "norm_label": "chat_scouts.py"
     },
     {
@@ -199,7 +241,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "chat_scouts_load_dotenv",
-      "community": 6,
+      "community": 7,
       "norm_label": "_load_dotenv()"
     },
     {
@@ -209,7 +251,7 @@
       "source_location": "L35",
       "_origin": "ast",
       "id": "chat_scouts_env",
-      "community": 6,
+      "community": 7,
       "norm_label": "_env()"
     },
     {
@@ -219,7 +261,7 @@
       "source_location": "L92",
       "_origin": "ast",
       "id": "chat_scouts_cargar_docs",
-      "community": 6,
+      "community": 7,
       "norm_label": "_cargar_docs()"
     },
     {
@@ -229,7 +271,7 @@
       "source_location": "L112",
       "_origin": "ast",
       "id": "chat_scouts_seleccionar_docs",
-      "community": 6,
+      "community": 7,
       "norm_label": "_seleccionar_docs()"
     },
     {
@@ -239,7 +281,7 @@
       "source_location": "L143",
       "_origin": "ast",
       "id": "chat_scouts_subir_imagen_did",
-      "community": 6,
+      "community": 7,
       "norm_label": "_subir_imagen_did()"
     },
     {
@@ -249,7 +291,7 @@
       "source_location": "L163",
       "_origin": "ast",
       "id": "chat_scouts_llamar_llm",
-      "community": 6,
+      "community": 7,
       "norm_label": "_llamar_llm()"
     },
     {
@@ -259,7 +301,7 @@
       "source_location": "L196",
       "_origin": "ast",
       "id": "chat_scouts_generar_video_hablante",
-      "community": 6,
+      "community": 7,
       "norm_label": "_generar_video_hablante()"
     },
     {
@@ -269,7 +311,7 @@
       "source_location": "L227",
       "_origin": "ast",
       "id": "chat_scouts_responder",
-      "community": 6,
+      "community": 7,
       "norm_label": "responder()"
     },
     {
@@ -279,7 +321,7 @@
       "source_location": "L343",
       "_origin": "ast",
       "id": "chat_scouts_chat",
-      "community": 6,
+      "community": 7,
       "norm_label": "chat()"
     },
     {
@@ -289,7 +331,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "chat_scouts_rationale_1",
-      "community": 6,
+      "community": 7,
       "norm_label": "chat con documentos asmac \u2014 multi-backend llm_backend: claude | openai | gemini"
     },
     {
@@ -299,8 +341,876 @@
       "source_location": "L113",
       "_origin": "ast",
       "id": "chat_scouts_rationale_113",
-      "community": 6,
+      "community": 7,
       "norm_label": "retorna los top_k documentos mas relevantes para la consulta."
+    },
+    {
+      "label": "convert-pdf.js",
+      "file_type": "code",
+      "source_file": "convert-pdf.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "convert_pdf",
+      "community": 8,
+      "norm_label": "convert-pdf.js"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "convert-pdf.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "convert_pdf_fs",
+      "community": 8,
+      "norm_label": "fs"
+    },
+    {
+      "label": "raw",
+      "file_type": "code",
+      "source_file": "convert-pdf.js",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "convert_pdf_raw",
+      "community": 8,
+      "norm_label": "raw"
+    },
+    {
+      "label": "pages",
+      "file_type": "code",
+      "source_file": "convert-pdf.js",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "convert_pdf_pages",
+      "community": 8,
+      "norm_label": "pages"
+    },
+    {
+      "label": "text",
+      "file_type": "code",
+      "source_file": "convert-pdf.js",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "convert_pdf_text",
+      "community": 8,
+      "norm_label": "text"
+    },
+    {
+      "label": "lines",
+      "file_type": "code",
+      "source_file": "convert-pdf.js",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "convert_pdf_lines",
+      "community": 8,
+      "norm_label": "lines"
+    },
+    {
+      "label": "out",
+      "file_type": "code",
+      "source_file": "convert-pdf.js",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "convert_pdf_out",
+      "community": 8,
+      "norm_label": "out"
+    },
+    {
+      "label": "toTitleCase()",
+      "file_type": "code",
+      "source_file": "convert-pdf.js",
+      "source_location": "L104",
+      "_origin": "ast",
+      "id": "convert_pdf_totitlecase",
+      "community": 8,
+      "norm_label": "totitlecase()"
+    },
+    {
+      "label": "md",
+      "file_type": "code",
+      "source_file": "convert-pdf.js",
+      "source_location": "L112",
+      "_origin": "ast",
+      "id": "convert_pdf_md",
+      "community": 8,
+      "norm_label": "md"
+    },
+    {
+      "label": "lines2",
+      "file_type": "code",
+      "source_file": "convert-pdf.js",
+      "source_location": "L114",
+      "_origin": "ast",
+      "id": "convert_pdf_lines2",
+      "community": 8,
+      "norm_label": "lines2"
+    },
+    {
+      "label": "extract-pdf.js",
+      "file_type": "code",
+      "source_file": "extract-pdf.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "extract_pdf",
+      "community": 13,
+      "norm_label": "extract-pdf.js"
+    },
+    {
+      "label": "PDFParser",
+      "file_type": "code",
+      "source_file": "extract-pdf.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "extract_pdf_pdfparser",
+      "community": 13,
+      "norm_label": "pdfparser"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "extract-pdf.js",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "extract_pdf_fs",
+      "community": 13,
+      "norm_label": "fs"
+    },
+    {
+      "label": "p",
+      "file_type": "code",
+      "source_file": "extract-pdf.js",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "extract_pdf_p",
+      "community": 13,
+      "norm_label": "p"
+    },
+    {
+      "label": "Estructura del Clan de Rovers (diagrama v1)",
+      "file_type": "document",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "community": 4,
+      "norm_label": "estructura del clan de rovers (diagrama v1)"
+    },
+    {
+      "label": "Promotor Rover",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e220",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_promotor_rover",
+      "community": 4,
+      "norm_label": "promotor rover"
+    },
+    {
+      "label": "Consejero Rover Responsable (CRR)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e206",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_consejero_rover_responsable",
+      "community": 4,
+      "norm_label": "consejero rover responsable (crr)"
+    },
+    {
+      "label": "Consejeros Rover (CR)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e213",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_consejeros_rover",
+      "community": 4,
+      "norm_label": "consejeros rover (cr)"
+    },
+    {
+      "label": "Equipo de Seguimiento (ES)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e227",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_equipo_seguimiento",
+      "community": 4,
+      "norm_label": "equipo de seguimiento (es)"
+    },
+    {
+      "label": "Equipo de Apoyo a Proyecto (EAP)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e248",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_equipo_apoyo_proyecto",
+      "community": 4,
+      "norm_label": "equipo de apoyo a proyecto (eap)"
+    },
+    {
+      "label": "Proyecto Personal de Vida (PPV)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e63",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_ppv",
+      "community": 4,
+      "norm_label": "proyecto personal de vida (ppv)"
+    },
+    {
+      "label": "Individuo Asociado Rover",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e255",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_individuo_asociado",
+      "community": 21,
+      "norm_label": "individuo asociado rover"
+    },
+    {
+      "label": "Asociado Rover (Ex-Rover con registro vigente)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e199",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_asociado_rover",
+      "community": 17,
+      "norm_label": "asociado rover (ex-rover con registro vigente)"
+    },
+    {
+      "label": "Representante Juvenil nivel Grupo",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e234",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_representante_juvenil_grupo",
+      "community": 4,
+      "norm_label": "representante juvenil nivel grupo"
+    },
+    {
+      "label": "Foros Nacionales y Provinciales",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e143",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_foros_nacionales_provinciales",
+      "community": 20,
+      "norm_label": "foros nacionales y provinciales"
+    },
+    {
+      "label": "Red de J\u00f3venes",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e171",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_red_de_jovenes",
+      "community": 4,
+      "norm_label": "red de jovenes"
+    },
+    {
+      "label": "Consejo de Grupo",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e192",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_consejo_de_grupo",
+      "community": 6,
+      "norm_label": "consejo de grupo"
+    },
+    {
+      "label": "COP (Consejo de Provincia) y CEP (Comisi\u00f3n Ejecutiva de Provincia)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e178",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_cop_cep",
+      "community": 19,
+      "norm_label": "cop (consejo de provincia) y cep (comision ejecutiva de provincia)"
+    },
+    {
+      "label": "Estructura del Clan de Rovers \u2014 v2 Docusaurus",
+      "file_type": "document",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-57-11-062Z.yml",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "playwright_mcp_page_2026_10_05t17_57_11_062z_estructura_clan_rovers_v2",
+      "community": 4,
+      "norm_label": "estructura del clan de rovers \u2014 v2 docusaurus"
+    },
+    {
+      "label": "Parlamento Rover",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-57-11-062Z.yml",
+      "source_location": "ref=e28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_parlamento_rover",
+      "community": 4,
+      "norm_label": "parlamento rover"
+    },
+    {
+      "label": "Liderazgo en el Clan de Rovers",
+      "file_type": "document",
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "playwright_mcp_page_2026_10_13t17_38_38_662z_liderazgo_clan_rovers",
+      "community": 4,
+      "norm_label": "liderazgo en el clan de rovers"
+    },
+    {
+      "label": "Liderazgo Formativo",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_liderazgo_formativo",
+      "community": 4,
+      "norm_label": "liderazgo formativo"
+    },
+    {
+      "label": "Liderazgo Representativo",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_liderazgo_representativo",
+      "community": 4,
+      "norm_label": "liderazgo representativo"
+    },
+    {
+      "label": "Liderazgo de Proyecto",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_liderazgo_de_proyecto",
+      "community": 4,
+      "norm_label": "liderazgo de proyecto"
+    },
+    {
+      "label": "Liderazgo Operativo",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e35",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_liderazgo_operativo",
+      "community": 4,
+      "norm_label": "liderazgo operativo"
+    },
+    {
+      "label": "Punta de Flecha (curso de liderazgo)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e206",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_punta_de_flecha",
+      "community": 0,
+      "norm_label": "punta de flecha (curso de liderazgo)"
+    },
+    {
+      "label": "Transferencia de Liderazgo por Secci\u00f3n",
+      "file_type": "document",
+      "source_file": ".playwright-mcp/page-2026-10-13T21-54-09-422Z.yml",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "playwright_mcp_page_2026_10_13t21_54_09_422z_transferencia_liderazgo",
+      "community": 4,
+      "norm_label": "transferencia de liderazgo por seccion"
+    },
+    {
+      "label": "Transferencia de Liderazgo Adulto-Juvenil",
+      "file_type": "rationale",
+      "source_file": ".playwright-mcp/page-2026-10-13T21-54-09-422Z.yml",
+      "source_location": "Diagrama 1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_transferencia_liderazgo",
+      "community": 4,
+      "norm_label": "transferencia de liderazgo adulto-juvenil"
+    },
+    {
+      "label": "Marco Simb\u00f3lico del Clan de Rovers",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "Diagrama 1 \u2014 Mindmap general",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_marco_simbolico_clan",
+      "community": 1,
+      "norm_label": "marco simbolico del clan de rovers"
+    },
+    {
+      "label": "Lema \u00a1Servir!",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "ref=f3e76",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_lema_servir",
+      "community": 1,
+      "norm_label": "lema \u00a1servir!"
+    },
+    {
+      "label": "Horquilla (s\u00edmbolo del Rover)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "Diagrama 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_horquilla",
+      "community": 1,
+      "norm_label": "horquilla (simbolo del rover)"
+    },
+    {
+      "label": "Compromiso Rover (ceremonia)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "ref=f3e361",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_compromiso_rover",
+      "community": 1,
+      "norm_label": "compromiso rover (ceremonia)"
+    },
+    {
+      "label": "Partida Rover (ceremonia de cierre)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "ref=f3e379",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_partida_rover",
+      "community": 1,
+      "norm_label": "partida rover (ceremonia de cierre)"
+    },
+    {
+      "label": "Per\u00edodo de Inducci\u00f3n Rover",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "ref=f3e352",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_periodo_induccion",
+      "community": 1,
+      "norm_label": "periodo de induccion rover"
+    },
+    {
+      "label": "Elementos F\u00edsicos del Marco Simb\u00f3lico",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "Diagrama 3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_elementos_fisicos_simbolicos",
+      "community": 1,
+      "norm_label": "elementos fisicos del marco simbolico"
+    },
+    {
+      "label": "Elementos Intangibles del Marco Simb\u00f3lico",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "Diagrama 3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_elementos_intangibles_simbolicos",
+      "community": 1,
+      "norm_label": "elementos intangibles del marco simbolico"
+    },
+    {
+      "label": "Marco Simb\u00f3lico \u2014 Nuevos diagramas (Manual 2026)",
+      "file_type": "document",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026",
+      "community": 1,
+      "norm_label": "marco simbolico \u2014 nuevos diagramas (manual 2026)"
+    },
+    {
+      "label": "Cintas de Liderazgo Clan de Rovers (Art. 58)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 58",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_cintas_liderazgo_rover",
+      "community": 1,
+      "norm_label": "cintas de liderazgo clan de rovers (art. 58)"
+    },
+    {
+      "label": "Rutas de Progresi\u00f3n Rover (Otom\u00ed/Maya/Wix\u00e1rika/Kikap\u00fa)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 59",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_rutas_progresion_rover",
+      "community": 1,
+      "norm_label": "rutas de progresion rover (otomi/maya/wixarika/kikapu)"
+    },
+    {
+      "label": "Especialidades del Clan de Rovers (Art. 60)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 60",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_especialidades_rover",
+      "community": 1,
+      "norm_label": "especialidades del clan de rovers (art. 60)"
+    },
+    {
+      "label": "Aventuras en la Naturaleza \u2014 Rover (Art. 61)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 61",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_aventuras_naturaleza_rover",
+      "community": 1,
+      "norm_label": "aventuras en la naturaleza \u2014 rover (art. 61)"
+    },
+    {
+      "label": "Insignias Terminales Rover \u2014 Baden-Powell (Art. 63)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 63",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_insignias_terminales_rover",
+      "community": 1,
+      "norm_label": "insignias terminales rover \u2014 baden-powell (art. 63)"
+    },
+    {
+      "label": "Escudo de Clan (Art. 64)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama B \u2014 Art. 64",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_escudo_clan",
+      "community": 1,
+      "norm_label": "escudo de clan (art. 64)"
+    },
+    {
+      "label": "Escudo de Unidad Rover (Art. 64)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama B \u2014 Art. 64",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_escudo_unidad_rover",
+      "community": 1,
+      "norm_label": "escudo de unidad rover (art. 64)"
+    },
+    {
+      "label": "Distintivo de Viaje Rover (Art. 64)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama B \u2014 Art. 64",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_distintivo_viaje_rover",
+      "community": 1,
+      "norm_label": "distintivo de viaje rover (art. 64)"
+    },
+    {
+      "label": "Bandera del Clan (Art. 64)",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama B \u2014 Art. 64",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_bandera_clan",
+      "community": 18,
+      "norm_label": "bandera del clan (art. 64)"
+    },
+    {
+      "label": "Chat ASMAC - Chatbot de Documentos Scouts",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "line 1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_chat_asmac_app",
+      "community": 2,
+      "norm_label": "chat asmac - chatbot de documentos scouts"
+    },
+    {
+      "label": "Interfaz Web Gradio",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "line 8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_gradio_interface",
+      "community": 2,
+      "norm_label": "interfaz web gradio"
+    },
+    {
+      "label": "Soporte Multi-Backend LLM (Claude, OpenAI, Gemini, Kimi, GLM, Ollama)",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "line 9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_llm_multi_backend",
+      "community": 2,
+      "norm_label": "soporte multi-backend llm (claude, openai, gemini, kimi, glm, ollama)"
+    },
+    {
+      "label": "Avatar Hablante D-ID con Lip-Sync (voz es-MX-DaliaNeural)",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "line 10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_did_avatar",
+      "community": 2,
+      "norm_label": "avatar hablante d-id con lip-sync (voz es-mx-dalianeural)"
+    },
+    {
+      "label": "Documentos Oficiales ASMAC (37 archivos Markdown)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "line 116",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_asmac_documents",
+      "community": 2,
+      "norm_label": "documentos oficiales asmac (37 archivos markdown)"
+    },
+    {
+      "label": "Selecci\u00f3n TOP_K de Documentos por Frecuencia de Tokens",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "line 9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_top_k_retrieval",
+      "community": 2,
+      "norm_label": "seleccion top_k de documentos por frecuencia de tokens"
+    },
+    {
+      "label": "Asociaci\u00f3n de Scouts de M\u00e9xico (ASMAC)",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "line 3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_asmac_org",
+      "community": 2,
+      "norm_label": "asociacion de scouts de mexico (asmac)"
+    },
+    {
+      "label": "Backend Claude (Anthropic)",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "line 52",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_backend_claude",
+      "community": 2,
+      "norm_label": "backend claude (anthropic)"
+    },
+    {
+      "label": "Backend Ollama (Local, sin internet)",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "line 88",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_backend_ollama",
+      "community": 2,
+      "norm_label": "backend ollama (local, sin internet)"
+    },
+    {
+      "label": "Aplicaci\u00f3n Principal chat_scouts.py",
+      "file_type": "code",
+      "source_file": "README.md",
+      "source_location": "line 172",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_chat_scouts_py",
+      "community": 2,
+      "norm_label": "aplicacion principal chat_scouts.py"
+    },
+    {
+      "label": "Gu\u00edas de Scouter por Rama (Manada, Tropa, Comunidad, Clan)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "line 124",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_guias_scouter",
+      "community": 2,
+      "norm_label": "guias de scouter por rama (manada, tropa, comunidad, clan)"
+    },
+    {
+      "label": "Documentos de Formaci\u00f3n de Adultos ASMAC",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "line 144",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_formacion_adultos",
+      "community": 2,
+      "norm_label": "documentos de formacion de adultos asmac"
+    },
+    {
+      "label": "Insignias e Iniciativas Mundiales Scout (Mensajeros de la Paz, Go Solar, etc.)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "line 151",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_insignias_mundiales",
+      "community": 2,
+      "norm_label": "insignias e iniciativas mundiales scout (mensajeros de la paz, go solar, etc.)"
+    },
+    {
+      "label": "Pol\u00edticas, Gobierno y Reglamento ASMAC",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "line 159",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_politicas_gobierno",
+      "community": 2,
+      "norm_label": "politicas, gobierno y reglamento asmac"
     },
     {
       "label": "Manual de Operaci\u00f3n Nivel Provincia",
@@ -312,7 +1222,7 @@
       "author": "Asociaci\u00f3n de Scouts de M\u00e9xico, A.C.",
       "contributor": "Comisi\u00f3n Revisora de Ordenamientos",
       "id": "md_01_manual_de_operacion_nivel_provincia",
-      "community": 5,
+      "community": 6,
       "norm_label": "manual de operacion nivel provincia"
     },
     {
@@ -325,7 +1235,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_provincia_scout",
-      "community": 5,
+      "community": 6,
       "norm_label": "provincia scout"
     },
     {
@@ -338,7 +1248,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_consejo_de_provincia",
-      "community": 5,
+      "community": 6,
       "norm_label": "consejo de provincia"
     },
     {
@@ -351,7 +1261,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_comision_ejecutiva_de_provincia",
-      "community": 5,
+      "community": 6,
       "norm_label": "comision ejecutiva de provincia"
     },
     {
@@ -364,7 +1274,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_direccion_ejecutiva_nacional",
-      "community": 5,
+      "community": 6,
       "norm_label": "direccion ejecutiva nacional (den)"
     },
     {
@@ -377,7 +1287,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_presidente_de_provincia",
-      "community": 5,
+      "community": 6,
       "norm_label": "presidente de provincia"
     },
     {
@@ -390,7 +1300,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_vicepresidente_administrativo",
-      "community": 5,
+      "community": 6,
       "norm_label": "vicepresidente administrativo de provincia"
     },
     {
@@ -403,8 +1313,164 @@
       "author": null,
       "contributor": null,
       "id": "concept_vicepresidente_metodos_educativos",
-      "community": 5,
+      "community": 6,
       "norm_label": "vicepresidente de metodos educativos de provincia"
+    },
+    {
+      "label": "Manual del Uniforme ASMAC 2026 (Markdown)",
+      "file_type": "document",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "frontmatter",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Pedro D\u00edaz Maya",
+      "contributor": "Berenice Luna G\u00f3mez",
+      "id": "md_01_manual_uniforme_2026",
+      "community": 1,
+      "norm_label": "manual del uniforme asmac 2026 (markdown)"
+    },
+    {
+      "label": "Clan de Rovers",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Cuarta secci\u00f3n. Clan de Rovers",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_clan_de_rovers",
+      "community": 4,
+      "norm_label": "clan de rovers"
+    },
+    {
+      "label": "Uniforme B\u00e1sico Scout (Cap. 1)",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Primera Secci\u00f3n. Uniforme B\u00e1sico",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_uniforme_basico",
+      "community": 1,
+      "norm_label": "uniforme basico scout (cap. 1)"
+    },
+    {
+      "label": "Camisola Roja \u2014 Rovers",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 1. Camisolas",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_camisola_roja_rovers",
+      "community": 4,
+      "norm_label": "camisola roja \u2014 rovers"
+    },
+    {
+      "label": "Insignia de Compromiso (flor de lis mundial)",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_insignia_compromiso",
+      "community": 1,
+      "norm_label": "insignia de compromiso (flor de lis mundial)"
+    },
+    {
+      "label": "Insignia de la ASMAC (imagotipo SCOUTS M\u00c9XICO)",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_insignia_asmac",
+      "community": 22,
+      "norm_label": "insignia de la asmac (imagotipo scouts mexico)"
+    },
+    {
+      "label": "Manada de Lobatos (Secci\u00f3n 6-9 a\u00f1os)",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Primera secci\u00f3n. Manada de Lobatos",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_manada_lobatos",
+      "community": 1,
+      "norm_label": "manada de lobatos (seccion 6-9 anos)"
+    },
+    {
+      "label": "Tropa de Scouts (Secci\u00f3n 10-13 a\u00f1os)",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Segunda secci\u00f3n. Tropa de Scouts",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_tropa_scouts",
+      "community": 1,
+      "norm_label": "tropa de scouts (seccion 10-13 anos)"
+    },
+    {
+      "label": "Comunidad de Caminantes (Secci\u00f3n 14-17 a\u00f1os)",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Tercera secci\u00f3n. Comunidad de Caminantes",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_comunidad_caminantes",
+      "community": 1,
+      "norm_label": "comunidad de caminantes (seccion 14-17 anos)"
+    },
+    {
+      "label": "Asociaci\u00f3n de Scouts de M\u00e9xico (ASMAC)",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "frontmatter",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_asmac",
+      "community": 9,
+      "norm_label": "asociacion de scouts de mexico (asmac)"
+    },
+    {
+      "label": "Programas Mundiales (Iniciativas Mundiales)",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Sexta secci\u00f3n. Programas Mundiales",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_programas_mundiales",
+      "community": 1,
+      "norm_label": "programas mundiales (iniciativas mundiales)"
+    },
+    {
+      "label": "Insignia de Madera (formaci\u00f3n adultos)",
+      "file_type": "concept",
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 86",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "concept_insignia_madera",
+      "community": 1,
+      "norm_label": "insignia de madera (formacion adultos)"
     },
     {
       "label": "Pol\u00edticas y Procedimientos de la Comisi\u00f3n Nacional de Formaci\u00f3n",
@@ -416,7 +1482,7 @@
       "author": "Comisi\u00f3n Nacional de Formaci\u00f3n",
       "contributor": null,
       "id": "md_01_politicas_y_procedimientos_de_la_comision_nacional_de_formacion",
-      "community": 3,
+      "community": 5,
       "norm_label": "politicas y procedimientos de la comision nacional de formacion"
     },
     {
@@ -429,7 +1495,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_formacion_de_adultos",
-      "community": 3,
+      "community": 5,
       "norm_label": "formacion de adultos en el movimiento scout"
     },
     {
@@ -442,7 +1508,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_insignia_de_madera",
-      "community": 3,
+      "community": 5,
       "norm_label": "curso insignia de madera (cim)"
     },
     {
@@ -455,7 +1521,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_ttt1",
-      "community": 3,
+      "community": 5,
       "norm_label": "curso ttt1 (formacion de formadores nivel 1)"
     },
     {
@@ -468,7 +1534,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_ttt2",
-      "community": 3,
+      "community": 5,
       "norm_label": "curso ttt2 (formacion de directores nivel 2)"
     },
     {
@@ -481,7 +1547,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_clac",
-      "community": 3,
+      "community": 5,
       "norm_label": "clave de autorizacion de curso (clac)"
     },
     {
@@ -494,7 +1560,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_comision_nacional_de_formacion",
-      "community": 3,
+      "community": 5,
       "norm_label": "comision nacional de formacion (cnf)"
     },
     {
@@ -507,7 +1573,7 @@
       "author": "Asociaci\u00f3n de Scouts de M\u00e9xico, A.C.",
       "contributor": "Comisi\u00f3n Revisora",
       "id": "md_02_manual_de_operacion_nivel_grupo_2018",
-      "community": 5,
+      "community": 6,
       "norm_label": "manual de operacion nivel grupo 2018"
     },
     {
@@ -520,21 +1586,8 @@
       "author": null,
       "contributor": null,
       "id": "concept_grupo_scout",
-      "community": 5,
+      "community": 6,
       "norm_label": "grupo scout"
-    },
-    {
-      "label": "Consejo de Grupo",
-      "file_type": "concept",
-      "source_file": "md/02 Manual de Operaci\u00f3n Nivel Grupo 2018.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "concept_consejo_de_grupo",
-      "community": 5,
-      "norm_label": "consejo de grupo"
     },
     {
       "label": "Comit\u00e9 de Grupo",
@@ -546,7 +1599,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_comite_de_grupo",
-      "community": 5,
+      "community": 6,
       "norm_label": "comite de grupo"
     },
     {
@@ -559,7 +1612,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_jefe_de_grupo",
-      "community": 5,
+      "community": 6,
       "norm_label": "jefe de grupo"
     },
     {
@@ -572,7 +1625,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_manada_de_lobatos",
-      "community": 0,
+      "community": 3,
       "norm_label": "manada de lobatos y lobeznas (6-10 anos)"
     },
     {
@@ -585,7 +1638,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_tropa_de_scouts",
-      "community": 2,
+      "community": 0,
       "norm_label": "tropa de scouts (10-14 anos)"
     },
     {
@@ -598,21 +1651,8 @@
       "author": null,
       "contributor": null,
       "id": "concept_comunidad_de_caminantes",
-      "community": 2,
+      "community": 0,
       "norm_label": "comunidad de caminantes (14-18 anos)"
-    },
-    {
-      "label": "Clan de Rovers (18-21 a\u00f1os)",
-      "file_type": "concept",
-      "source_file": "md/02 Manual de Operaci\u00f3n Nivel Grupo 2018.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "concept_clan_de_rovers",
-      "community": 2,
-      "norm_label": "clan de rovers (18-21 anos)"
     },
     {
       "label": "Gu\u00eda Nacional para la Obtenci\u00f3n de la Insignia Mensajeros de la Paz",
@@ -624,7 +1664,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Programa de J\u00f3venes",
       "id": "md_05_guia_insignia_mensajeros_de_la_paz",
-      "community": 4,
+      "community": 3,
       "norm_label": "guia nacional para la obtencion de la insignia mensajeros de la paz"
     },
     {
@@ -637,7 +1677,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_insignia_mensajeros_de_la_paz",
-      "community": 4,
+      "community": 3,
       "norm_label": "insignia mensajeros de la paz"
     },
     {
@@ -650,7 +1690,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_cultura_de_paz",
-      "community": 4,
+      "community": 3,
       "norm_label": "cultura de paz"
     },
     {
@@ -663,7 +1703,7 @@
       "author": "Comisi\u00f3n Nacional de Desarrollo Institucional",
       "contributor": "Pedro D\u00edaz Maya",
       "id": "md_06_codigo_de_etica",
-      "community": 0,
+      "community": 3,
       "norm_label": "codigo de etica de la asociacion de scouts de mexico"
     },
     {
@@ -676,7 +1716,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Programa de J\u00f3venes",
       "id": "md_07_guia_insignia_reconocimiento_scouts_del_mundo",
-      "community": 4,
+      "community": 3,
       "norm_label": "guia nacional para la obtencion de la insignia reconocimiento scouts del mundo"
     },
     {
@@ -689,7 +1729,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_ods",
-      "community": 4,
+      "community": 3,
       "norm_label": "objetivos de desarrollo sostenible (ods / agenda 2030)"
     },
     {
@@ -702,7 +1742,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_reconocimiento_scouts_del_mundo",
-      "community": 4,
+      "community": 3,
       "norm_label": "reconocimiento scouts del mundo (rsdm)"
     },
     {
@@ -715,7 +1755,7 @@
       "author": "Comisi\u00f3n Nacional de Adultos en el Movimiento Scout",
       "contributor": "Gerardo Castillo Rotunno",
       "id": "md_07_manual_del_curso_de_induccion_al_escultismos_2019",
-      "community": 3,
+      "community": 5,
       "norm_label": "manual del curso de induccion al escultismo 2019"
     },
     {
@@ -728,7 +1768,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_curso_induccion",
-      "community": 3,
+      "community": 5,
       "norm_label": "curso de induccion al escultismo"
     },
     {
@@ -741,7 +1781,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_formacion_basica",
-      "community": 3,
+      "community": 5,
       "norm_label": "formacion basica (induccion + cim)"
     },
     {
@@ -754,7 +1794,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Programa de J\u00f3venes",
       "id": "md_08_guia_insignia_go_solar",
-      "community": 4,
+      "community": 3,
       "norm_label": "guia nacional para la obtencion de la insignia scouts go solar"
     },
     {
@@ -767,7 +1807,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_insignia_go_solar",
-      "community": 4,
+      "community": 3,
       "norm_label": "insignia scouts go solar"
     },
     {
@@ -780,7 +1820,7 @@
       "author": "Comisi\u00f3n Nacional de Adultos en el Movimiento Scout",
       "contributor": "Mar\u00eda Luisa Rodarte Saucedo",
       "id": "md_08_manual_para_la_implementacion_de_los_modulos_del_cim_2019",
-      "community": 3,
+      "community": 5,
       "norm_label": "manual para la implementacion de los modulos del curso insignia de madera 2019"
     },
     {
@@ -793,7 +1833,7 @@
       "author": "Asociaci\u00f3n de Scouts de M\u00e9xico, A.C.",
       "contributor": null,
       "id": "md_anexo_8_captacion_y_seleccion_de_adultos",
-      "community": 3,
+      "community": 5,
       "norm_label": "anexo 8 - procedimiento de captacion y seleccion de adultos"
     },
     {
@@ -806,7 +1846,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_captacion_adultos",
-      "community": 3,
+      "community": 5,
       "norm_label": "captacion y seleccion de adultos voluntarios"
     },
     {
@@ -819,7 +1859,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Programa de J\u00f3venes",
       "id": "md_carnet_aventuras_en_la_naturaleza_para_comunidad_2024",
-      "community": 2,
+      "community": 11,
       "norm_label": "carnet de aventuras en la naturaleza para caminantes 2024"
     },
     {
@@ -832,7 +1872,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_aventuras_en_la_naturaleza",
-      "community": 2,
+      "community": 11,
       "norm_label": "aventuras en la naturaleza (programa de vida al aire libre)"
     },
     {
@@ -845,7 +1885,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Programa de J\u00f3venes",
       "id": "md_carnet_aventuras_en_la_naturaleza_para_manada_2024",
-      "community": 2,
+      "community": 11,
       "norm_label": "carnet de aventuras en la naturaleza para lobatos y lobeznas 2024"
     },
     {
@@ -858,7 +1898,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Programa de J\u00f3venes",
       "id": "md_carnet_aventuras_en_la_naturaleza_para_rovers_2024",
-      "community": 2,
+      "community": 11,
       "norm_label": "carnet de aventuras en la naturaleza para rovers 2024"
     },
     {
@@ -871,7 +1911,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Programa de J\u00f3venes",
       "id": "md_carnet_aventuras_en_la_naturaleza_para_tropa_2024",
-      "community": 2,
+      "community": 11,
       "norm_label": "carnet de aventuras en la naturaleza para scouts 2024"
     },
     {
@@ -884,21 +1924,8 @@
       "author": "Asociaci\u00f3n de Scouts de M\u00e9xico, A.C.",
       "contributor": "Francisco Mac\u00edas Valadez Trevi\u00f1o",
       "id": "md_declaracion_de_principios_2023",
-      "community": 0,
+      "community": 3,
       "norm_label": "declaracion de principios de la asociacion de scouts de mexico 2020"
-    },
-    {
-      "label": "Asociaci\u00f3n de Scouts de M\u00e9xico, A.C. (ASMAC)",
-      "file_type": "concept",
-      "source_file": "md/Declaracion de Principios 2023.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "concept_asmac",
-      "community": 0,
-      "norm_label": "asociacion de scouts de mexico, a.c. (asmac)"
     },
     {
       "label": "Programa de J\u00f3venes",
@@ -910,7 +1937,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_programa_de_jovenes",
-      "community": 0,
+      "community": 3,
       "norm_label": "programa de jovenes"
     },
     {
@@ -923,7 +1950,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_metodo_scout",
-      "community": 0,
+      "community": 3,
       "norm_label": "metodo scout"
     },
     {
@@ -936,7 +1963,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_ley_scout",
-      "community": 0,
+      "community": 3,
       "norm_label": "ley scout y promesa scout"
     },
     {
@@ -949,7 +1976,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_omms",
-      "community": 4,
+      "community": 3,
       "norm_label": "organizacion mundial del movimiento scout (omms)"
     },
     {
@@ -962,7 +1989,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_proyecto_educativo_asmac",
-      "community": 0,
+      "community": 3,
       "norm_label": "proyecto educativo asmac 2020-2030 orientado a la sustentabilidad"
     },
     {
@@ -975,7 +2002,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Programa de J\u00f3venes",
       "id": "md_el_desafio_de_ser_caminante_2024",
-      "community": 4,
+      "community": 3,
       "norm_label": "el desafio de ser caminante 2024"
     },
     {
@@ -988,7 +2015,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Programa de J\u00f3venes",
       "id": "md_guia_champions_for_nature",
-      "community": 4,
+      "community": 3,
       "norm_label": "guia champions for nature mexico"
     },
     {
@@ -1001,7 +2028,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_champions_for_nature",
-      "community": 4,
+      "community": 3,
       "norm_label": "champions for nature / tribu de la tierra"
     },
     {
@@ -1014,7 +2041,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_wwf",
-      "community": 4,
+      "community": 3,
       "norm_label": "wwf (world wide fund for nature)"
     },
     {
@@ -1027,7 +2054,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Adultos en el Movimiento Scout",
       "id": "md_guia_de_scouter_de_clan_de_rovers_2024",
-      "community": 0,
+      "community": 3,
       "norm_label": "guia de aplicacion del metodo scout en jovenes de 18 a 21 anos (clan de rovers) 2024"
     },
     {
@@ -1040,7 +2067,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Adultos en el Movimiento Scout",
       "id": "md_guia_de_scouter_de_comunidad_2024",
-      "community": 0,
+      "community": 3,
       "norm_label": "guia de aplicacion del metodo scout en adolescentes de 14 a 17 anos (comunidad de caminantes) 2024"
     },
     {
@@ -1053,7 +2080,7 @@
       "author": "Direcci\u00f3n Nacional de M\u00e9todos Educativos",
       "contributor": "Comisi\u00f3n Nacional de Adultos en el Movimiento Scout",
       "id": "md_guia_de_scouter_de_manada_de_lobatos_2024",
-      "community": 0,
+      "community": 3,
       "norm_label": "guia de aplicacion del metodo scout en ninos y ninas de 6 a 9 anos (manada de lobatos) 2024"
     },
     {
@@ -1079,21 +2106,8 @@
       "author": "Asociacion de Scouts de Mexico A.C.",
       "contributor": "Lourdes Samanta Ruiz Escalante, Hector Vargas Mancilla",
       "id": "md_guia_punta_de_flecha_2025_ts",
-      "community": 2,
+      "community": 0,
       "norm_label": "guia punta de flecha 2025 - tropa de scouts"
-    },
-    {
-      "label": "Curso de Liderazgo Juvenil Punta de Flecha",
-      "file_type": "concept",
-      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "concept_punta_de_flecha",
-      "community": 2,
-      "norm_label": "curso de liderazgo juvenil punta de flecha"
     },
     {
       "label": "Agenda 2030 - Objetivos de Desarrollo Sostenible",
@@ -1105,7 +2119,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_agenda_2030_ods",
-      "community": 7,
+      "community": 0,
       "norm_label": "agenda 2030 - objetivos de desarrollo sostenible"
     },
     {
@@ -1118,7 +2132,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_safe_from_harm",
-      "community": 2,
+      "community": 0,
       "norm_label": "safe from harm (a salvo del peligro)"
     },
     {
@@ -1131,7 +2145,7 @@
       "author": "Asociacion de Scouts de Mexico A.C.",
       "contributor": "Lourdes Samanta Ruiz Escalante, Karla Paulina Venta Alonso",
       "id": "md_guia_punta_de_flecha_2025_comunidad",
-      "community": 2,
+      "community": 0,
       "norm_label": "guia punta de flecha 2025 - comunidad de caminantes"
     },
     {
@@ -1144,7 +2158,7 @@
       "author": "Asociacion de Scouts de Mexico A.C.",
       "contributor": "Lourdes Samanta Ruiz Escalante, Maria Fernanda Palomino Gorgonio",
       "id": "md_guia_punta_de_flecha_2025_clan",
-      "community": 2,
+      "community": 0,
       "norm_label": "guia punta de flecha 2025 - clan de rovers"
     },
     {
@@ -1157,7 +2171,7 @@
       "author": "Asociacion de Scouts de Mexico A.C. - Direccion Nacional de Metodos Educativos",
       "contributor": "Subcomision Nacional de Mundo Mejor",
       "id": "md_guia_tribu_de_la_tierra_2021",
-      "community": 7,
+      "community": 0,
       "norm_label": "guia para la implementacion de la iniciativa tribu de la tierra 2021"
     },
     {
@@ -1170,7 +2184,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_tribu_de_la_tierra",
-      "community": 7,
+      "community": 0,
       "norm_label": "tribu de la tierra - iniciativa ambiental scout"
     },
     {
@@ -1183,7 +2197,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_mundo_mejor",
-      "community": 7,
+      "community": 0,
       "norm_label": "marco mundo mejor - iniciativas scouts globales"
     },
     {
@@ -1196,7 +2210,7 @@
       "author": "Asociacion de Scouts de Mexico A.C.",
       "contributor": "Javier Israel Ramirez Sanchez, Zyanya Quetzalli Pacheco Aguilar, Joaquin Ramos Guerra",
       "id": "md_las_rutas_del_rover",
-      "community": 2,
+      "community": 0,
       "norm_label": "las rutas del rover - clan de rovers"
     },
     {
@@ -1209,7 +2223,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_proyecto_personal_de_vida",
-      "community": 2,
+      "community": 0,
       "norm_label": "proyecto personal de vida (ppv) - clan de rovers"
     },
     {
@@ -1222,7 +2236,7 @@
       "author": "Asociacion de Scouts de Mexico A.C. - Direccion Nacional de Metodos Educativos",
       "contributor": "Subcomision Nacional de Mundo Mejor",
       "id": "md_manual_plastic_tide_turners",
-      "community": 7,
+      "community": 0,
       "norm_label": "manual plastic tide turners mexico"
     },
     {
@@ -1235,7 +2249,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_plastic_tide_turners",
-      "community": 7,
+      "community": 0,
       "norm_label": "plastic tide turners - desafio ambiental scout"
     },
     {
@@ -1248,7 +2262,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_pnuma",
-      "community": 7,
+      "community": 0,
       "norm_label": "programa de las naciones unidas para el medio ambiente (pnuma/unep)"
     },
     {
@@ -1261,7 +2275,7 @@
       "author": "Asociacion de Scouts de Mexico A.C.",
       "contributor": "Gerardo Jose Salazar Aldana, Maria del Sol Santos Islas, Joaquin Ramos Guerra",
       "id": "md_mis_rastros_en_la_selva_2024",
-      "community": 7,
+      "community": 3,
       "norm_label": "mis rastros en la selva 2024 - manada de lobatos y lobeznas"
     },
     {
@@ -1274,7 +2288,7 @@
       "author": "Asociacion de Scouts de Mexico A.C. - Subcomision Nacional de Conocimiento Digital",
       "contributor": "Jose Rafael Lozano Alvarado, Joaquin Ramos Guerra",
       "id": "md_modelo_de_actualizacion_continua_para_adultos",
-      "community": 0,
+      "community": 9,
       "norm_label": "modelo de actualizacion continua para adultos"
     },
     {
@@ -1287,7 +2301,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_comunidad_digital_conocimiento",
-      "community": 0,
+      "community": 9,
       "norm_label": "comunidad digital de conocimiento (cdc) - asmac"
     },
     {
@@ -1300,7 +2314,7 @@
       "author": "Antonio Bernal Rodriguez",
       "contributor": "Rafael Lozano Alvarado, Joaquin Ramos Guerra",
       "id": "md_modelo_de_gestion_de_adultos_2025_b",
-      "community": 0,
+      "community": 9,
       "norm_label": "modelo de gestion de adultos en el movimiento scout 2025"
     },
     {
@@ -1313,7 +2327,7 @@
       "author": "Asociacion de Scouts de Mexico A.C.",
       "contributor": "Lourdes Samanta Ruiz Escalante, Carlos Axel Celis Lazcano, Joaquin Ramos Guerra",
       "id": "md_pn_nineces_adolescencias_y_juventudes",
-      "community": 2,
+      "community": 0,
       "norm_label": "politica nacional de nineces adolescencias y juventudes 2025"
     },
     {
@@ -1326,7 +2340,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_participacion_juvenil",
-      "community": 2,
+      "community": 0,
       "norm_label": "participacion juvenil scout"
     },
     {
@@ -1352,7 +2366,7 @@
       "author": "Asociacion de Scouts de Mexico A.C.",
       "contributor": "Lourdes Samantha Ruiz Escalante, Hector Vargas Mancilla, Joaquin Ramos Guerra",
       "id": "md_pistas_de_la_aventura_2024",
-      "community": 7,
+      "community": 0,
       "norm_label": "pistas de la aventura 2024 - tropa scout"
     },
     {
@@ -1378,7 +2392,7 @@
       "author": "J. Rafael Lozano Alvarado",
       "contributor": "Joaquin Ramos Guerra, Janet Marquez, Juan Antonio Bernal Rodriguez",
       "id": "md_politica_nacional_ams_2024",
-      "community": 0,
+      "community": 9,
       "norm_label": "politica nacional de adultos en el movimiento scout 2024"
     },
     {
@@ -1391,7 +2405,7 @@
       "author": null,
       "contributor": null,
       "id": "concept_adultos_en_el_movimiento_scout",
-      "community": 0,
+      "community": 9,
       "norm_label": "adultos en el movimiento scout (ams)"
     },
     {
@@ -1404,21 +2418,8 @@
       "author": null,
       "contributor": null,
       "id": "concept_ciclo_de_vida_adulto",
-      "community": 0,
+      "community": 9,
       "norm_label": "ciclo de vida del adulto en el movimiento scout"
-    },
-    {
-      "label": "Insignia de Madera - Formacion de Dirigentes",
-      "file_type": "concept",
-      "source_file": "md/Pol\u00edtica Nacional AMS 2024.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "concept_insignia_madera",
-      "community": 0,
-      "norm_label": "insignia de madera - formacion de dirigentes"
     },
     {
       "label": "Politica Nacional de Programa de Jovenes 2025",
@@ -1434,6 +2435,149 @@
       "norm_label": "politica nacional de programa de jovenes 2025"
     },
     {
+      "label": "Proyectos y Actividades Educativas para J\u00f3venes de 15 a 21 A\u00f1os (REME/OMMS)",
+      "file_type": "document",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_book",
+      "community": 2,
+      "norm_label": "proyectos y actividades educativas para jovenes de 15 a 21 anos (reme/omms)"
+    },
+    {
+      "label": "REME - Red de Elaboraci\u00f3n de Material Educativo (OMMS Regi\u00f3n Interamericana)",
+      "file_type": "concept",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 35",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_reme",
+      "community": 2,
+      "norm_label": "reme - red de elaboracion de material educativo (omms region interamericana)"
+    },
+    {
+      "label": "Comunidad de Caminantes (14-18 a\u00f1os)",
+      "file_type": "concept",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 47",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_comunidad_caminantes",
+      "community": 2,
+      "norm_label": "comunidad de caminantes (14-18 anos)"
+    },
+    {
+      "label": "Comunidad Rover / Clan de Rovers (18-21 a\u00f1os)",
+      "file_type": "concept",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 47",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_comunidad_rover",
+      "community": 2,
+      "norm_label": "comunidad rover / clan de rovers (18-21 anos)"
+    },
+    {
+      "label": "Proyecto como Herramienta Educativa Scout",
+      "file_type": "concept",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 121",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_proyecto_educativo",
+      "community": 2,
+      "norm_label": "proyecto como herramienta educativa scout"
+    },
+    {
+      "label": "Proyecto: Excursi\u00f3n en Bicicleta",
+      "file_type": "concept",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 140",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_excursion_bicicleta",
+      "community": 2,
+      "norm_label": "proyecto: excursion en bicicleta"
+    },
+    {
+      "label": "Proyecto: Venta de Mermeladas Caseras",
+      "file_type": "concept",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 393",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_venta_mermeladas",
+      "community": 2,
+      "norm_label": "proyecto: venta de mermeladas caseras"
+    },
+    {
+      "label": "Actividades Centrales y Conexas de Proyectos Scout",
+      "file_type": "concept",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 176",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_actividades_centrales",
+      "community": 2,
+      "norm_label": "actividades centrales y conexas de proyectos scout"
+    },
+    {
+      "label": "Oportunidades de Aprendizaje y Desarrollo de Competencias Scout",
+      "file_type": "concept",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 302",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_oportunidades_aprendizaje",
+      "community": 2,
+      "norm_label": "oportunidades de aprendizaje y desarrollo de competencias scout"
+    },
+    {
+      "label": "Otros Proyectos Scout (Parque Recreativo, Sendero Ecol\u00f3gico, Programa de Radio, etc.)",
+      "file_type": "concept",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 63",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_otros_proyectos",
+      "community": 2,
+      "norm_label": "otros proyectos scout (parque recreativo, sendero ecologico, programa de radio, etc.)"
+    },
+    {
+      "label": "Actividades Educativas (Radioteatro, Safari Fotogr\u00e1fico, Debate Pol\u00edtico, etc.)",
+      "file_type": "concept",
+      "source_file": "md/ProyectosActividades.md",
+      "source_location": "line 77",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "md_proyectosactividades_actividades_educativas",
+      "community": 2,
+      "norm_label": "actividades educativas (radioteatro, safari fotografico, debate politico, etc.)"
+    },
+    {
       "label": "Reglamento Asociacion de Scouts de Mexico 2023",
       "file_type": "document",
       "source_file": "md/REGLAMENTO 2023 3.md",
@@ -1443,7 +2587,7 @@
       "author": "Asociacion de Scouts de Mexico A.C. - Comision revisora",
       "contributor": "Berenice Luna Gomez",
       "id": "md_reglamento_2023_3",
-      "community": 0,
+      "community": 9,
       "norm_label": "reglamento asociacion de scouts de mexico 2023"
     },
     {
@@ -1486,329 +2630,17 @@
       "norm_label": "organizacion mundial del movimiento scout (omms/wosm)"
     },
     {
-      "label": "Chat ASMAC - Chatbot de Documentos Scouts",
+      "label": "Manual del Uniforme ASMAC 2026 (texto extra\u00eddo PDF)",
       "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "line 1",
+      "source_file": "uniforme-raw.txt",
+      "source_location": "PAGE 1",
       "source_url": null,
       "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_chat_asmac_app",
+      "author": "Pedro D\u00edaz Maya",
+      "contributor": "Berenice Luna G\u00f3mez",
+      "id": "uniforme_raw_manual_uniforme_2026",
       "community": 1,
-      "norm_label": "chat asmac - chatbot de documentos scouts"
-    },
-    {
-      "label": "Interfaz Web Gradio",
-      "file_type": "concept",
-      "source_file": "README.md",
-      "source_location": "line 8",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_gradio_interface",
-      "community": 1,
-      "norm_label": "interfaz web gradio"
-    },
-    {
-      "label": "Soporte Multi-Backend LLM (Claude, OpenAI, Gemini, Kimi, GLM, Ollama)",
-      "file_type": "concept",
-      "source_file": "README.md",
-      "source_location": "line 9",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_llm_multi_backend",
-      "community": 1,
-      "norm_label": "soporte multi-backend llm (claude, openai, gemini, kimi, glm, ollama)"
-    },
-    {
-      "label": "Avatar Hablante D-ID con Lip-Sync (voz es-MX-DaliaNeural)",
-      "file_type": "concept",
-      "source_file": "README.md",
-      "source_location": "line 10",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_did_avatar",
-      "community": 1,
-      "norm_label": "avatar hablante d-id con lip-sync (voz es-mx-dalianeural)"
-    },
-    {
-      "label": "Documentos Oficiales ASMAC (37 archivos Markdown)",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "line 116",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_asmac_documents",
-      "community": 1,
-      "norm_label": "documentos oficiales asmac (37 archivos markdown)"
-    },
-    {
-      "label": "Selecci\u00f3n TOP_K de Documentos por Frecuencia de Tokens",
-      "file_type": "concept",
-      "source_file": "README.md",
-      "source_location": "line 9",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_top_k_retrieval",
-      "community": 1,
-      "norm_label": "seleccion top_k de documentos por frecuencia de tokens"
-    },
-    {
-      "label": "Asociaci\u00f3n de Scouts de M\u00e9xico (ASMAC)",
-      "file_type": "concept",
-      "source_file": "README.md",
-      "source_location": "line 3",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_asmac_org",
-      "community": 1,
-      "norm_label": "asociacion de scouts de mexico (asmac)"
-    },
-    {
-      "label": "Backend Claude (Anthropic)",
-      "file_type": "concept",
-      "source_file": "README.md",
-      "source_location": "line 52",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_backend_claude",
-      "community": 1,
-      "norm_label": "backend claude (anthropic)"
-    },
-    {
-      "label": "Backend Ollama (Local, sin internet)",
-      "file_type": "concept",
-      "source_file": "README.md",
-      "source_location": "line 88",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_backend_ollama",
-      "community": 1,
-      "norm_label": "backend ollama (local, sin internet)"
-    },
-    {
-      "label": "Aplicaci\u00f3n Principal chat_scouts.py",
-      "file_type": "code",
-      "source_file": "README.md",
-      "source_location": "line 172",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_chat_scouts_py",
-      "community": 1,
-      "norm_label": "aplicacion principal chat_scouts.py"
-    },
-    {
-      "label": "Gu\u00edas de Scouter por Rama (Manada, Tropa, Comunidad, Clan)",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "line 124",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_guias_scouter",
-      "community": 1,
-      "norm_label": "guias de scouter por rama (manada, tropa, comunidad, clan)"
-    },
-    {
-      "label": "Documentos de Formaci\u00f3n de Adultos ASMAC",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "line 144",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_formacion_adultos",
-      "community": 1,
-      "norm_label": "documentos de formacion de adultos asmac"
-    },
-    {
-      "label": "Insignias e Iniciativas Mundiales Scout (Mensajeros de la Paz, Go Solar, etc.)",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "line 151",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_insignias_mundiales",
-      "community": 1,
-      "norm_label": "insignias e iniciativas mundiales scout (mensajeros de la paz, go solar, etc.)"
-    },
-    {
-      "label": "Pol\u00edticas, Gobierno y Reglamento ASMAC",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "line 159",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "readme_politicas_gobierno",
-      "community": 1,
-      "norm_label": "politicas, gobierno y reglamento asmac"
-    },
-    {
-      "label": "Proyectos y Actividades Educativas para J\u00f3venes de 15 a 21 A\u00f1os (REME/OMMS)",
-      "file_type": "document",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 28",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_book",
-      "community": 1,
-      "norm_label": "proyectos y actividades educativas para jovenes de 15 a 21 anos (reme/omms)"
-    },
-    {
-      "label": "REME - Red de Elaboraci\u00f3n de Material Educativo (OMMS Regi\u00f3n Interamericana)",
-      "file_type": "concept",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 35",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_reme",
-      "community": 1,
-      "norm_label": "reme - red de elaboracion de material educativo (omms region interamericana)"
-    },
-    {
-      "label": "Comunidad de Caminantes (14-18 a\u00f1os)",
-      "file_type": "concept",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 47",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_comunidad_caminantes",
-      "community": 1,
-      "norm_label": "comunidad de caminantes (14-18 anos)"
-    },
-    {
-      "label": "Comunidad Rover / Clan de Rovers (18-21 a\u00f1os)",
-      "file_type": "concept",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 47",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_comunidad_rover",
-      "community": 1,
-      "norm_label": "comunidad rover / clan de rovers (18-21 anos)"
-    },
-    {
-      "label": "Proyecto como Herramienta Educativa Scout",
-      "file_type": "concept",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 121",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_proyecto_educativo",
-      "community": 1,
-      "norm_label": "proyecto como herramienta educativa scout"
-    },
-    {
-      "label": "Proyecto: Excursi\u00f3n en Bicicleta",
-      "file_type": "concept",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 140",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_excursion_bicicleta",
-      "community": 1,
-      "norm_label": "proyecto: excursion en bicicleta"
-    },
-    {
-      "label": "Proyecto: Venta de Mermeladas Caseras",
-      "file_type": "concept",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 393",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_venta_mermeladas",
-      "community": 1,
-      "norm_label": "proyecto: venta de mermeladas caseras"
-    },
-    {
-      "label": "Actividades Centrales y Conexas de Proyectos Scout",
-      "file_type": "concept",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 176",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_actividades_centrales",
-      "community": 1,
-      "norm_label": "actividades centrales y conexas de proyectos scout"
-    },
-    {
-      "label": "Oportunidades de Aprendizaje y Desarrollo de Competencias Scout",
-      "file_type": "concept",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 302",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_oportunidades_aprendizaje",
-      "community": 1,
-      "norm_label": "oportunidades de aprendizaje y desarrollo de competencias scout"
-    },
-    {
-      "label": "Otros Proyectos Scout (Parque Recreativo, Sendero Ecol\u00f3gico, Programa de Radio, etc.)",
-      "file_type": "concept",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 63",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_otros_proyectos",
-      "community": 1,
-      "norm_label": "otros proyectos scout (parque recreativo, sendero ecologico, programa de radio, etc.)"
-    },
-    {
-      "label": "Actividades Educativas (Radioteatro, Safari Fotogr\u00e1fico, Debate Pol\u00edtico, etc.)",
-      "file_type": "concept",
-      "source_file": "md/ProyectosActividades.md",
-      "source_location": "line 77",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "md_proyectosactividades_actividades_educativas",
-      "community": 1,
-      "norm_label": "actividades educativas (radioteatro, safari fotografico, debate politico, etc.)"
+      "norm_label": "manual del uniforme asmac 2026 (texto extraido pdf)"
     },
     {
       "label": "AvatarMaker Avatar Image",
@@ -1820,7 +2652,7 @@
       "author": null,
       "contributor": null,
       "id": "avatarmaker_avatar_image",
-      "community": 8,
+      "community": 12,
       "norm_label": "avatarmaker avatar image"
     },
     {
@@ -1833,7 +2665,7 @@
       "author": null,
       "contributor": null,
       "id": "avatarmaker_female_character",
-      "community": 8,
+      "community": 12,
       "norm_label": "illustrated female character"
     },
     {
@@ -1846,7 +2678,7 @@
       "author": null,
       "contributor": null,
       "id": "avatarmaker_flat_illustration_style",
-      "community": 8,
+      "community": 12,
       "norm_label": "flat vector illustration style"
     },
     {
@@ -1859,7 +2691,7 @@
       "author": null,
       "contributor": null,
       "id": "avatarmaker_educational_asset",
-      "community": 8,
+      "community": 12,
       "norm_label": "scout educational material avatar asset"
     },
     {
@@ -1872,7 +2704,7 @@
       "author": null,
       "contributor": null,
       "id": "popeye_jpeg_avatar_image",
-      "community": 9,
+      "community": 14,
       "norm_label": "popeye avatar (jpeg) \u2014 d-id chatbot avatar"
     },
     {
@@ -1885,7 +2717,7 @@
       "author": null,
       "contributor": null,
       "id": "popeye_jpeg_did_avatar",
-      "community": 9,
+      "community": 14,
       "norm_label": "d-id lip-sync avatar source image"
     },
     {
@@ -1898,7 +2730,7 @@
       "author": null,
       "contributor": null,
       "id": "popeye_jpg_illustration",
-      "community": 10,
+      "community": 15,
       "norm_label": "popeye the sailor man \u2014 modern digital comic art"
     },
     {
@@ -1911,7 +2743,7 @@
       "author": null,
       "contributor": null,
       "id": "popeye_jpg_character_asset",
-      "community": 10,
+      "community": 15,
       "norm_label": "cartoon character decorative illustration asset"
     },
     {
@@ -1924,7 +2756,7 @@
       "author": null,
       "contributor": null,
       "id": "popeye_png_illustration",
-      "community": 11,
+      "community": 16,
       "norm_label": "popeye the sailor man \u2014 flat style cartoon (png, transparent background)"
     },
     {
@@ -1937,8 +2769,86 @@
       "author": null,
       "contributor": null,
       "id": "popeye_png_transparent_asset",
-      "community": 11,
+      "community": 16,
       "norm_label": "transparent background cartoon avatar asset"
+    },
+    {
+      "label": "Playwright MCP Page Snapshot 2026-10-05",
+      "file_type": "document",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-47-32-385Z.yml",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-10-05T17:47:32.385Z",
+      "author": null,
+      "contributor": null,
+      "id": "_playwright_mcp_page_2026_10_05t17_47_32_385z_yml",
+      "community": 10,
+      "norm_label": "playwright mcp page snapshot 2026-10-05"
+    },
+    {
+      "label": "Playwright MCP Page Snapshot 2026-10-13",
+      "file_type": "document",
+      "source_file": ".playwright-mcp/page-2026-10-13T23-41-57-857Z.yml",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-10-13T23:41:57.857Z",
+      "author": null,
+      "contributor": null,
+      "id": "_playwright_mcp_page_2026_10_13t23_41_57_857z_yml",
+      "community": 10,
+      "norm_label": "playwright mcp page snapshot 2026-10-13"
+    },
+    {
+      "label": "Gradio Error Log",
+      "file_type": "document",
+      "source_file": "gradio_err.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "gradio_err_txt",
+      "community": 10,
+      "norm_label": "gradio error log"
+    },
+    {
+      "label": "Gradio Output Log",
+      "file_type": "document",
+      "source_file": "gradio_out.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "gradio_out_txt",
+      "community": 10,
+      "norm_label": "gradio output log"
+    },
+    {
+      "label": "Playwright MCP Session",
+      "file_type": "concept",
+      "source_file": ".playwright-mcp/page-2026-10-05T17-47-32-385Z.yml",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "playwright_mcp_session",
+      "community": 10,
+      "norm_label": "playwright mcp session"
+    },
+    {
+      "label": "Gradio Application Session",
+      "file_type": "concept",
+      "source_file": "gradio_out.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "gradio_app_session",
+      "community": 10,
+      "norm_label": "gradio application session"
     }
   ],
   "links": [
@@ -2136,6 +3046,1038 @@
       "confidence_score": 1.0
     },
     {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "convert-pdf.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "convert_pdf",
+      "target": "convert_pdf_fs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "convert-pdf.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "convert_pdf",
+      "target": "convert_pdf_lines",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "convert-pdf.js",
+      "source_location": "L114",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "convert_pdf",
+      "target": "convert_pdf_lines2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "convert-pdf.js",
+      "source_location": "L112",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "convert_pdf",
+      "target": "convert_pdf_md",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "convert-pdf.js",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "convert_pdf",
+      "target": "convert_pdf_out",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "convert-pdf.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "convert_pdf",
+      "target": "convert_pdf_pages",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "convert-pdf.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "convert_pdf",
+      "target": "convert_pdf_raw",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "convert-pdf.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "convert_pdf",
+      "target": "convert_pdf_text",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "convert-pdf.js",
+      "source_location": "L104",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "convert_pdf",
+      "target": "convert_pdf_totitlecase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "extract-pdf.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "extract_pdf",
+      "target": "extract_pdf_fs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "extract-pdf.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "extract_pdf",
+      "target": "extract_pdf_p",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "extract-pdf.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "extract_pdf",
+      "target": "extract_pdf_pdfparser",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "heading level=2",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e206",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "concept_consejero_rover_responsable"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e213",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "concept_consejeros_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e192",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "concept_consejo_de_grupo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e248",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "concept_equipo_apoyo_proyecto"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e227",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "concept_equipo_seguimiento"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e241",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "concept_parlamento_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e63",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "concept_ppv"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e220",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "concept_promotor_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e171",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "concept_red_de_jovenes"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": null,
+      "weight": 0.95,
+      "source": "playwright_mcp_page_2026_10_05t17_49_43_466z_estructura_clan_rovers",
+      "target": "playwright_mcp_page_2026_10_05t17_57_11_062z_estructura_clan_rovers_v2"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e220 \u2014 Presidenta-e del Parlamento",
+      "weight": 1.0,
+      "source": "concept_promotor_rover",
+      "target": "concept_parlamento_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e143",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t17_38_38_662z_liderazgo_clan_rovers",
+      "target": "concept_promotor_rover"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e206 \u2014 Miembro del Parlamento",
+      "weight": 1.0,
+      "source": "concept_consejero_rover_responsable",
+      "target": "concept_parlamento_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-57-11-062Z.yml",
+      "source_location": "ref=e120",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_57_11_062z_estructura_clan_rovers_v2",
+      "target": "concept_consejero_rover_responsable"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T21-54-09-422Z.yml",
+      "source_location": "ref=f2e182",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t21_54_09_422z_transferencia_liderazgo",
+      "target": "concept_consejero_rover_responsable"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T21-54-09-422Z.yml",
+      "source_location": "ref=f2e189",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t21_54_09_422z_transferencia_liderazgo",
+      "target": "concept_consejeros_rover"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e227 \u2014 Seguimiento al PPV",
+      "weight": 1.0,
+      "source": "concept_ppv",
+      "target": "concept_equipo_seguimiento"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e28 \u2014 dentro de los EAP",
+      "weight": 0.95,
+      "source": "concept_liderazgo_de_proyecto",
+      "target": "concept_equipo_apoyo_proyecto"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml",
+      "source_location": "ref=f1e248",
+      "weight": 1.0,
+      "source": "concept_ppv",
+      "target": "concept_equipo_apoyo_proyecto"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e171",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t17_38_38_662z_liderazgo_clan_rovers",
+      "target": "concept_equipo_apoyo_proyecto"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-57-11-062Z.yml",
+      "source_location": "ref=e134",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_57_11_062z_estructura_clan_rovers_v2",
+      "target": "concept_ppv"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": null,
+      "weight": 0.85,
+      "source": "concept_liderazgo_representativo",
+      "target": "concept_representante_juvenil_grupo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual de Operaci\u00f3n Nivel Provincia.md",
+      "source_location": "Cap\u00edtulo III, secci\u00f3n 3.8",
+      "weight": 1.0,
+      "source": "concept_comision_ejecutiva_de_provincia",
+      "target": "concept_consejo_de_grupo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/02 Manual de Operaci\u00f3n Nivel Grupo 2018.md",
+      "source_location": "Cap\u00edtulo 1, secci\u00f3n 1.3",
+      "weight": 1.0,
+      "source": "concept_consejo_de_grupo",
+      "target": "concept_comite_de_grupo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/02 Manual de Operaci\u00f3n Nivel Grupo 2018.md",
+      "source_location": "Cap\u00edtulo 2",
+      "weight": 1.0,
+      "source": "md_02_manual_de_operacion_nivel_grupo_2018",
+      "target": "concept_consejo_de_grupo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Anexo 8 Captaci\u00f3n y Selecci\u00f3n de Adultos.md",
+      "source_location": "Hoja1 - Responsable: Consejo de Grupo",
+      "weight": 1.0,
+      "source": "md_anexo_8_captacion_y_seleccion_de_adultos",
+      "target": "concept_consejo_de_grupo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-57-11-062Z.yml",
+      "source_location": "heading level=2",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_57_11_062z_estructura_clan_rovers_v2",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-57-11-062Z.yml",
+      "source_location": "ref=e28",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_05t17_57_11_062z_estructura_clan_rovers_v2",
+      "target": "concept_parlamento_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e28",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t17_38_38_662z_liderazgo_clan_rovers",
+      "target": "concept_liderazgo_de_proyecto"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e14",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t17_38_38_662z_liderazgo_clan_rovers",
+      "target": "concept_liderazgo_formativo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e35",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t17_38_38_662z_liderazgo_clan_rovers",
+      "target": "concept_liderazgo_operativo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e21",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t17_38_38_662z_liderazgo_clan_rovers",
+      "target": "concept_liderazgo_representativo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T17-38-38-662Z.yml",
+      "source_location": "ref=f1e206",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t17_38_38_662z_liderazgo_clan_rovers",
+      "target": "concept_punta_de_flecha"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "concept_punta_de_flecha",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "concept_punta_de_flecha",
+      "target": "concept_comunidad_de_caminantes"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "concept_punta_de_flecha",
+      "target": "concept_tropa_de_scouts"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Gu\u00eda Punta de Flecha_2025-Clan.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_guia_punta_de_flecha_2025_clan",
+      "target": "concept_punta_de_flecha"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Gu\u00eda Punta de Flecha_2025-COMUNIDAD.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_guia_punta_de_flecha_2025_comunidad",
+      "target": "concept_punta_de_flecha"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_guia_punta_de_flecha_2025_ts",
+      "target": "concept_punta_de_flecha"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Las Rutas del Rover.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_las_rutas_del_rover",
+      "target": "concept_punta_de_flecha"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T21-54-09-422Z.yml",
+      "source_location": "ref=f2e52",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t21_54_09_422z_transferencia_liderazgo",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T21-54-09-422Z.yml",
+      "source_location": "Diagrama 1 \u2014 Curvas de transferencia",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t21_54_09_422z_transferencia_liderazgo",
+      "target": "concept_transferencia_liderazgo"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T21-54-09-422Z.yml",
+      "source_location": "Diagrama 2 \u2014 Clan 90% joven 10% adulto",
+      "weight": 1.0,
+      "source": "concept_transferencia_liderazgo",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "Diagrama 1 \u2014 Mindmap general",
+      "weight": 1.0,
+      "source": "concept_marco_simbolico_clan",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "ref=f3e361",
+      "weight": 1.0,
+      "source": "concept_marco_simbolico_clan",
+      "target": "concept_compromiso_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "Diagrama 3",
+      "weight": 1.0,
+      "source": "concept_marco_simbolico_clan",
+      "target": "concept_elementos_fisicos_simbolicos"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "Diagrama 3",
+      "weight": 1.0,
+      "source": "concept_marco_simbolico_clan",
+      "target": "concept_elementos_intangibles_simbolicos"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "Diagrama 4",
+      "weight": 1.0,
+      "source": "concept_marco_simbolico_clan",
+      "target": "concept_horquilla"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "ref=f3e76",
+      "weight": 1.0,
+      "source": "concept_marco_simbolico_clan",
+      "target": "concept_lema_servir"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "Diagrama 1 \u2014 Mindmap general",
+      "weight": 1.0,
+      "source": "concept_marco_simbolico_clan",
+      "target": "concept_marco_simbolico_clan"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "ref=f3e379",
+      "weight": 1.0,
+      "source": "concept_marco_simbolico_clan",
+      "target": "concept_partida_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "ref=f3e352",
+      "weight": 1.0,
+      "source": "concept_marco_simbolico_clan",
+      "target": "concept_periodo_induccion"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": null,
+      "weight": 0.85,
+      "source": "concept_marco_simbolico_clan",
+      "target": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "ref=f3e258",
+      "weight": 1.0,
+      "source": "concept_elementos_intangibles_simbolicos",
+      "target": "concept_lema_servir"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "ref=f3e227 \u2014 Uniforme rojo; ref=f3e241 \u2014 Horquilla",
+      "weight": 1.0,
+      "source": "concept_elementos_fisicos_simbolicos",
+      "target": "concept_horquilla"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml",
+      "source_location": "Diagrama 4 \u2014 Entrega: Ceremonia de Compromiso Rover",
+      "weight": 1.0,
+      "source": "concept_horquilla",
+      "target": "concept_compromiso_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 64 \u2014 Horquilla",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_horquilla"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama C",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026",
+      "target": "concept_horquilla"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 61",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026",
+      "target": "concept_aventuras_naturaleza_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 58",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026",
+      "target": "concept_cintas_liderazgo_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama B",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026",
+      "target": "concept_distintivo_viaje_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama B",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026",
+      "target": "concept_escudo_clan"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama B",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026",
+      "target": "concept_escudo_unidad_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 60",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026",
+      "target": "concept_especialidades_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 63",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026",
+      "target": "concept_insignias_terminales_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 59",
+      "weight": 1.0,
+      "source": "playwright_mcp_page_2026_10_13t23_53_19_121z_marco_simbolico_manual_2026",
+      "target": "concept_rutas_progresion_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 58",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_cintas_liderazgo_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "uniforme-raw.txt",
+      "source_location": "Art\u00edculo 58",
+      "weight": 1.0,
+      "source": "uniforme_raw_manual_uniforme_2026",
+      "target": "concept_cintas_liderazgo_rover"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml",
+      "source_location": "Diagrama A \u2014 Art. 63: Sustituyen las Rutas al obtenerse",
+      "weight": 1.0,
+      "source": "concept_rutas_progresion_rover",
+      "target": "concept_insignias_terminales_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 59",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_rutas_progresion_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "uniforme-raw.txt",
+      "source_location": "Art\u00edculo 59",
+      "weight": 1.0,
+      "source": "uniforme_raw_manual_uniforme_2026",
+      "target": "concept_rutas_progresion_rover"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 64 \u2014 Escudo de Clan",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_escudo_clan"
+    },
+    {
+      "relation": "queries",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 3",
+      "weight": 1.0,
+      "source": "readme_chat_asmac_app",
+      "target": "readme_asmac_documents"
+    },
+    {
+      "relation": "serves",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "README.md",
+      "source_location": "line 3",
+      "weight": 1.0,
+      "source": "readme_chat_asmac_app",
+      "target": "readme_asmac_org"
+    },
+    {
+      "relation": "optionally_uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 10",
+      "weight": 0.7,
+      "source": "readme_chat_asmac_app",
+      "target": "readme_did_avatar"
+    },
+    {
+      "relation": "implemented_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 8",
+      "weight": 1.0,
+      "source": "readme_chat_asmac_app",
+      "target": "readme_gradio_interface"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 9",
+      "weight": 1.0,
+      "source": "readme_chat_asmac_app",
+      "target": "readme_llm_multi_backend"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 9",
+      "weight": 1.0,
+      "source": "readme_chat_asmac_app",
+      "target": "readme_top_k_retrieval"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 172",
+      "weight": 1.0,
+      "source": "readme_chat_scouts_py",
+      "target": "readme_chat_asmac_app"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 52",
+      "weight": 1.0,
+      "source": "readme_llm_multi_backend",
+      "target": "readme_backend_claude"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 88",
+      "weight": 1.0,
+      "source": "readme_llm_multi_backend",
+      "target": "readme_backend_ollama"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 166",
+      "weight": 1.0,
+      "source": "readme_asmac_documents",
+      "target": "md_proyectosactividades_book"
+    },
+    {
+      "relation": "published_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 3",
+      "weight": 1.0,
+      "source": "readme_asmac_documents",
+      "target": "readme_asmac_org"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 144",
+      "weight": 1.0,
+      "source": "readme_asmac_documents",
+      "target": "readme_formacion_adultos"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 124",
+      "weight": 1.0,
+      "source": "readme_asmac_documents",
+      "target": "readme_guias_scouter"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 151",
+      "weight": 1.0,
+      "source": "readme_asmac_documents",
+      "target": "readme_insignias_mundiales"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 159",
+      "weight": 1.0,
+      "source": "readme_asmac_documents",
+      "target": "readme_politicas_gobierno"
+    },
+    {
+      "relation": "covered_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "README.md",
+      "source_location": "line 127",
+      "weight": 1.0,
+      "source": "md_proyectosactividades_comunidad_caminantes",
+      "target": "readme_guias_scouter"
+    },
+    {
+      "relation": "covered_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "README.md",
+      "source_location": "line 128",
+      "weight": 1.0,
+      "source": "md_proyectosactividades_comunidad_rover",
+      "target": "readme_guias_scouter"
+    },
+    {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
@@ -2269,16 +4211,6 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "md/01 Manual de Operaci\u00f3n Nivel Provincia.md",
-      "source_location": "Cap\u00edtulo III, secci\u00f3n 3.8",
-      "weight": 1.0,
-      "source": "concept_comision_ejecutiva_de_provincia",
-      "target": "concept_consejo_de_grupo"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
       "source_file": "md/02 Manual de Operaci\u00f3n Nivel Grupo 2018.md",
       "source_location": "Cap\u00edtulo 2, secci\u00f3n 2.1",
       "weight": 1.0,
@@ -2289,11 +4221,311 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Presentaci\u00f3n",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_direccion_ejecutiva_nacional"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 15",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_asmac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Cuarta secci\u00f3n. Clan de Rovers",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Tercera secci\u00f3n. Comunidad de Caminantes",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_comunidad_caminantes"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 14",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_insignia_compromiso"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 86",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_insignia_madera"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Primera secci\u00f3n. Manada de Lobatos",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_manada_lobatos"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Sexta secci\u00f3n. Programas Mundiales",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_programas_mundiales"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Segunda secci\u00f3n. Tropa de Scouts",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_tropa_scouts"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Primera Secci\u00f3n. Uniforme B\u00e1sico",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "concept_uniforme_basico"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "frontmatter id: manual-uniforme-2026",
+      "weight": 1.0,
+      "source": "md_01_manual_uniforme_2026",
+      "target": "uniforme_raw_manual_uniforme_2026"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/01 Manual del Uniforme Actualizado Junio 2026.md",
+      "source_location": "Art\u00edculo 1 \u2014 Roja Rovers",
+      "weight": 1.0,
+      "source": "concept_camisola_roja_rovers",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/02 Manual de Operaci\u00f3n Nivel Grupo 2018.md",
+      "source_location": "Cap\u00edtulo 8, secci\u00f3n 8.5",
+      "weight": 1.0,
+      "source": "md_02_manual_de_operacion_nivel_grupo_2018",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Carnet Aventuras en la Naturaleza para Rovers 2024.md",
+      "source_location": "T\u00edtulo de obra",
+      "weight": 1.0,
+      "source": "md_carnet_aventuras_en_la_naturaleza_para_rovers_2024",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Declaracion de Principios 2023.md",
+      "source_location": "ART\u00cdCULO 20 - tabla de competencias por secci\u00f3n",
+      "weight": 1.0,
+      "source": "md_declaracion_de_principios_2023",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Guia de Scouter de Clan de Rovers 2024.md",
+      "source_location": "Bienvenida",
+      "weight": 1.0,
+      "source": "md_guia_de_scouter_de_clan_de_rovers_2024",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Guia de Scouter de Tropa de Scouts 2024.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_guia_de_scouter_de_tropa_de_scouts_2024",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Gu\u00eda Punta de Flecha_2025-Clan.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_guia_punta_de_flecha_2025_clan",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_guia_punta_de_flecha_2025_ts",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Las Rutas del Rover.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_las_rutas_del_rover",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/PN Ni\u00f1eces, adolescencias y juventudes.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_pn_nineces_adolescencias_y_juventudes",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "uniforme-raw.txt",
+      "source_location": "PAGE 5 \u2014 Cuarta secci\u00f3n",
+      "weight": 1.0,
+      "source": "uniforme_raw_manual_uniforme_2026",
+      "target": "concept_clan_de_rovers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "md/01 Pol\u00edticas y procedimientos de la Comisi\u00f3n Nacional de Formaci\u00f3n.md",
       "source_location": "Presentaci\u00f3n",
       "weight": 1.0,
       "source": "md_01_politicas_y_procedimientos_de_la_comision_nacional_de_formacion",
       "target": "concept_asmac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/06 C\u00f3digo de \u00e9tica.md",
+      "source_location": "Presentaci\u00f3n",
+      "weight": 1.0,
+      "source": "md_06_codigo_de_etica",
+      "target": "concept_asmac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Declaracion de Principios 2023.md",
+      "source_location": "ART\u00cdCULO 1",
+      "weight": 1.0,
+      "source": "md_declaracion_de_principios_2023",
+      "target": "concept_asmac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Guia Champions for nature.md",
+      "source_location": "ANTECEDENTES - ASMAC",
+      "weight": 1.0,
+      "source": "md_guia_champions_for_nature",
+      "target": "concept_asmac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Guia de Scouter de Tropa de Scouts 2024.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_guia_de_scouter_de_tropa_de_scouts_2024",
+      "target": "concept_asmac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Modelo de Gesti\u00f3n de adultos 2025 B.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_modelo_de_gestion_de_adultos_2025_b",
+      "target": "concept_asmac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/proyecto educativo dossier.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_proyecto_educativo_dossier",
+      "target": "concept_asmac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/REGLAMENTO 2023 3.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_reglamento_2023_3",
+      "target": "concept_asmac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/Pol\u00edtica Nacional AMS 2024.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_politica_nacional_ams_2024",
+      "target": "concept_insignia_madera"
     },
     {
       "relation": "references",
@@ -2430,16 +4662,6 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "md/02 Manual de Operaci\u00f3n Nivel Grupo 2018.md",
-      "source_location": "Cap\u00edtulo 8, secci\u00f3n 8.5",
-      "weight": 1.0,
-      "source": "md_02_manual_de_operacion_nivel_grupo_2018",
-      "target": "concept_clan_de_rovers"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/02 Manual de Operaci\u00f3n Nivel Grupo 2018.md",
       "source_location": "Cap\u00edtulo 3",
       "weight": 1.0,
       "source": "md_02_manual_de_operacion_nivel_grupo_2018",
@@ -2454,16 +4676,6 @@
       "weight": 1.0,
       "source": "md_02_manual_de_operacion_nivel_grupo_2018",
       "target": "concept_comunidad_de_caminantes"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/02 Manual de Operaci\u00f3n Nivel Grupo 2018.md",
-      "source_location": "Cap\u00edtulo 2",
-      "weight": 1.0,
-      "source": "md_02_manual_de_operacion_nivel_grupo_2018",
-      "target": "concept_consejo_de_grupo"
     },
     {
       "relation": "references",
@@ -2514,26 +4726,6 @@
       "weight": 1.0,
       "source": "md_02_manual_de_operacion_nivel_grupo_2018",
       "target": "concept_tropa_de_scouts"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/02 Manual de Operaci\u00f3n Nivel Grupo 2018.md",
-      "source_location": "Cap\u00edtulo 1, secci\u00f3n 1.3",
-      "weight": 1.0,
-      "source": "concept_consejo_de_grupo",
-      "target": "concept_comite_de_grupo"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Anexo 8 Captaci\u00f3n y Selecci\u00f3n de Adultos.md",
-      "source_location": "Hoja1 - Responsable: Consejo de Grupo",
-      "weight": 1.0,
-      "source": "md_anexo_8_captacion_y_seleccion_de_adultos",
-      "target": "concept_consejo_de_grupo"
     },
     {
       "relation": "references",
@@ -2594,16 +4786,6 @@
       "weight": 1.0,
       "source": "md_pn_nineces_adolescencias_y_juventudes",
       "target": "concept_manada_de_lobatos"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "concept_punta_de_flecha",
-      "target": "concept_tropa_de_scouts"
     },
     {
       "relation": "references",
@@ -2674,16 +4856,6 @@
       "weight": 1.0,
       "source": "md_reglamento_2023_3",
       "target": "concept_tropa_de_scouts"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "concept_punta_de_flecha",
-      "target": "concept_comunidad_de_caminantes"
     },
     {
       "relation": "references",
@@ -2769,96 +4941,6 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "concept_punta_de_flecha",
-      "target": "concept_clan_de_rovers"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Carnet Aventuras en la Naturaleza para Rovers 2024.md",
-      "source_location": "T\u00edtulo de obra",
-      "weight": 1.0,
-      "source": "md_carnet_aventuras_en_la_naturaleza_para_rovers_2024",
-      "target": "concept_clan_de_rovers"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Declaracion de Principios 2023.md",
-      "source_location": "ART\u00cdCULO 20 - tabla de competencias por secci\u00f3n",
-      "weight": 1.0,
-      "source": "md_declaracion_de_principios_2023",
-      "target": "concept_clan_de_rovers"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Guia de Scouter de Clan de Rovers 2024.md",
-      "source_location": "Bienvenida",
-      "weight": 1.0,
-      "source": "md_guia_de_scouter_de_clan_de_rovers_2024",
-      "target": "concept_clan_de_rovers"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Guia de Scouter de Tropa de Scouts 2024.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_guia_de_scouter_de_tropa_de_scouts_2024",
-      "target": "concept_clan_de_rovers"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Gu\u00eda Punta de Flecha_2025-Clan.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_guia_punta_de_flecha_2025_clan",
-      "target": "concept_clan_de_rovers"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_guia_punta_de_flecha_2025_ts",
-      "target": "concept_clan_de_rovers"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Las Rutas del Rover.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_las_rutas_del_rover",
-      "target": "concept_clan_de_rovers"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/PN Ni\u00f1eces, adolescencias y juventudes.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_pn_nineces_adolescencias_y_juventudes",
-      "target": "concept_clan_de_rovers"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
       "source_file": "md/05 Gu\u00eda Insignia Mensajeros de la Paz.md",
       "source_location": "Tres dimensiones para construir una Cultura de Paz",
       "weight": 1.0,
@@ -2934,16 +5016,6 @@
       "weight": 1.0,
       "source": "md_el_desafio_de_ser_caminante_2024",
       "target": "concept_insignia_mensajeros_de_la_paz"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/06 C\u00f3digo de \u00e9tica.md",
-      "source_location": "Presentaci\u00f3n",
-      "weight": 1.0,
-      "source": "md_06_codigo_de_etica",
-      "target": "concept_asmac"
     },
     {
       "relation": "references",
@@ -3250,16 +5322,6 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "md/Declaracion de Principios 2023.md",
-      "source_location": "ART\u00cdCULO 1",
-      "weight": 1.0,
-      "source": "md_declaracion_de_principios_2023",
-      "target": "concept_asmac"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Declaracion de Principios 2023.md",
       "source_location": "ART\u00cdCULO 8",
       "weight": 1.0,
       "source": "md_declaracion_de_principios_2023",
@@ -3314,56 +5376,6 @@
       "weight": 0.85,
       "source": "md_guia_de_scouter_de_clan_de_rovers_2024",
       "target": "md_declaracion_de_principios_2023"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Guia Champions for nature.md",
-      "source_location": "ANTECEDENTES - ASMAC",
-      "weight": 1.0,
-      "source": "md_guia_champions_for_nature",
-      "target": "concept_asmac"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Guia de Scouter de Tropa de Scouts 2024.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_guia_de_scouter_de_tropa_de_scouts_2024",
-      "target": "concept_asmac"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Modelo de Gesti\u00f3n de adultos 2025 B.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_modelo_de_gestion_de_adultos_2025_b",
-      "target": "concept_asmac"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/proyecto educativo dossier.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_proyecto_educativo_dossier",
-      "target": "concept_asmac"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/REGLAMENTO 2023 3.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_reglamento_2023_3",
-      "target": "concept_asmac"
     },
     {
       "relation": "rationale_for",
@@ -3683,16 +5695,6 @@
       "source_location": null,
       "weight": 1.0,
       "source": "md_guia_punta_de_flecha_2025_ts",
-      "target": "concept_punta_de_flecha"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Gu\u00eda Punta de Flecha_2025 TS.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_guia_punta_de_flecha_2025_ts",
       "target": "concept_safe_from_harm"
     },
     {
@@ -3714,36 +5716,6 @@
       "weight": 1.0,
       "source": "md_guia_punta_de_flecha_2025_ts",
       "target": "md_guia_punta_de_flecha_2025_comunidad"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Gu\u00eda Punta de Flecha_2025-Clan.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_guia_punta_de_flecha_2025_clan",
-      "target": "concept_punta_de_flecha"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Gu\u00eda Punta de Flecha_2025-COMUNIDAD.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_guia_punta_de_flecha_2025_comunidad",
-      "target": "concept_punta_de_flecha"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Las Rutas del Rover.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_las_rutas_del_rover",
-      "target": "concept_punta_de_flecha"
     },
     {
       "relation": "references",
@@ -4273,16 +6245,6 @@
       "source_location": null,
       "weight": 1.0,
       "source": "md_politica_nacional_ams_2024",
-      "target": "concept_insignia_madera"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/Pol\u00edtica Nacional AMS 2024.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_politica_nacional_ams_2024",
       "target": "concept_proyecto_educativo_asmac_2020_2030"
     },
     {
@@ -4334,196 +6296,6 @@
       "weight": 0.85,
       "source": "md_politica_nacional_programa_de_jovenes_2025",
       "target": "md_reglamento_2023_3"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/proyecto educativo dossier.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_proyecto_educativo_dossier",
-      "target": "concept_proyecto_educativo_asmac_2020_2030"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "md/proyecto educativo dossier.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "md_proyecto_educativo_dossier",
-      "target": "concept_wosm"
-    },
-    {
-      "relation": "queries",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 3",
-      "weight": 1.0,
-      "source": "readme_chat_asmac_app",
-      "target": "readme_asmac_documents"
-    },
-    {
-      "relation": "serves",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "README.md",
-      "source_location": "line 3",
-      "weight": 1.0,
-      "source": "readme_chat_asmac_app",
-      "target": "readme_asmac_org"
-    },
-    {
-      "relation": "optionally_uses",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 10",
-      "weight": 0.7,
-      "source": "readme_chat_asmac_app",
-      "target": "readme_did_avatar"
-    },
-    {
-      "relation": "implemented_with",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 8",
-      "weight": 1.0,
-      "source": "readme_chat_asmac_app",
-      "target": "readme_gradio_interface"
-    },
-    {
-      "relation": "uses",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 9",
-      "weight": 1.0,
-      "source": "readme_chat_asmac_app",
-      "target": "readme_llm_multi_backend"
-    },
-    {
-      "relation": "uses",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 9",
-      "weight": 1.0,
-      "source": "readme_chat_asmac_app",
-      "target": "readme_top_k_retrieval"
-    },
-    {
-      "relation": "implements",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 172",
-      "weight": 1.0,
-      "source": "readme_chat_scouts_py",
-      "target": "readme_chat_asmac_app"
-    },
-    {
-      "relation": "includes",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 52",
-      "weight": 1.0,
-      "source": "readme_llm_multi_backend",
-      "target": "readme_backend_claude"
-    },
-    {
-      "relation": "includes",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 88",
-      "weight": 1.0,
-      "source": "readme_llm_multi_backend",
-      "target": "readme_backend_ollama"
-    },
-    {
-      "relation": "includes",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 166",
-      "weight": 1.0,
-      "source": "readme_asmac_documents",
-      "target": "md_proyectosactividades_book"
-    },
-    {
-      "relation": "published_by",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 3",
-      "weight": 1.0,
-      "source": "readme_asmac_documents",
-      "target": "readme_asmac_org"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 144",
-      "weight": 1.0,
-      "source": "readme_asmac_documents",
-      "target": "readme_formacion_adultos"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 124",
-      "weight": 1.0,
-      "source": "readme_asmac_documents",
-      "target": "readme_guias_scouter"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 151",
-      "weight": 1.0,
-      "source": "readme_asmac_documents",
-      "target": "readme_insignias_mundiales"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": "line 159",
-      "weight": 1.0,
-      "source": "readme_asmac_documents",
-      "target": "readme_politicas_gobierno"
-    },
-    {
-      "relation": "covered_by",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "README.md",
-      "source_location": "line 127",
-      "weight": 1.0,
-      "source": "md_proyectosactividades_comunidad_caminantes",
-      "target": "readme_guias_scouter"
-    },
-    {
-      "relation": "covered_by",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "README.md",
-      "source_location": "line 128",
-      "weight": 1.0,
-      "source": "md_proyectosactividades_comunidad_rover",
-      "target": "readme_guias_scouter"
     },
     {
       "relation": "contains",
@@ -4646,6 +6418,26 @@
       "target": "md_proyectosactividades_actividades_centrales"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/proyecto educativo dossier.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_proyecto_educativo_dossier",
+      "target": "concept_proyecto_educativo_asmac_2020_2030"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "md/proyecto educativo dossier.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "md_proyecto_educativo_dossier",
+      "target": "concept_wosm"
+    },
+    {
       "relation": "conceptually_related_to",
       "confidence": "INFERRED",
       "confidence_score": 0.75,
@@ -4704,9 +6496,121 @@
       "weight": 1.0,
       "source": "popeye_png_illustration",
       "target": "popeye_png_transparent_asset"
+    },
+    {
+      "relation": "precedes",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-47-32-385Z.yml",
+      "source_location": null,
+      "weight": 0.95,
+      "source": "_playwright_mcp_page_2026_10_05t17_47_32_385z_yml",
+      "target": "_playwright_mcp_page_2026_10_13t23_41_57_857z_yml"
+    },
+    {
+      "relation": "belongs_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-47-32-385Z.yml",
+      "source_location": null,
+      "weight": 0.85,
+      "source": "_playwright_mcp_page_2026_10_05t17_47_32_385z_yml",
+      "target": "playwright_mcp_session"
+    },
+    {
+      "relation": "belongs_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-41-57-857Z.yml",
+      "source_location": null,
+      "weight": 0.85,
+      "source": "_playwright_mcp_page_2026_10_13t23_41_57_857z_yml",
+      "target": "playwright_mcp_session"
+    },
+    {
+      "relation": "belongs_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "gradio_err.txt",
+      "source_location": null,
+      "weight": 0.85,
+      "source": "gradio_err_txt",
+      "target": "gradio_app_session"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "gradio_err.txt",
+      "source_location": null,
+      "weight": 0.95,
+      "source": "gradio_err_txt",
+      "target": "gradio_out_txt"
+    },
+    {
+      "relation": "belongs_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "gradio_out.txt",
+      "source_location": null,
+      "weight": 0.85,
+      "source": "gradio_out_txt",
+      "target": "gradio_app_session"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.25,
+      "source_file": "gradio_out.txt",
+      "source_location": null,
+      "weight": 0.25,
+      "source": "playwright_mcp_session",
+      "target": "gradio_app_session"
     }
   ],
   "hyperedges": [
+    {
+      "id": "clan_governance_structure",
+      "label": "Gobierno del Clan: Parlamento + Promotor + CRR",
+      "nodes": [
+        "concept_parlamento_rover",
+        "concept_promotor_rover",
+        "concept_consejero_rover_responsable",
+        "concept_consejeros_rover"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": ".playwright-mcp/page-2026-10-05T17-49-43-466Z.yml"
+    },
+    {
+      "id": "ciclo_vida_rover_ceremonias",
+      "label": "Ciclo de Vida Rover: Inducci\u00f3n \u2192 Compromiso \u2192 Vida en Clan \u2192 Partida",
+      "nodes": [
+        "concept_periodo_induccion",
+        "concept_compromiso_rover",
+        "concept_ppv",
+        "concept_partida_rover"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-01-09-445Z.yml"
+    },
+    {
+      "id": "progresion_personal_rover",
+      "label": "Progresi\u00f3n Personal Rover: Rutas + Especialidades + Aventuras + Insignias Terminales",
+      "nodes": [
+        "concept_rutas_progresion_rover",
+        "concept_especialidades_rover",
+        "concept_aventuras_naturaleza_rover",
+        "concept_insignias_terminales_rover"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": ".playwright-mcp/page-2026-10-13T23-53-19-121Z.yml"
+    },
     {
       "id": "hyperedge_estructura_organizacional_asmac",
       "label": "Estructura Organizacional ASMAC (Nacional - Provincia - Grupo)",
