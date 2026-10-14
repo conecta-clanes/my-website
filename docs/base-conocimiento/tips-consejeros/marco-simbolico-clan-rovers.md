@@ -20,7 +20,7 @@ Un **conjunto de símbolos, temas e historias** que desarrollan sentido de perte
 
 ```mermaid
 mindmap
-  root(("MARCO SIMBÓLICO\nClan de Rovers\n¡Servir!"))
+  root(("MARCO SIMBÓLICO<BR>Clan de Rovers<BR>¡Servir!"))
     El vivir mi propia aventura\nmediante un proyecto para mi vida
       Vivir\nProtagonista de tu vida
       Mi propia aventura\nTomar las riendas
