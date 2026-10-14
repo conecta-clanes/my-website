@@ -21,10 +21,10 @@ Un **conjunto de símbolos, temas e historias** que desarrollan sentido de perte
 ```mermaid
 mindmap
   root(("MARCO SIMBÓLICO<BR>Clan de Rovers<BR>¡Servir!"))
-    El vivir mi propia aventura\nmediante un proyecto para mi vida
-      Vivir\nProtagonista de tu vida
-      Mi propia aventura\nTomar las riendas
-      Proyecto de vida\nDiseñar tu camino
+    El vivir mi propia aventura<BR>mediante un proyecto para mi vida
+      Vivir<BR>Protagonista de tu vida
+      Mi propia aventura<BR>Tomar las riendas
+      Proyecto de vida<BR>Diseñar tu camino
     Elementos Intangibles
       Lema ¡Servir!
       Oración Rover
@@ -48,11 +48,11 @@ mindmap
 
 ```mermaid
 flowchart TB
-    MS["«El vivir mi propia aventura\nmediante un proyecto para mi vida»"]
+    MS["«El vivir mi propia aventura<BR>mediante un proyecto para mi vida»"]
 
-    D1["Vivir\nConvertirse en protagonista\nde la propia vida"]
-    D2["Mi propia aventura\nAsumir el reto de tomar\nlas riendas del presente y futuro"]
-    D3["Proyecto de vida\nEncontrar y utilizar herramientas\npara diseñar el propio camino"]
+    D1["Vivir<BR>Convertirse en protagonista<BR>de la propia vida"]
+    D2["Mi propia aventura<BR>Asumir el reto de tomar<BR>las riendas del presente y futuro"]
+    D3["Proyecto de vida<BR>Encontrar y utilizar herramientas<BR>para diseñar el propio camino"]
 
     MS --> D1
     MS --> D2
@@ -74,18 +74,18 @@ Estos tres dinamismos responden a las necesidades propias de los 18-21 años: in
 ```mermaid
 flowchart LR
     subgraph INT["ELEMENTOS INTANGIBLES"]
-        LEMA["¡Servir!\nAyudar al prójimo · dejar\nel mundo mejor de cómo\nlo encontramos"]
-        ORA["Oración Rover\nReflexión espiritual al inicio\ny final de cada actividad"]
-        NOM["Nombre del Clan\nElegido por los Rovers\nAsentado en la Carta del Clan\nCambiable por votación"]
-        CER["Ceremonias\nCompromiso Rover\nPartida Rover"]
-        CEL["Celebraciones\nFestejan avances\nen la progresión personal"]
-        TRA["Tradiciones\nFormativas y renovables\npor decisión exclusiva\nde los Rovers"]
+        LEMA["¡Servir!<BR>Ayudar al prójimo · dejar<BR>el mundo mejor de cómo<BR>lo encontramos"]
+        ORA["Oración Rover<BR>Reflexión espiritual al inicio<BR>y final de cada actividad"]
+        NOM["Nombre del Clan<BR>Elegido por los Rovers<BR>Asentado en la Carta del Clan<BR>Cambiable por votación"]
+        CER["Ceremonias<BR>Compromiso Rover<BR>Partida Rover"]
+        CEL["Celebraciones<BR>Festejan avances<BR>en la progresión personal"]
+        TRA["Tradiciones<BR>Formativas y renovables<BR>por decisión exclusiva<BR>de los Rovers"]
     end
 
     subgraph FIS["ELEMENTOS FÍSICOS"]
-        UNI["Uniforme\nCamisola roja · pantalón azul marino\nCinturón negro · tines azul marino\nvivos rojos · motas rojas · calzado oscuro"]
-        INS["Insignias\nCintas de liderazgo · Rutas (4)\nEspecialidades (4 ejes) · Aventuras\nInsignias Terminales Baden-Powell\nIniciativas mundiales"]
-        HOR["Horquilla\nRama en «Y» · base recta\nLongitud: bifurcación al suelo\n(unión a la altura de la axila)"]
+        UNI["Uniforme<BR>Camisola roja · pantalón azul marino<BR>Cinturón negro · tines azul marino<BR>vivos rojos · motas rojas · calzado oscuro"]
+        INS["Insignias<BR>Cintas de liderazgo · Rutas (4)<BR>Especialidades (4 ejes) · Aventuras<BR>Insignias Terminales Baden-Powell<BR>Iniciativas mundiales"]
+        HOR["Horquilla<BR>Rama en «Y» · base recta<BR>Longitud: bifurcación al suelo<BR>(unión a la altura de la axila)"]
     end
 
     classDef intangible fill:#1a5276,stroke:#154360,color:#fff
@@ -115,11 +115,11 @@ flowchart LR
 
 ```mermaid
 flowchart TB
-    CL["Cintas de liderazgo (Art. 58)\nRover Scout: fondo azul marino\nhorquilla roja · iniciales R.S. · barras azules\nPromotoría: mismas iniciales · barras blancas"]
-    RU["Rutas de Progresión (Art. 59)\nOtomí · Maya · Wixárika · Kikapú\nCónicas · fondo azul marino · borde rojo\nDiseños inspirados en pueblos originarios"]
-    ES["Especialidades (Art. 60)\nHabilidades para la Vida\nSalud y Bienestar\nPaz y Participación Comunitaria\nMedio Ambiente y Sustentabilidad"]
-    AN["Aventuras en la Naturaleza (Art. 61)\nTierra · Viento · Fuego · Agua\nHexagonales modulares · fondo azul marino\nTierra es siempre la primera insignia"]
-    IT["Insignias Terminales (Art. 63)\nBaden-Powell obsidiana (morado)\nBaden-Powell jade (verde jade)\nSustituyen las Rutas al obtenerse"]
+    CL["Cintas de liderazgo (Art. 58)<BR>Rover Scout: fondo azul marino<BR>horquilla roja · iniciales R.S. · barras azules<BR>Promotoría: mismas iniciales · barras blancas"]
+    RU["Rutas de Progresión (Art. 59)<BR>Otomí · Maya · Wixárika · Kikapú<BR>Cónicas · fondo azul marino · borde rojo<BR>Diseños inspirados en pueblos originarios"]
+    ES["Especialidades (Art. 60)<BR>Habilidades para la Vida<BR>Salud y Bienestar<BR>Paz y Participación Comunitaria<BR>Medio Ambiente y Sustentabilidad"]
+    AN["Aventuras en la Naturaleza (Art. 61)<BR>Tierra · Viento · Fuego · Agua<BR>Hexagonales modulares · fondo azul marino<BR>Tierra es siempre la primera insignia"]
+    IT["Insignias Terminales (Art. 63)<BR>Baden-Powell obsidiana (morado)<BR>Baden-Powell jade (verde jade)<BR>Sustituyen las Rutas al obtenerse"]
 
     classDef ins fill:#1a5276,stroke:#154360,color:#fff
     class CL,RU,ES,AN,IT ins
@@ -131,11 +131,11 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    HOR(["HORQUILLA\nRama en «Y» · base recta\nLongitud: bifurcación al suelo\n(unión de la «Y» a la altura de la axila)"])
+    HOR(["HORQUILLA<BR>Rama en «Y» · base recta<BR>Longitud: bifurcación al suelo<BR>(unión de la «Y» a la altura de la axila)"])
 
-    C["El Cuerpo\nRepresenta el camino\nque debes seguir en la vida"]
-    V["La «V»\nRepresenta la disyuntiva\ncontinua en el camino\nTu capacidad de elegir"]
-    E["Entrega\nCeremonia de Compromiso Rover\nEl CRR te la entrega\ncomo símbolo de inicio"]
+    C["El Cuerpo<BR>Representa el camino<BR>que debes seguir en la vida"]
+    V["La «V»<BR>Representa la disyuntiva<BR>continua en el camino<BR>Tu capacidad de elegir"]
+    E["Entrega<BR>Ceremonia de Compromiso Rover<BR>El CRR te la entrega<BR>como símbolo de inicio"]
 
     HOR --> C
     HOR --> V
@@ -158,10 +158,10 @@ Además de la Horquilla, el Art. 64 reconoce cuatro elementos que identifican f�
 
 ```mermaid
 flowchart LR
-    EC["Escudo de Clan\nmáx. 90×30 mm · tela o cuero\nAprobado por el Parlamento Rover\nSobre manga izquierda de la camisola"]
-    EU["Escudo de Unidad Rover\nmáx. 30×30 mm · tela o cuero\nAprobado por el Parlamento\nJunto al Escudo de Clan"]
-    DV["Distintivo de Viaje Rover\nPin 25×25 mm\nSe obtiene al realizar\nel Viaje Rover"]
-    BAN["Bandera del Clan\n1.40 m × 0.85 m · color rojo\nLeyendas en blanco o amarillo\nNombre · Grupo · Provincia · ASMAC"]
+    EC["Escudo de Clan<BR>máx. 90×30 mm · tela o cuero<BR>Aprobado por el Parlamento Rover<BR>Sobre manga izquierda de la camisola"]
+    EU["Escudo de Unidad Rover<BR>máx. 30×30 mm · tela o cuero<BR>Aprobado por el Parlamento<BR>Junto al Escudo de Clan"]
+    DV["Distintivo de Viaje Rover<BR>Pin 25×25 mm<BR>Se obtiene al realizar<BR>el Viaje Rover"]
+    BAN["Bandera del Clan<BR>1.40 m × 0.85 m · color rojo<BR>Leyendas en blanco o amarillo<BR>Nombre · Grupo · Provincia · ASMAC"]
 
     classDef comp fill:#566573,stroke:#424949,color:#fff
     class EC,EU,DV,BAN comp
@@ -173,10 +173,10 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A(["Período de Inducción\n3 a 6 meses"])
-    B(["Compromiso Rover\nDos tiempos:\nVigilia · Investidura\nEntrega de Horquilla"])
-    C(["Vida en el Clan\nActividades · PPV\nProyectos · Aventuras"])
-    D(["Partida Rover\nCeremonia de cierre\nTransición a Asociado Rover"])
+    A(["Período de Inducción<BR>3 a 6 meses"])
+    B(["Compromiso Rover<BR>Dos tiempos:<BR>Vigilia · Investidura<BR>Entrega de Horquilla"])
+    C(["Vida en el Clan<BR>Actividades · PPV<BR>Proyectos · Aventuras"])
+    D(["Partida Rover<BR>Ceremonia de cierre<BR>Transición a Asociado Rover"])
 
     A --> B --> C --> D
 
@@ -204,8 +204,8 @@ Ninguna tradición o mística está por encima del Reglamento, el Código de Ét
 
 ```mermaid
 flowchart LR
-    NO["LO QUE SÍ ES\nSímbolos · temas · historias\nque acompañan el PPV\nSentido de pertenencia\nCohesión · valores"]
-    SI["LO QUE NO ES\nPruebas de carácter\nSometimiento de autoridad\nRetos que atentan\ncontra la integridad\nLímite al PPV"]
+    NO["LO QUE SÍ ES<BR>Símbolos · temas · historias<BR>que acompañan el PPV<BR>Sentido de pertenencia<BR>Cohesión · valores"]
+    SI["LO QUE NO ES<BR>Pruebas de carácter<BR>Sometimiento de autoridad<BR>Retos que atentan<BR>contra la integridad<BR>Límite al PPV"]
 
     NO -. "no confundir con" .-> SI
 
