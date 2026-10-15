@@ -1,4 +1,4 @@
-# Estructura del Clan de Rovers
+# ✏️ Estructura del Clan de Rovers
 
 ## Introducción
 
@@ -8,17 +8,12 @@ Esta propuesta no sustituyen la documentación oficial, no nos hacemos responsab
 
 - [Claude Code](https://claude.com/product/claude-code) 
 
-## Fuentes
 
-- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
-- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
-
+## Diagrama Estructura del Clan de Rovers
 
 **Sección:** Clan de Rovers · 
 **Edades:** 18 a 21 años · 
 **Lema:** ¡Servir!
-
-## Diagrama Estructura del Clan de Rovers
 
 ---
 
@@ -89,6 +84,14 @@ flowchart LR
 | **Consejo de Grupo** | Jefes de Sección + CRR | — | Veto sobre acuerdos contrarios a ordenamientos o que pongan en riesgo la seguridad |
 | **Foros Provinciales/Nacionales** | Rovers Foristas | 18-21 años | Participación juvenil; elección democrática de Representantes al Comité Red de Jóvenes |
 | **Red de Jóvenes** | Representantes elegidos en Foros | 18-21 años | Voz y voto ante COP y CEP de Provincia |
+
+
+
+## Fuentes
+
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+
 
 ##### Autora
 
