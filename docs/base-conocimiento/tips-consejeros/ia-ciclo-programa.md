@@ -156,6 +156,6 @@ Consejos para el Facilitador:
 En [Velum](https://www.vellum.ai/llm-leaderboard) se pueder observar bencharmarks o pruebas de performance, para qué cosa sirve mejor cada una
 
 
-##### Redactora
+##### Autora
 
-Yolanda Castillo
+- Yolanda Castillo

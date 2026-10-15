@@ -80,6 +80,14 @@ flowchart TD
     COL <-->|"Se integran<BR>mutualmente"| PER
 ```
 
+
+### Fuentes
+
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+
+
+
 ##### Autora
 
     - Yolanda Castillo
