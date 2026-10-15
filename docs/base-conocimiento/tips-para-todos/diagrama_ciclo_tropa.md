@@ -1,4 +1,4 @@
-# Ciclo de Programa — La Gran Exploración (Tropa)
+# ✏️ Ciclo de Programa — La Gran Exploración (Tropa)
 
 ## Introducción
 
