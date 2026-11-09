@@ -125,3 +125,13 @@ Yo **Carlos Mendoza Torres**, Jefe del Grupo Scout 1409, en representación de l
 :::tip Siguiente paso
 Con el AyCM firmado, Ana debe elaborar su [Plan Personal de Formación (PPF)](./ppf-ejemplo.md) para el mismo período.
 :::
+
+---
+
+## Tecnologías usadas
+
+- [Claude Code](https://claude.com/product/claude-code)
+
+##### Autora
+
+- Yolanda Castillo

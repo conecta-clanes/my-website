@@ -1,8 +1,8 @@
-# 👷 Diagrama: Ruta para la Insignia Mensajeros de la Paz
+﻿# 👷 Diagrama: Ruta para la Insignia Mensajeros de la Paz
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 ## Tecnologías usadas
 
@@ -94,20 +94,20 @@ flowchart TD
         R3["🌍 Proyecto en<BR>mapa global interactivo<BR>de scout.org"]
     end
 
-    style START fill:#4a7c59,color:#fff,stroke:#2d5a3d
-    style REWARD fill:#1a1a2e,stroke:#c8a92b
-    style R1 fill:#c8a92b,color:#000,stroke:#8a6910
-    style R2 fill:#5b21b6,color:#fff,stroke:#3b0764
-    style R3 fill:#1e40af,color:#fff,stroke:#1e3a8a
-    style PREP fill:#1a1a2e,stroke:#374151
-    style P1 fill:#1a120a,stroke:#92400e
-    style P2 fill:#0a1628,stroke:#1e40af
-    style P3 fill:#1a0a0a,stroke:#991b1b
-    style P4 fill:#0f0a28,stroke:#5b21b6
-    style SOL fill:#0a1a0a,stroke:#15803d
-    style C4 fill:#7f1d1d,color:#fca5a5,stroke:#991b1b
-    style C_R fill:#2e1065,color:#c4b5fd,stroke:#5b21b6
-    style E5 fill:#064e3b,color:#fff,stroke:#065f46
+    style START fill:#8e44ad,stroke:#6c3483,color:#fff
+    style REWARD fill:#fef9e7,stroke:#d68910
+    style R1 fill:#f39c12,stroke:#d68910,color:#000
+    style R2 fill:#8e44ad,stroke:#6c3483,color:#fff
+    style R3 fill:#2980b9,stroke:#1a5276,color:#fff
+    style PREP fill:#f8f9fa,stroke:#7f8c8d
+    style P1 fill:#fde8d8,stroke:#d35400
+    style P2 fill:#d6eaf8,stroke:#2980b9
+    style P3 fill:#fadbd8,stroke:#e74c3c
+    style P4 fill:#e8daef,stroke:#8e44ad
+    style SOL fill:#d5f5e3,stroke:#27ae60
+    style C4 fill:#e74c3c,stroke:#c0392b,color:#fff
+    style C_R fill:#8e44ad,stroke:#6c3483,color:#fff
+    style E5 fill:#27ae60,stroke:#1e8449,color:#fff
 ```
 
 ---

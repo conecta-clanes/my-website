@@ -1,8 +1,8 @@
-# 🚀 Inteligencia artificial: herramientas administrativa para Actividades
+﻿# 🚀 Inteligencia artificial: herramientas administrativa para Actividades
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 
 ## Propuesta

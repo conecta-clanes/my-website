@@ -1,7 +1,7 @@
 
 # Morse
 
-Es una código que hace uso de sonidos o rayos de luz, se copone de rayas y puntos.
+Es un código que hace uso de sonidos o rayos de luz, se compone de rayas y puntos.
 
 |Letra|  Clave |Letra| Clave |Letra | Clave  |
 |-----|--------|-----|-------|------|--------|

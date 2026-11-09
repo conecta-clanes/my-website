@@ -1,10 +1,10 @@
-# ✏️ Diagramas Scout en Mermaid
+﻿# ✏️ Diagramas Scout en Mermaid
 
 ---
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 ## Tecnologías usadas
 

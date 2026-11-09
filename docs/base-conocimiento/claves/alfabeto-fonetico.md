@@ -1,6 +1,6 @@
 # Alfabeto fonético
 
-Para tener mator claridad al transmitir un mesanje usa el alfabeto fonético en lugar del nombre de la letra. Lo puede emplear al deletrar tu nombre, al dar instrucciones en llamadas telefónicas, etc..
+Para tener mayor claridad al transmitir un mensaje usa el alfabeto fonético en lugar del nombre de la letra. Lo puede emplear al deletrar tu nombre, al dar instrucciones en llamadas telefónicas, etc..
 
 |A|Alfa   |J|Juliet   |R|Romeo   |
 |-|-------|-|---------|-|--------|

@@ -1,8 +1,8 @@
-# 🧪 Cuestionarios de Autoconocimiento del Clan Anzanc-Alcira
+﻿# 🧪 Cuestionarios de Autoconocimiento del Clan Anzanc-Alcira
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 La intención de éste documento es facilitar a otros clanes la herramienta que creamos de autoconocimiento, la cual les podemos ayudar a replicar en nuestro hosting con base de datos independiente y usuario administrador independiente,
 cuyo objetivo es poder aplicar algunos cuestionarios como la clasificación de programación neurolinguística, qué tipo de alumno se es, cómo se aprende. 
@@ -19,7 +19,7 @@ Algunos resultados de la aplicación de los cuestionarios
 ![Tipo alumno](img/site/site-tipoAlumno.png)
 
 Guías de los resultados
-![Dominancia Cerbral](img/site/site-comoAprende.png)
+![Dominancia Cerebral](img/site/site-comoAprende.png)
 ![Tipo de alumno parte 1](img/site/site-guiaComoAprendete-1.png)
 ![Tipo de alumno parte 2](img/site/site-guiaComoAprendete-2.png)
 ![Tipo de alumno parte 3](img/site/site-guiaComoAprendete-3.png)
@@ -28,9 +28,9 @@ Guías de los resultados
 ![Domina parte 1](img/site/site-guiaTipoAlumno-1.png)
 ![Domina parte 2](img/site/site-guiaTipoAlumno-2.png)
 
-## Nuestra herramienta la basamos en cuestionarios como los que se listana abajo
+## Nuestra herramienta la basamos en cuestionarios como los que se listan abajo
 
-Cuestionario de tipo de aprendizaje se tiene relacionado a si se es kinestesico, auditivo, visual
+Cuestionario de tipo de aprendizaje se tiene relacionado a si se es kinestésico, auditivo, visual
 por ejemplo 
 [¿Eres Visual, Auditivo o Kinestésico?](https://www.clinicabaviera.com/blog/curiosidades/eres-visual-auditivo-o-kinestesico/)
 [Test de estilos de aprendizaje VAK](https://www.psicoactiva.com/test/educacion-y-aprendizaje/test-de-estilos-de-aprendizaje/)
@@ -39,7 +39,7 @@ por ejemplo
 Cuestionarios de qué tipo de estudiante se es, por ejemplo:
 [Test estilos de aprendizaje](https://www.cua.uam.mx/public/elfinder/files/PDF/planeacion/test-de-estilos-de-aprendizaje.pdf)
 
-Cuestionarios sobre que clasificación desdes el punto de vista de programación neurolinguistica
+Cuestionarios sobre que clasificación desde el punto de vista de programación neurolinguistica
 [Cuestionario de Programacion Neurolinguistica](https://www.scribd.com/document/315421105/Cuestionario-de-Programacion-Neurolinguistica)
 
 

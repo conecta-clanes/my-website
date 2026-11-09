@@ -1,8 +1,8 @@
-# ✏️ Diagrama: Funcionamiento del Clan de Rovers
+﻿# ✏️ Diagrama: Funcionamiento del Clan de Rovers
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 ## Tecnologías usadas
 

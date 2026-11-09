@@ -1,8 +1,8 @@
-# 🔨 Mínimos al ejecutar un Parlamento
+﻿# 🔨 Mínimos al ejecutar un Parlamento
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 Ésta es un propuesta sobre cuántos deben ser los mínimos al ejecutar un parlamento.
 

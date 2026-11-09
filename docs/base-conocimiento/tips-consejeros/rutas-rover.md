@@ -1,8 +1,8 @@
-# ✏️ Diagrama: Las Rutas del Rover — Progresión Personal
+﻿# ✏️ Diagrama: Las Rutas del Rover — Progresión Personal
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 ## Tecnologías usadas
 

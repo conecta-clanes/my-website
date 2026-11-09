@@ -6,7 +6,7 @@ El PPV idealmente se debe comenzar a ver desde la sección de la Comunidad
 
 ## Antescedentes
 
-- En la mayoria de las escuelas de bachillerato al menos en México al final del segundo año se elige el área a que se decide ir, por ejemplo, ciencias de la salud, fisicomatemáticas, etc.
+- En la mayoría de las escuelas de bachillerato al menos en México al final del segundo año se elige el área a que se decide ir, por ejemplo, ciencias de la salud, fisicomatemáticas, etc.
 - Cuesta tiempo e inversión desde un inicio elegir una carrera no adecuada
 
 ## ¿Qué se debería ver en la comunidad?
@@ -63,7 +63,7 @@ pie title En qué grado eligieron carrera
 "Después de Bachillerato" : 37
 "Lo sigue evaluando" : 1.9
 ```
-**Respuestas interesantes de en qué grado eligueron carrera**
+**Respuestas interesantes de en qué grado eligieron carrera**
 
 - Soy polymatha, soy doble ingeniero, maestro en dirección de proyectos, también contador y lamentablemente psicólogo (ejerci como Gestalt y me arrepiento cada día) sin embargo en la dgose me ayudaron incluso a saber que existen carreras que en pendeja y joven vida sabía que existían. Aún ignoro cosas de mis propios gremios y cosas básicas. También define mucho que quieres ser, yo sabía que quería dinero y ser feliz, 15 años después un niño en una charla tedx resumio todo en un vídeo de no más de 10 minutos que se llama hackeando la escuela. Y es que sabemos que una persona que vende tacos, sin mayor preparación que 3ro de primaria ganas hasta 10 veces más por día que un letrado con honores académicos, pero aquí reside mucho el que quieres , ¿Yo? Quiero cambiar el mundo, el sujeto de los tacos solo quiere vender tacos (hay una diferencia enorme en ello).
 - En ningun momento, me mantuve firme a mi ideal
@@ -100,18 +100,18 @@ pie title Les hubiera gustado tomar la orientación vocacional
 "No" : 5.6
 ```
 
-#### Conslusiones
+#### Conclusiones
 
-Más de l 90% de los encuenstados les hubiera gustado tener orientación vocacional antes 
+Más del 90% de los encuestados les hubiera gustado tener orientación vocacional antes 
 de elegir carrera. 
 
-El 37% de los encuestados eligió su depués de launiversidad y 39% en el bachillerato
+El 37% de los encuestados eligió su carrera después de la universidad y 39% en el bachillerato
 
-Apenas el 43% de los encuestados hizo alguna prueba de orientación vacacional antes de los 17 años
+Apenas el 43% de los encuestados hizo alguna prueba de orientación vocacional antes de los 17 años
 
-El 57% de los encuestados no ejecce la carrera que estudió
+El 57% de los encuestados no ejerce la carrera que estudió
 
-El 41% estaba muy reguro de su elección y el 32% poco seguro.
+El 41% estaba muy seguro de su elección y el 32% poco seguro.
 
 ### 👏 Agredecimiento por su contribución👏
 

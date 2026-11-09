@@ -57,11 +57,11 @@ flowchart LR
     RJ -->|"voz y voto"| COP
     RJ -->|"voz y voto"| CEP
 
-    classDef rover fill:#c0392b,stroke:#922b21,color:#fff,font-weight:bold
-    classDef scouter fill:#1a5276,stroke:#154360,color:#fff,font-weight:bold
+    classDef rover fill:#e74c3c,stroke:#c0392b,color:#fff,font-weight:bold
+    classDef scouter fill:#2980b9,stroke:#1a5276,color:#fff,font-weight:bold
     classDef grupo fill:#d35400,stroke:#a04000,color:#fff
-    classDef ext fill:#1e8449,stroke:#196f3d,color:#fff
-    classDef neut fill:#566573,stroke:#424949,color:#fff
+    classDef ext fill:#27ae60,stroke:#1e8449,color:#fff
+    classDef neut fill:#7f8c8d,stroke:#616a6b,color:#fff
 
     class RV,PR,ES,REP_G rover
     class CRR,CR scouter

@@ -1,8 +1,8 @@
-# 🔨 Framework 5W + 1H — Preguntas Orientadoras
+﻿# 🔨 Framework 5W + 1H — Preguntas Orientadoras
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 > En escritura académica se conoce como **5W + 1H**.
 > En el Movimiento Scout se aplica como **Preguntas Orientadoras** para planear, ejecutar y evaluar proyectos y actividades.
@@ -85,23 +85,23 @@ flowchart TD
         M6["¿CÓMO?<BR>→ 4 Pasos: Inspira · Aprende<BR>Actúa · Comparte"]
     end
 
-    style TITLE fill:#1a1a2e,color:#f0c040,stroke:#c8a92b
-    style PLAN fill:#0a1628,stroke:#1e40af
-    style EXEC fill:#0a1a0a,stroke:#15803d
-    style EVAL fill:#1a0a0a,stroke:#991b1b
-    style MOP fill:#1a120a,stroke:#92400e
-    style WHO fill:#1e3a8a,color:#93c5fd,stroke:#1e40af
-    style WHAT fill:#1e3a8a,color:#93c5fd,stroke:#1e40af
-    style WHY fill:#1e3a8a,color:#93c5fd,stroke:#1e40af
-    style WHEN fill:#14532d,color:#86efac,stroke:#15803d
-    style WHERE fill:#14532d,color:#86efac,stroke:#15803d
-    style HOW fill:#14532d,color:#86efac,stroke:#15803d
-    style M1 fill:#431407,color:#fed7aa,stroke:#92400e
-    style M2 fill:#431407,color:#fed7aa,stroke:#92400e
-    style M3 fill:#431407,color:#fed7aa,stroke:#92400e
-    style M4 fill:#431407,color:#fed7aa,stroke:#92400e
-    style M5 fill:#431407,color:#fed7aa,stroke:#92400e
-    style M6 fill:#431407,color:#fed7aa,stroke:#92400e
+    style TITLE fill:#8e44ad,stroke:#6c3483,color:#fff
+    style PLAN fill:#d6eaf8,stroke:#2980b9
+    style EXEC fill:#d5f5e3,stroke:#27ae60
+    style EVAL fill:#fadbd8,stroke:#e74c3c
+    style MOP fill:#fde8d8,stroke:#d35400
+    style WHO fill:#2980b9,stroke:#1a5276,color:#fff
+    style WHAT fill:#2980b9,stroke:#1a5276,color:#fff
+    style WHY fill:#2980b9,stroke:#1a5276,color:#fff
+    style WHEN fill:#27ae60,stroke:#1e8449,color:#fff
+    style WHERE fill:#27ae60,stroke:#1e8449,color:#fff
+    style HOW fill:#27ae60,stroke:#1e8449,color:#fff
+    style M1 fill:#d35400,stroke:#a04000,color:#fff
+    style M2 fill:#d35400,stroke:#a04000,color:#fff
+    style M3 fill:#d35400,stroke:#a04000,color:#fff
+    style M4 fill:#d35400,stroke:#a04000,color:#fff
+    style M5 fill:#d35400,stroke:#a04000,color:#fff
+    style M6 fill:#d35400,stroke:#a04000,color:#fff
 ```
 
 ---

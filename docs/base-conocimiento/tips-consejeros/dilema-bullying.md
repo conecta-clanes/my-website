@@ -1,14 +1,14 @@
-# 🚑 Dilemas sobre bullying 
+﻿# 🚑 Dilemas sobre bullying 
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
-Éstas historias puedes o no ser basadas en hechos reales.
+Estas historias pueden o no estar basadas en hechos reales.
 No pretende juzgar a nadie. Intenta poner en la mesa los casos imaginarios o reales
 con los que te pueden enfrentar un Consejero.
 
-📣**No peder de vista que los Scouts son una hermandad**📣
+📣**No perder de vista que los Scouts son una hermandad**📣
 
 ## Caso sobre un joven que no quiere ser parte del canal de comunicación de la red de jóvenes por bullying previo
 
@@ -17,7 +17,7 @@ con los que te pueden enfrentar un Consejero.
 - Darle acompañamiento en la situación
 - Orientar, canalizar y/o vigilar que el joven supere el issue de bullying sufrido
 - Si decide no unirse que sea por voluntad y no por miedo 😨
-- Mostrarle los benficios de formar parte del canal, por ejemplo, estar enterado de los eventos, etc.
+- Mostrarle los beneficios de formar parte del canal, por ejemplo, estar enterado de los eventos, etc.
 - 🌞 Que la decisión que tome, le de paz 🌞
 
 ###  ☎️ Líneas de ayuda 🚑

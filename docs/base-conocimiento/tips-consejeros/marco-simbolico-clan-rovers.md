@@ -1,8 +1,8 @@
-# ✏️ Marco Simbólico del Clan de Rovers
+﻿# ✏️ Marco Simbólico del Clan de Rovers
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 
 ## Tecnologías usadas
@@ -58,7 +58,7 @@ flowchart TB
     MS --> D2
     MS --> D3
 
-    classDef central fill:#c0392b,stroke:#922b21,color:#fff,font-weight:bold
+    classDef central fill:#e74c3c,stroke:#c0392b,color:#fff,font-weight:bold
     classDef din fill:#8e44ad,stroke:#6c3483,color:#fff
 
     class MS central
@@ -88,8 +88,8 @@ flowchart LR
         HOR["Horquilla<BR>Rama en «Y» · base recta<BR>Longitud: bifurcación al suelo<BR>(unión a la altura de la axila)"]
     end
 
-    classDef intangible fill:#1a5276,stroke:#154360,color:#fff
-    classDef fisico fill:#1e8449,stroke:#196f3d,color:#fff
+    classDef intangible fill:#2980b9,stroke:#1a5276,color:#fff
+    classDef fisico fill:#27ae60,stroke:#1e8449,color:#fff
 
     class LEMA,ORA,NOM,CER,CEL,TRA intangible
     class UNI,INS,HOR fisico
@@ -121,7 +121,7 @@ flowchart TB
     AN["Aventuras en la Naturaleza (Art. 61)<BR>Tierra · Viento · Fuego · Agua<BR>Hexagonales modulares · fondo azul marino<BR>Tierra es siempre la primera insignia"]
     IT["Insignias Terminales (Art. 63)<BR>Baden-Powell obsidiana (morado)<BR>Baden-Powell jade (verde jade)<BR>Sustituyen las Rutas al obtenerse"]
 
-    classDef ins fill:#1a5276,stroke:#154360,color:#fff
+    classDef ins fill:#2980b9,stroke:#1a5276,color:#fff
     class CL,RU,ES,AN,IT ins
 ```
 
@@ -163,7 +163,7 @@ flowchart LR
     DV["Distintivo de Viaje Rover<BR>Pin 25×25 mm<BR>Se obtiene al realizar<BR>el Viaje Rover"]
     BAN["Bandera del Clan<BR>1.40 m × 0.85 m · color rojo<BR>Leyendas en blanco o amarillo<BR>Nombre · Grupo · Provincia · ASMAC"]
 
-    classDef comp fill:#566573,stroke:#424949,color:#fff
+    classDef comp fill:#7f8c8d,stroke:#616a6b,color:#fff
     class EC,EU,DV,BAN comp
 ```
 
@@ -180,8 +180,8 @@ flowchart LR
 
     A --> B --> C --> D
 
-    classDef paso fill:#566573,stroke:#424949,color:#fff
-    classDef cer fill:#c0392b,stroke:#922b21,color:#fff,font-weight:bold
+    classDef paso fill:#7f8c8d,stroke:#616a6b,color:#fff
+    classDef cer fill:#e74c3c,stroke:#c0392b,color:#fff,font-weight:bold
 
     class A,C paso
     class B,D cer
@@ -209,8 +209,8 @@ flowchart LR
 
     NO -. "no confundir con" .-> SI
 
-    classDef si fill:#1e8449,stroke:#196f3d,color:#fff
-    classDef no fill:#c0392b,stroke:#922b21,color:#fff
+    classDef si fill:#27ae60,stroke:#1e8449,color:#fff
+    classDef no fill:#e74c3c,stroke:#c0392b,color:#fff
 
     class NO si
     class SI no

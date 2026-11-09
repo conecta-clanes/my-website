@@ -1,8 +1,8 @@
-# ✏️ Herramientas IA Generativa
+﻿# ✏️ Herramientas IA Generativa
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 ## NotebookLM
 

@@ -1,13 +1,13 @@
-# 👷 Juego interactivo "Dibujos animados"
+﻿# 👷 Juego interactivo "Dibujos animados"
 
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
-Éste proyecto fue inspirado en una visita al acuero Michin de la CDMX sobre su experiencia interactiva en el que los niños iluminan o colorean un dibujo, se escanea y aparece en una proyección su dibujo.
+Éste proyecto fue inspirado en una visita al acuario Michin de la CDMX sobre su experiencia interactiva en el que los niños iluminan o colorean un dibujo, se escanea y aparece en una proyección su dibujo.
 
-Con la llegada de la la IA generativa, nos hicimos de la pregunta si ese tipo de experiencia digitales no se podrían llevar a una actividad en el local de grupo.
+Con la llegada de la IA generativa, nos hicimos de la pregunta si ese tipo de experiencia digitales no se podrían llevar a una actividad en el local de grupo.
 
 Creemos que con la llegada de la IA ahora el límite es la imaginación
 
@@ -24,7 +24,7 @@ Creemos que con la llegada de la IA ahora el límite es la imaginación
 - Proyector, monitor o pantalla
 
 
-## Ténologías usadas:
+## Tecnologías usadas:
 
 - [Python](https://www.python.org/)
 - [Meshy](https://www.meshy.ai/) pero se puede usar el Modelo de ChatGPT Images 2.0
@@ -35,7 +35,7 @@ Creemos que con la llegada de la IA ahora el límite es la imaginación
 ### Experiencia
 
 - Al comenzar no sabíamos hacer animaciones así que liberamos una versión 1.0 únicamente con la imagen escaneada y movimiento sencillo sobre el escenario
-- Fue gratificante ver la sorpresa de los niños y jóvenes a difrenete nivel, los más pequelos sorprendidos, los adolescentes buscando en pantalla su personaje, los más grandes preguntando como se creo la aplicación
+- Fue gratificante ver la sorpresa de los niños y jóvenes a diferente nivel, los más pequelos sorprendidos, los adolescentes buscando en pantalla su personaje, los más grandes preguntando cómo se creó la aplicación
 
 
 

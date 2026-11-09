@@ -1,4 +1,4 @@
-# 🧪 Análisis de Riesgos Nivel Grupo
+﻿# 🧪 Análisis de Riesgos Nivel Grupo
 
 
 Éste es un ejercicio de riesgos que hicimos en nuestro grupo que se encuentra en la CDMX en un parque el cuál queremos compartir. Sabemos que no es perfecto y que se puede mejorar, sin embargo es un punto de partida
@@ -18,7 +18,7 @@
         <tr>
             <th>Tipo Riesgo</th>
             <th>Acciones</th>
-            <th>Responable</th>
+            <th>Responsable</th>
         </tr>
     </thead>
     <tbody>
@@ -30,12 +30,12 @@
                     <li>Solicitar botiquines para sección</li>
                     <li>Tomar cursos de primeros auxilios</li>
                     <li>Tomar cursos emergercias psicológicas</li>
-                    <li>Tomar cusos Safe from Harm(SFH) 1,2,3</li>
+                    <li>Tomar cursos Safe from Harm(SFH) 1,2,3</li>
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Solicitar fichas médicas</li>
                     <li>Solicitar directorios al comité y por secciones</li>
-                    <li>Soliictar que todas las actividades sean seguras</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Solicitar que todas las actividades sean seguras</li>
+                    <li>Organizar brigada de emergencia</li>
                 </ul> 
             </td>
             <td>Grupo</td>
@@ -73,9 +73,9 @@
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Crear mapa de zona segura en el local</li>
                     <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
-                    <li>Solicitar que por seccion se reporten en sus chats</li>
+                    <li>Solicitar que por sección se reporten en sus chats</li>
                     <li>Solicitar que los Scouter se reporten en el chat de jefes</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Organizar brigada de emergencia</li>
                  </ul> 
             </td>            
             <td>Grupo</td>
@@ -87,7 +87,7 @@
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Crear mapa de zona segura en el local</li>
                     <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Organizar brigada de emergencia</li>
                 </ul>
             </td>            
             <td>Grupo</td>
@@ -101,7 +101,7 @@
                     <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
                     <li>Comprar extintor</li>
                     <li>Comprar garrafón con agua</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Organizar brigada de emergencia</li>
                 </ul>
             </td>            
             <td>Grupo</td>
@@ -113,7 +113,7 @@
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Crear mapa de zona segura en el local</li>
                     <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Organizar brigada de emergencia</li>
                 </ul>
             </td>            
             <td>Grupo</td>
@@ -125,7 +125,7 @@
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Crear mapa de zona segura en el local</li>
                     <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Organizar brigada de emergencia</li>
                 </ul>
             </td>            
             <td>Grupo</td>
@@ -137,7 +137,7 @@
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Crear mapa de zona segura en el local</li>
                     <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Organizar brigada de emergencia</li>
                 </ul>
             </td>            
             <td>Grupo</td>
@@ -149,7 +149,7 @@
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Crear mapa de zona segura en el local</li>
                     <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Organizar brigada de emergencia</li>
                 </ul>
             </td>            
             <td>Grupo</td>
@@ -161,7 +161,7 @@
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Crear mapa de zona segura en el local</li>
                     <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Organizar brigada de emergencia</li>
                 </ul>
             </td>            
             <td>Grupo</td>
@@ -173,7 +173,7 @@
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Crear mapa de zona segura en el local</li>
                     <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Organizar brigada de emergencia</li>
                 </ul>
             </td>            
             <td>Grupo</td>
@@ -185,7 +185,7 @@
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Crear mapa de zona segura en el local</li>
                     <li>Ubicar zonas seguras en casa, escuela, trabajo</li>
-                    <li>Organizar brigada de emergecia</li>
+                    <li>Organizar brigada de emergencia</li>
                 </ul>
             </td>            
             <td>Grupo</td>
@@ -193,7 +193,7 @@
     </tbody>
 </table>
 
-## Checlist
+## Checklist
 
 |Equipo	                                                |¿Se tiene?|	Detalle          |
 |-------------------------------------------------------|----------|---------------------|
@@ -241,17 +241,17 @@
 |Navaja con herramientas Comunidad	                    |[X]       |                     |	
 |Navaja con herramientas Clan	                        |[X]       |                     |	
 |Fichas Medicas Grupo	                                |[X]       |                     |	
-|Fichas Medicas Seccón Lobatos	                        |[X]       |                     |	
-|Fichas Medicas Seccón Tropa	                        |[X]       |                     |	
-|Fichas Medicas Seccón Comunidad	                    |[X]       |                     |	
-|Fichas Medicas Seccón Clan	                            |[X]       |                     |
+|Fichas Medicas Sección Lobatos	                        |[X]       |                     |	
+|Fichas Medicas Sección Tropa	                        |[X]       |                     |	
+|Fichas Medicas Sección Comunidad	                    |[X]       |                     |	
+|Fichas Medicas Sección Clan	                            |[X]       |                     |
 
 ## Plan de Emergencia
 |Situación             |Acciones|Responsable|Teléfono de Emergencia|Cómo avisar al 911|Observaciones|
 |----------------------|--------|-----------|----------------------|-----------|-------------|
 |Raspadura             |        |           |Emergencias: 911, Cruz Roja:  55 5395 1111 Ext 103 y 121.|Prioridades,Identificación de quién llama, Dónde estamos, Coordenada en caso de aplicar, Tipo/Descripción de emergencia,Número de afectados,Accesos,Asistentes totales,Acciones del plan de emergencia realizadas,Solicitud de apoyo,Condiciones meteorológicas,Teléfono de dónde se llama|      Protocolo de seguridad de Grupo       |
 |Ahogamiento           |        |           |                      |           |             |
-|Caidas moderas        |        |           |                      |           |             |
+|Caídas moderadas        |        |           |                      |           |             |
 |Asaltos               |        |           |                      |           |             |
 |Secuestros            |        |           |                      |           |             |
 |Sismos                |        |           |                      |           |             |
@@ -264,8 +264,8 @@
 |Derrame               |        |           |                      |           |             |
 |sustancias peligrosas |        |           |                      |           |             |
 |Conflicto armado      |        |           |                      |           |             |
-|Caida de árboles      |        |           |                      |           |             |
-|caida de cables       |        |           |                      |           |             |
+|Caída de árboles      |        |           |                      |           |             |
+|Caída de cables       |        |           |                      |           |             |
 
 ## Plan de Evacuación
 

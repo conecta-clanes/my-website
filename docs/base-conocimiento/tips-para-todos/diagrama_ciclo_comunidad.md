@@ -1,8 +1,8 @@
-# ✏️ Ciclo de Programa — PER (Comunidad)
+﻿# ✏️ Ciclo de Programa — PER (Comunidad)
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 ## Tecnologías usadas
 

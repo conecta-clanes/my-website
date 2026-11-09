@@ -44,11 +44,11 @@ flowchart TD
     M --> N([🏅 Reconocimiento / recompensa])
     M --> O([🔄 Nuevo AyCM + PPF])
 
-    style A fill:#6a0dad,color:#fff
-    style N fill:#5cb85c,color:#fff
-    style O fill:#5b9bd5,color:#fff
-    style F fill:#f0a500,color:#000
-    style H fill:#f0a500,color:#000
+    style A fill:#8e44ad,stroke:#6c3483,color:#fff
+    style N fill:#27ae60,stroke:#1e8449,color:#fff
+    style O fill:#2980b9,stroke:#1a5276,color:#fff
+    style F fill:#e67e22,stroke:#ca6f1e,color:#fff
+    style H fill:#e67e22,stroke:#ca6f1e,color:#fff
 ```
 
 ---
@@ -81,3 +81,13 @@ flowchart TD
 - [Ejemplo completo de AyCM llenado](./aycm-ejemplo.md) — Caso real simulado
 - [Qué es el PPF y cómo llenarlo](./ppf.md) — Proceso paso a paso con diagrama
 - [Ejemplo completo de PPF llenado](./ppf-ejemplo.md) — Caso real simulado
+
+---
+
+## Tecnologías usadas
+
+- [Claude Code](https://claude.com/product/claude-code)
+
+##### Autora
+
+- Yolanda Castillo

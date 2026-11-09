@@ -101,3 +101,13 @@ description: Ejemplo simulado de un Plan Personal de Formación completamente ll
 :::tip Para el segundo año
 Al concluir este PPF en diciembre 2025, Ana elabora su PPF 2026 de inmediato, retomando las competencias que no pudo cubrir o las nuevas necesidades identificadas durante su gestión.
 :::
+
+---
+
+## Tecnologías usadas
+
+- [Claude Code](https://claude.com/product/claude-code)
+
+##### Autora
+
+- Yolanda Castillo

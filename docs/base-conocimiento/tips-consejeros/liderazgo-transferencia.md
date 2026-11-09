@@ -13,7 +13,7 @@ A lo largo del Programa de Jóvenes, el protagonismo se transfiere progresivamen
 ## Curvas de transferencia
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'xyChart':{'plotColorPalette':'#7b2d8b,#95a5a6','backgroundColor':'#ffffff'}}}}%%
+%%{init: {'theme':'base','themeVariables':{'xyChart':{'plotColorPalette':'#8e44ad,#7f8c8d','backgroundColor':'#ffffff'}}}}%%
 xychart-beta
     title "Transferencia de Liderazgo Adulto ↔ Juvenil"
     x-axis ["Manada", "Tropa", "Comunidad", "Clan"]
@@ -48,8 +48,8 @@ flowchart LR
 
     MAN --> TRO --> COM --> CLA
 
-    classDef adulto fill:#95a5a6,stroke:#7f8c8d,color:#fff
-    classDef juvenil fill:#7b2d8b,stroke:#6c3483,color:#fff
+    classDef adulto fill:#7f8c8d,stroke:#616a6b,color:#fff
+    classDef juvenil fill:#8e44ad,stroke:#6c3483,color:#fff
 
     class MA1,TA1,CA1,XA1 adulto
     class MJ1,TJ1,CJ1,XJ1 juvenil
@@ -78,8 +78,8 @@ flowchart LR
     CR -.->|"acompaña PPV"| RV
     RV -->|"toman decisiones"| RV
 
-    classDef rover fill:#c0392b,stroke:#922b21,color:#fff,font-weight:bold
-    classDef adulto fill:#1a5276,stroke:#154360,color:#fff
+    classDef rover fill:#e74c3c,stroke:#c0392b,color:#fff,font-weight:bold
+    classDef adulto fill:#2980b9,stroke:#1a5276,color:#fff
 
     class RV rover
     class CRR,CR adulto

@@ -1,8 +1,8 @@
-# ⌛ Quiz para presentar el nuevo esquema de adelantos
+﻿# ⌛ Quiz para presentar el nuevo esquema de adelantos
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 
 Importante, recientemente se actualizó el nombre de "Paz y Participación Comunitaria" 
@@ -31,7 +31,7 @@ un quiz sobre las nuevas insignias del nuevo programa que pueden encontrar en
 
 https://create.kahoot.it/share/nuevo-programa/958e9926-2822-4460-ab73-5028cf85ea74 (septiembre 2025)
 
-Algunas de las preguntas que se pueden encotrar en el quiz
+Algunas de las preguntas que se pueden encontrar en el quiz
 
 ![Planos Relación](img/kahoot/kahoot-planosRelacion.png)
 

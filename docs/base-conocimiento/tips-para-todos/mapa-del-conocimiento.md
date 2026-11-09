@@ -1,9 +1,9 @@
-
+﻿
 # 🔨 Mapa del Conocimiento — Corpus ASMAC
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 
 
@@ -14,7 +14,7 @@ Análisis de grafo del repositorio documental: **208 nodos · 368 aristas · 14 
 
 
 
-## Ténologías usadas:
+## Tecnologías usadas:
 
 - [Claude Code](https://claude.com/product/claude-code) para generar el código
 - [Graphify](https://github.com/safishamsi/graphifyy)  sobre 59 documentos oficiales ASMAC · octubre 2026
@@ -61,10 +61,10 @@ flowchart TB
     MET --> LID
     MET --> FORM
 
-    classDef bridge fill:#c0392b,stroke:#922b21,color:#fff,font-weight:bold
-    classDef prog fill:#1a5276,stroke:#154360,color:#fff
+    classDef bridge fill:#e74c3c,stroke:#c0392b,color:#fff,font-weight:bold
+    classDef prog fill:#2980b9,stroke:#1a5276,color:#fff
     classDef clan fill:#8e44ad,stroke:#6c3483,color:#fff
-    classDef inst fill:#1e8449,stroke:#196f3d,color:#fff
+    classDef inst fill:#27ae60,stroke:#1e8449,color:#fff
 
     class CLAN,UNI,PJ,MET bridge
     class MARC,ACT,AVEN prog
@@ -116,7 +116,7 @@ flowchart LR
     H2["Carnets Aventuras 2024<BR>Manada · Tropa · Comunidad · Rovers"]
     H3["Guías de Scouter 2024<BR>Manada · Tropa · Comunidad · Clan + Método Scout"]
     H4["Punta de Flecha<BR>TS · Comunidad · Clan — liderazgo juvenil"]
-    classDef h fill:#1a5276,stroke:#154360,color:#fff
+    classDef h fill:#2980b9,stroke:#1a5276,color:#fff
     class H1,H2,H3,H4 h
 ```
 
@@ -128,7 +128,7 @@ flowchart LR
     A2["Formación de Adultos<BR>Inducción · CIM · TTT1 · TTT2 · CNF"]
     A3["Marco documental AMS<BR>Política AMS · Modelo Gestión · MAC"]
     A4["Políticas Nacionales<BR>AMS · PJ · NAJ"]
-    classDef h fill:#1e8449,stroke:#196f3d,color:#fff
+    classDef h fill:#27ae60,stroke:#1e8449,color:#fff
     class A1,A2,A3,A4 h
 ```
 

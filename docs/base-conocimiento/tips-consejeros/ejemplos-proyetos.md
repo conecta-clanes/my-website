@@ -4,12 +4,12 @@
 
 Esta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
 
-Basado en el libro de "Activividades y Proyecto" junto con la página [SDGS](https://sdgs.scout.org/).
+Basado en el libro de "Actividades y Proyecto" junto con la página [SDGS](https://sdgs.scout.org/).
 
 
 ## Plantillas oficiales
 
-Las pantillas oficiales se encuentran en el site [RECME](https://recme.scouts.org.mx/)
+Las plantillas oficiales se encuentran en el site [RECME](https://recme.scouts.org.mx/)
 
 ### Herramientas auxiliares
 

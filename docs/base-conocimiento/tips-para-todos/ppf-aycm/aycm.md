@@ -44,10 +44,10 @@ flowchart TD
     Q --> R([🏅 Reconocimiento])
     Q --> S([🔄 Nuevo AyCM])
 
-    style A fill:#6a0dad,color:#fff
-    style M fill:#5cb85c,color:#fff
-    style R fill:#f0a500,color:#000
-    style S fill:#5b9bd5,color:#fff
+    style A fill:#8e44ad,stroke:#6c3483,color:#fff
+    style M fill:#27ae60,stroke:#1e8449,color:#fff
+    style R fill:#f39c12,stroke:#d68910,color:#000
+    style S fill:#2980b9,stroke:#1a5276,color:#fff
 ```
 
 ---
@@ -142,3 +142,13 @@ Firman al calce:
 Una vez firmado el AyCM, el voluntario elabora su [Plan Personal de Formación (PPF)](./ppf.md).
 
 Revisa también el [ejemplo completo de AyCM llenado](./aycm-ejemplo.md) para ver cómo queda en la práctica.
+
+---
+
+## Tecnologías usadas
+
+- [Claude Code](https://claude.com/product/claude-code)
+
+##### Autora
+
+- Yolanda Castillo

@@ -1,8 +1,8 @@
-# ✏️ Liderazgo en el Clan de Rovers
+﻿# ✏️ Liderazgo en el Clan de Rovers
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 
 
@@ -58,13 +58,13 @@ flowchart TB
     CRR -.->|"orienta"| PR
     CR -.->|"facilitan y asesoran"| RV
 
-    classDef rovers fill:#c0392b,stroke:#922b21,color:#fff,font-weight:bold
+    classDef rovers fill:#e74c3c,stroke:#c0392b,color:#fff,font-weight:bold
     classDef operativo fill:#8e44ad,stroke:#6c3483,color:#fff
     classDef proyecto fill:#2980b9,stroke:#1a5276,color:#fff
-    classDef rep fill:#1e8449,stroke:#196f3d,color:#fff
+    classDef rep fill:#27ae60,stroke:#1e8449,color:#fff
     classDef formativo fill:#d35400,stroke:#a04000,color:#fff
-    classDef adulto fill:#1a5276,stroke:#154360,color:#fff
-    classDef calidad fill:#7f8c8d,stroke:#566573,color:#fff
+    classDef adulto fill:#2980b9,stroke:#1a5276,color:#fff
+    classDef calidad fill:#7f8c8d,stroke:#616a6b,color:#fff
 
     class RV rovers
     class PR,ES operativo

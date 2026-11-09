@@ -1,8 +1,8 @@
-# 👷 ¿Qué es el PPV o Proyecto Personal de Vida?
+﻿# 👷 ¿Qué es el PPV o Proyecto Personal de Vida?
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 ## Tecnologías usadas
 

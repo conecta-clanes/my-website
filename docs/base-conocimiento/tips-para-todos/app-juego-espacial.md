@@ -1,10 +1,10 @@
-# 👷 Juego espacial
+﻿# 👷 Juego espacial
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
-Fue inspirada en un juego educativo con otro motor de juegos, esta versión fue hecha con python y reconocmiento facial
+Fue inspirada en un juego educativo con otro motor de juegos, esta versión fue hecha con python y reconocimiento facial
 
 
 ![Inicio](img/app-juego-espacial-inicio.jpg)
@@ -16,7 +16,7 @@ Fue inspirada en un juego educativo con otro motor de juegos, esta versión fue 
 - PC o laptop
 - Web Camára interna o externa o equivalente
 
-## Ténologías usadas:
+## Tecnologías usadas:
 
 - [Python](https://www.python.org/)
 - [Meshy](https://www.meshy.ai/) pero se puede usar el Modelo de ChatGPT Images 2.0
@@ -26,7 +26,7 @@ Fue inspirada en un juego educativo con otro motor de juegos, esta versión fue 
 
 - **[⬇ Descargar carpeta de fuentes](https://github.com/conecta-clanes/my-website/tree/main/juego-espacial-fuentes)** (clonar el repo o descargar como ZIP desde GitHub)
 
-- El juego ya esta funcional, sin embargo no lo hemos aplicado en una actividad real, en cuanto tengamos la prueba de campo actualizaremos el código fuente
+- El juego ya está funcional, sin embargo no lo hemos aplicado en una actividad real, en cuanto tengamos la prueba de campo actualizaremos el código fuente
 
 
 #### Autora

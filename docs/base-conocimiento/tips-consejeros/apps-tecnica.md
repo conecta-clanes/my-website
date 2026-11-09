@@ -1,8 +1,8 @@
-# ✏️ Herramientas auxiliares para Técnica Scout
+﻿# ✏️ Herramientas auxiliares para Técnica Scout
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 ## Sobre sobregiro ecológico
 

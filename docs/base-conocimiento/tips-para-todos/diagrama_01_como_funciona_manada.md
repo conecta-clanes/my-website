@@ -1,8 +1,8 @@
-# ✏️ Diagrama 1: Cómo Funciona la Manada
+﻿# ✏️ Diagrama 1: Cómo Funciona la Manada
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 ## Tecnologías usadas
 

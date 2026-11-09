@@ -1,8 +1,8 @@
-# 👷 Interface para hacer preguntas sobre el nuevo programa
+﻿# 👷 Interface para hacer preguntas sobre el nuevo programa
 
 ## Introducción
 
-Ésta propuesta no sustituyen la documentación oficial, no nos hacemos responsables del mal uso.
+Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
 Son demasiados los cursos que se tiene que tomar y mucha información que se tiene que leer, por lo que se me ocurrió un chat con ayuda de la IA generativa para contestar todas las dudas que puedan surgir con el fin de aprender más rápido, está aplicació no tiene fines de lucro.
 

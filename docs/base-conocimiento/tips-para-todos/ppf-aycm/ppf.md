@@ -44,11 +44,11 @@ flowchart TD
     Q --> R([✅ Competencias adquiridas])
     Q --> S([🔄 Nuevo PPF inmediato])
 
-    style A fill:#6a0dad,color:#fff
-    style L fill:#5cb85c,color:#fff
-    style R fill:#5cb85c,color:#fff
-    style S fill:#5b9bd5,color:#fff
-    style D fill:#f0a500,color:#000
+    style A fill:#8e44ad,stroke:#6c3483,color:#fff
+    style L fill:#27ae60,stroke:#1e8449,color:#fff
+    style R fill:#27ae60,stroke:#1e8449,color:#fff
+    style S fill:#2980b9,stroke:#1a5276,color:#fff
+    style D fill:#e67e22,stroke:#ca6f1e,color:#fff
 ```
 
 ---
@@ -146,3 +146,13 @@ Al revisar el PPF trimestralmente, se anota si la acción fue completada, si se 
 ## Ejemplo práctico
 
 Revisa el [ejemplo completo de PPF llenado](./ppf-ejemplo.md) para ver cómo se ve en la práctica con el caso de la CRR Ana López Ramírez.
+
+---
+
+## Tecnologías usadas
+
+- [Claude Code](https://claude.com/product/claude-code)
+
+##### Autora
+
+- Yolanda Castillo
