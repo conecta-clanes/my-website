@@ -14,7 +14,7 @@ description: Propuesta auxiliar para identificar competencias al elaborar el PPF
 
 ## ¿Qué es una competencia en el contexto scout?
 
-Según el **Manual para la Implementación de los Módulos del Curso Insignia de Madera (ASMAC, 2019)**:
+Según el **[Manual para la Implementación de los Módulos del Curso Insignia de Madera](https://drive.scouts.org.mx/s/LAstQ2H2QwFZnJz?dir=/&editing=false&openfile=true) (ASMAC, 2019)**:
 
 > *"Entendemos a las competencias en un sentido mucho más amplio, en el que los saberes adquiridos (saber, saber hacer, saber ser y estar) están al servicio del desarrollo pleno de una persona en todas sus dimensiones y no sólo en función de una ocupación laboral o del sistema productivo."*
 
@@ -112,8 +112,8 @@ Al redactar cada fila del [Plan Personal de Formación](./ppf.md), la columna **
 
 | Documento | Organización | Año |
 |-----------|-------------|-----|
-| Manual para la Implementación de los Módulos del CIM | ASMAC — Comisión Nacional de Adultos | 2019 |
-| Política Nacional de Adultos en el Movimiento Scout (AMS) | ASMAC — Dirección Nacional de Métodos Educativos | 2024 |
+| [Manual para la Implementación de los Módulos del CIM](https://drive.scouts.org.mx/s/LAstQ2H2QwFZnJz?dir=/&editing=false&openfile=true) | ASMAC — Comisión Nacional de Adultos | 2019 |
+| [Política Nacional de Adultos en el Movimiento Scout (AMS)](https://drive.scouts.org.mx/s/6eTX5ePamQwRRAb?dir=/&editing=false&openfile=true) | ASMAC — Dirección Nacional de Métodos Educativos | 2024 |
 | Modelo de Gestión de Adultos | ASMAC — Dirección Nacional de Métodos Educativos | 2025 |
 | [Core Competencies Dictionary](https://wosmlzs3-bucket.s3.eu-west-1.amazonaws.com/2023-03/02.1%20Core%20Competencies%20Dictionary-FINAL_0.pdf) | OMMS / WOSM | 2023 |
 | [Manual de Cargos, Perfiles y Funciones por Competencias](https://scout.org.co/biblioteca/dnam/manual-cargos-perfiles-funciones-por-competencias/) | Asociación Scouts de Colombia (ASDE) | — |
