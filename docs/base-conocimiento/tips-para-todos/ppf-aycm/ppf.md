@@ -76,7 +76,7 @@ Cada fila del PPF es una **oportunidad de aprendizaje** concreta. Pueden ser:
 - Talleres o webinars del movimiento scout
 
 :::tip Regla de oro
-Las acciones del PPF **deben estar ligadas a competencias** del Diccionario de Competencias de la ASMAC o del Manual de Implementación de Módulos del Curso Insignia de Madera.
+Las acciones del PPF **deben estar ligadas a competencias** del Diccionario de Competencias de la ASMAC o del [Manual de Implementación de Módulos del Curso Insignia de Madera](https://drive.scouts.org.mx/s/LAstQ2H2QwFZnJz?dir=/&editing=false&openfile=true).
 :::
 
 ### 3. Competencia
