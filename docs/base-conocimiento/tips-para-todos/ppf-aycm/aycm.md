@@ -149,6 +149,10 @@ Una vez firmado el AyCM, el voluntario elabora su [Plan Personal de Formación (
 
 Revisa también el [ejemplo completo de AyCM llenado](./aycm-ejemplo.md) para ver cómo queda en la práctica.
 
+:::tip Recurso auxiliar
+Para identificar las competencias que se requieren en cada función del cargo, consulta la [propuesta de Diccionario de Competencias](./diccionario-competencias.md). Incluye el marco de la ASMAC (CIM 2019) y referencias internacionales.
+:::
+
 ---
 
 ## Tecnologías usadas

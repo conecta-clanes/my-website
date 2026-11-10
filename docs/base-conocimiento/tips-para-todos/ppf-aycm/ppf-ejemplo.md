@@ -102,6 +102,10 @@ description: Ejemplo simulado de un Plan Personal de Formación completamente ll
 Al concluir este PPF en diciembre 2025, Ana elabora su PPF 2026 de inmediato, retomando las competencias que no pudo cubrir o las nuevas necesidades identificadas durante su gestión.
 :::
 
+:::info Propuesta auxiliar
+¿Tienes dificultad para nombrar la competencia de cada acción? Consulta el [Diccionario de Competencias](./diccionario-competencias.md) — una propuesta auxiliar que recopila el marco de la ASMAC (CIM 2019), el marco internacional de la OMMS (2023) y el Manual de Scouts de Colombia.
+:::
+
 ---
 
 ## Tecnologías usadas

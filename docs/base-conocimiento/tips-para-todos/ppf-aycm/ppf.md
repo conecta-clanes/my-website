@@ -76,7 +76,7 @@ Cada fila del PPF es una **oportunidad de aprendizaje** concreta. Pueden ser:
 - Talleres o webinars del movimiento scout
 
 :::tip Regla de oro
-Las acciones del PPF **deben estar ligadas a competencias** del Diccionario de Competencias de la ASMAC o del [Manual de Implementación de Módulos del Curso Insignia de Madera](https://drive.scouts.org.mx/s/LAstQ2H2QwFZnJz?dir=/&editing=false&openfile=true).
+Las acciones del PPF **deben estar ligadas a competencias** del [Manual de Implementación de Módulos del Curso Insignia de Madera](https://drive.scouts.org.mx/s/LAstQ2H2QwFZnJz?dir=/&editing=false&openfile=true). Como recurso auxiliar para identificar y nombrar competencias, consulta el [Diccionario de Competencias](./diccionario-competencias.md).
 :::
 
 ### 3. Competencia
@@ -140,6 +140,12 @@ Al revisar el PPF trimestralmente, se anota si la acción fue completada, si se 
 :::info Descarga el formato oficial de la ASMAC
 [⬇ Descargar formato PPF (PDF oficial)](https://drive.scouts.org.mx/s/P8P5qCAPDQ2cnHr/download?_gl=1*14z84g0*_ga*NjU3NjI1NDY3LjE3NzMyNDM4OTI.*_ga_TMBXWP8KVW*czE3OTQyNjQ0OTUkbzMzJGcxJHQxNzk0MjY2MDI1JGo2MCRsMCRoMA..)
 :::
+
+---
+
+## Diccionario de competencias
+
+¿No sabes cómo nombrar la competencia de una acción? Consulta la [propuesta de Diccionario de Competencias](./diccionario-competencias.md) que recopila el marco de la ASMAC (CIM 2019), el marco internacional de la OMMS (2023) y el Manual de Scouts de Colombia.
 
 ---
 

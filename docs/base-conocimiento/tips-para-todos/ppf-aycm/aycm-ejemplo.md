@@ -126,6 +126,10 @@ Yo **Carlos Mendoza Torres**, Jefe del Grupo Scout 1409, en representación de l
 Con el AyCM firmado, Ana debe elaborar su [Plan Personal de Formación (PPF)](./ppf-ejemplo.md) para el mismo período.
 :::
 
+:::info Propuesta auxiliar
+Para identificar las competencias necesarias para el cargo de CRR, puedes apoyarte en el [Diccionario de Competencias](./diccionario-competencias.md), que recopila el marco de la ASMAC y referencias internacionales.
+:::
+
 ---
 
 ## Tecnologías usadas

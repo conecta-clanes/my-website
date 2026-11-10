@@ -81,6 +81,7 @@ flowchart TD
 - [Ejemplo completo de AyCM llenado](./aycm-ejemplo.md) — Caso real simulado
 - [Qué es el PPF y cómo llenarlo](./ppf.md) — Proceso paso a paso con diagrama
 - [Ejemplo completo de PPF llenado](./ppf-ejemplo.md) — Caso real simulado
+- [Diccionario de Competencias](./diccionario-competencias.md) — Propuesta auxiliar para identificar competencias al elaborar el PPF y el AyCM
 
 ---
 
