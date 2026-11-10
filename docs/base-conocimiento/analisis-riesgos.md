@@ -30,7 +30,7 @@
                     <li>Solicitar botiquines para sección</li>
                     <li>Tomar cursos de primeros auxilios</li>
                     <li>Tomar cursos emergercias psicológicas</li>
-                    <li>Tomar cursos Safe from Harm(SFH) 1,2,3</li>
+                    <li>Tomar cursos Safe from Harm: <a href="https://learn.scout.org/resource/sfh-1-safe-harm-essential-learnings" target="_blank">SFH1</a>, <a href="https://lms.scout.org/courses/show/214284" target="_blank">SFH2</a>, <a href="https://lms.scout.org/courses/show/246857" target="_blank">SFH3</a></li>
                     <li>Crear protocolo de seguridad del local de grupo</li>
                     <li>Solicitar fichas médicas</li>
                     <li>Solicitar directorios al comité y por secciones</li>

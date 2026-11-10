@@ -38,7 +38,7 @@ description: Ejemplo simulado de un Plan Personal de Formación completamente ll
 |-----|--------|-------------|--------|------------|------------------------------|
 | 1 | Curso de Formación Básica para Scouters de Comunidad Rover | Conocimiento del programa educativo de la rama Rover y del Método Scout | Feb 2025 | Jun 2025 | |
 | 2 | Lectura guiada del Manual de Operación de Grupo (capítulos de Consejero Rover) | Gestión administrativa y funciones del cargo como CRR | Ene 2025 | Mar 2025 | |
-| 3 | Curso "Safe from Harm" para Voluntarios de la OMMS (en línea) | Seguridad y protección de la membresía juvenil | Ene 2025 | Feb 2025 | Completado 20/Feb/2025 — Certificado: certificates.easygenerator.com/XXXXXXXX |
+| 3 | Curso Safe from Harm para Voluntarios de la OMMS ([SFH1](https://learn.scout.org/resource/sfh-1-safe-harm-essential-learnings) · [SFH2](https://lms.scout.org/courses/show/214284) · [SFH3](https://lms.scout.org/courses/show/246857)) | Seguridad y protección de la membresía juvenil | Ene 2025 | Feb 2025 | Completado 20/Feb/2025 — Certificado: certificates.easygenerator.com/XXXXXXXX |
 | 4 | Taller de Primeros Auxilios básicos (Cruz Roja / IMSS) | Gestión de emergencias y seguridad en actividades al aire libre | Abr 2025 | May 2025 | |
 | 5 | Asesoría con la Comisionada de Adultos de Provincia sobre el Proyecto de Comunidad Rover | Planeación del programa de jóvenes y elaboración del Proyecto de Comunidad | Mar 2025 | Mar 2025 | |
 

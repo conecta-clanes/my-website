@@ -83,7 +83,7 @@ Nosotros como **Consejo de Grupo Scout 1409 "Águilas del Sur"**, nos compromete
 
 ### Certificado Safe from Harm
 
-Entiendo que como adulto voluntario en el Movimiento Scout uno de mis principales cometidos es mantener a salvo del peligro a las niñas, niños, adolescentes y jóvenes, cumpliendo y haciendo cumplir las normas de seguridad, por lo que he completado el **"Curso de Formación a Salvo del Peligro para Voluntarios y profesionales de la OMMS"**.
+Entiendo que como adulto voluntario en el Movimiento Scout uno de mis principales cometidos es mantener a salvo del peligro a las niñas, niños, adolescentes y jóvenes, cumpliendo y haciendo cumplir las normas de seguridad, por lo que he completado el **"Curso de Formación a Salvo del Peligro para Voluntarios y profesionales de la OMMS"** ([SFH1](https://learn.scout.org/resource/sfh-1-safe-harm-essential-learnings) · [SFH2](https://lms.scout.org/courses/show/214284) · [SFH3](https://lms.scout.org/courses/show/246857)).
 
 El certificado puede validarse en: `certificates.easygenerator.com/XXXXXXXX` *(liga del certificado de la titular)*
 

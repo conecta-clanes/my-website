@@ -62,7 +62,7 @@ flowchart TD
 | **Consejo de Nivel** | Órgano de toma de decisiones del Grupo, Provincia o Nacional |
 | **Oportunidades de aprendizaje** | Lecturas, asesorías, cursos de formación básica o continua, cursos externos |
 | **Insignia de Madera** | Certificación de formación de líderes adultos en la ASMAC |
-| **Safe from Harm** | Curso obligatorio de la OMMS para mantener seguros a niñas, niños y jóvenes |
+| **Safe from Harm** | Curso obligatorio de la OMMS para mantener seguros a niñas, niños y jóvenes. Niveles: [SFH1](https://learn.scout.org/resource/sfh-1-safe-harm-essential-learnings) · [SFH2](https://lms.scout.org/courses/show/214284) · [SFH3](https://lms.scout.org/courses/show/246857) |
 
 ---
 

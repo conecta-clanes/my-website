@@ -87,7 +87,7 @@ Para cada acción, especifica la **competencia** que se fortalecerá. Ejemplos:
 |--------|-------------|
 | Curso de Inducción al Movimiento Scout | Conocimiento del Movimiento Scout |
 | Lectura del Manual de Operación de Grupo | Gestión administrativa del Grupo |
-| Curso Safe from Harm | Seguridad y protección de la membresía |
+| Curso Safe from Harm ([SFH1](https://learn.scout.org/resource/sfh-1-safe-harm-essential-learnings) · [SFH2](https://lms.scout.org/courses/show/214284) · [SFH3](https://lms.scout.org/courses/show/246857)) | Seguridad y protección de la membresía |
 | Taller de Primeros Auxilios | Gestión de emergencias en actividades |
 | Formación Básica Rover | Conocimiento del programa de la rama Rover |
 

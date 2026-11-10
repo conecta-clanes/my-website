@@ -103,6 +103,12 @@ El AyCM **no** incluye la participación del voluntario en oportunidades de apre
 
 El voluntario declara haber completado el **"Curso de Formación a Salvo del Peligro para Voluntarios y profesionales de la OMMS"** e incluye la liga de validación de su certificado (`certificates.easygenerator.com`).
 
+| Nivel | Enlace |
+|-------|--------|
+| SFH1 — Aprendizajes esenciales | [Tomar curso SFH1](https://learn.scout.org/resource/sfh-1-safe-harm-essential-learnings) |
+| SFH2 | [Tomar curso SFH2](https://lms.scout.org/courses/show/214284) |
+| SFH3 | [Tomar curso SFH3](https://lms.scout.org/courses/show/246857) |
+
 ### 7. Código de Conducta
 
 El voluntario firma el Código de Conducta que cubre tres áreas:
