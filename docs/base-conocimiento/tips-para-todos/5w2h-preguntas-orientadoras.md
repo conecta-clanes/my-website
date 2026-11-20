@@ -1,11 +1,13 @@
-﻿# 🔨 Framework 5W + 1H — Preguntas Orientadoras
+# 🔨 Framework 5W + 2H — Preguntas Orientadoras
 
 ## Introducción
 
 Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
-> En escritura académica se conoce como **5W + 1H**.
+> En gestión de proyectos y mejora continua se conoce como **5W + 2H**.
 > En el Movimiento Scout se aplica como **Preguntas Orientadoras** para planear, ejecutar y evaluar proyectos y actividades.
+
+
 
 ## Diagrama Preguntas Orientadoras
 
@@ -13,11 +15,11 @@ Esta propuesta no sustituye la documentación oficial, no nos hacemos responsabl
 
 ```mermaid
 mindmap
-  root(("❓ 5W + 1H<BR>Preguntas<BR>Orientadoras"))
+  root(("❓ 5W + 2H<BR>Preguntas<BR>Orientadoras"))
     WHO("👤 WHO<BR>¿QUIÉN?")
       ::icon(fa fa-user)
       académico("Académico:<BR>Autor · Audiencia<BR>Partes interesadas<BR>¿Quién investiga?<BR>¿A quién va dirigido?")
-      scout("Scout:<BR>¿Quiénes participan?<BR>¿Quién coordina?<BR>¿Quiénes son los<BR>benefiiciarios?<BR>¿Quién evalúa?")
+      scout("Scout:<BR>¿Quiénes participan?<BR>¿Quién coordina?<BR>¿Quiénes son los<BR>beneficiarios?<BR>¿Quién evalúa?")
     WHAT("📦 WHAT<BR>¿QUÉ?")
       académico2("Académico:<BR>Tema · Problema<BR>Hipótesis · Argumento<BR>¿Qué se investiga?<BR>¿Qué se demuestra?")
       scout2("Scout:<BR>¿Qué problema<BR>queremos resolver?<BR>¿Qué actividad<BR>o proyecto?<BR>¿Qué ODS impactamos?")
@@ -33,6 +35,9 @@ mindmap
     HOW("⚙️ HOW<BR>¿CÓMO?")
       académico6("Académico:<BR>Metodología · Proceso<BR>Estrategia · Método<BR>¿Cómo se investiga?<BR>¿Cómo se argumenta?")
       scout6("Scout:<BR>¿Cómo lo haremos?<BR>Plan de acción<BR>Recursos · Etapas<BR>Monitoreo y evaluación")
+    HOWMUCH("💰 HOW MUCH<BR>¿CUÁNTO?")
+      académico7("Académico:<BR>Presupuesto · Muestra<BR>Cantidad de datos<BR>¿Cuánto cuesta?<BR>¿Cuántos casos?")
+      scout7("Scout:<BR>¿Cuánto presupuesto?<BR>¿Cuántas horas de servicio?<BR>¿Cuántos beneficiarios?<BR>Indicadores de impacto")
 ```
 
 ---
@@ -58,7 +63,8 @@ flowchart TD
         WHEN["📅 ¿CUÁNDO?<BR>Cronograma · Fechas clave<BR>Duración · Horas de servicio"]
         WHERE["📍 ¿DÓNDE?<BR>Comunidad · Espacio físico<BR>Área de impacto"]
         HOW["⚙️ ¿CÓMO?<BR>Plan de acción · Etapas<BR>Recursos · Método de trabajo"]
-        WHEN --- WHERE --- HOW
+        HOWMUCH["💰 ¿CUÁNTO?<BR>Presupuesto · Costo total<BR>Nº beneficiarios · Indicadores"]
+        WHEN --- WHERE --- HOW --- HOWMUCH
     end
 
     EXEC --> EVAL
@@ -71,7 +77,8 @@ flowchart TD
         E4["¿Cuándo se<BR>alcanzaron los<BR>hitos clave?"]
         E5["¿Dónde fue<BR>el mayor<BR>impacto?"]
         E6["¿Cómo se puede<BR>mejorar para la<BR>próxima vez?"]
-        E1 --- E2 --- E3 --- E4 --- E5 --- E6
+        E7["¿Cuánto costó<BR>vs. presupuesto?<BR>¿Cuántos<BR>beneficiados?"]
+        E1 --- E2 --- E3 --- E4 --- E5 --- E6 --- E7
     end
 
     EVAL --> MOP
@@ -83,6 +90,7 @@ flowchart TD
         M4["¿CUÁNDO?<BR>→ Inicio conteo de horas al informar<BR>al Jefe de Sección · 800 h mínimo"]
         M5["¿DÓNDE?<BR>→ Comunidad local · scout.org<BR>sdgs.scout.org → mapa global"]
         M6["¿CÓMO?<BR>→ 4 Pasos: Inspira · Aprende<BR>Actúa · Comparte"]
+        M7["¿CUÁNTO?<BR>→ 800 h de servicio mínimo<BR>Presupuesto del proyecto<BR>Nº de personas beneficiadas"]
     end
 
     style TITLE fill:#8e44ad,stroke:#6c3483,color:#fff
@@ -96,26 +104,29 @@ flowchart TD
     style WHEN fill:#27ae60,stroke:#1e8449,color:#fff
     style WHERE fill:#27ae60,stroke:#1e8449,color:#fff
     style HOW fill:#27ae60,stroke:#1e8449,color:#fff
+    style HOWMUCH fill:#1a5276,stroke:#154360,color:#fff
     style M1 fill:#d35400,stroke:#a04000,color:#fff
     style M2 fill:#d35400,stroke:#a04000,color:#fff
     style M3 fill:#d35400,stroke:#a04000,color:#fff
     style M4 fill:#d35400,stroke:#a04000,color:#fff
     style M5 fill:#d35400,stroke:#a04000,color:#fff
     style M6 fill:#d35400,stroke:#a04000,color:#fff
+    style M7 fill:#d35400,stroke:#a04000,color:#fff
 ```
 
 ---
 
-## Las 6 Preguntas Orientadoras — Referencia rápida
+## Las 7 Preguntas Orientadoras — Referencia rápida
 
-| Pregunta | Inglés | En escritura académica | En Scouts (planeación) |
+| Pregunta | Inglés | En gestión de proyectos | En Scouts (planeación) |
 |---|---|---|---|
-| **¿Quién?** | Who | Autor, audiencia, actores | Coordinadores, beneficiarios, scouters |
-| **¿Qué?** | What | Tema, problema, hipótesis | Proyecto, actividad, ODS a impactar |
-| **¿Cuándo?** | When | Período, contexto temporal | Cronograma, duración, horas de servicio |
-| **¿Dónde?** | Where | Ámbito geográfico o conceptual | Comunidad, espacio físico, alcance |
-| **¿Por qué?** | Why | Justificación, relevancia, propósito | Necesidad detectada, conexión con valores scout |
-| **¿Cómo?** | How | Metodología, proceso, estrategia | Plan de acción, etapas, recursos, evaluación |
+| **¿Quién?** | Who | Responsable, equipo, partes interesadas | Coordinadores, beneficiarios, scouters |
+| **¿Qué?** | What | Objetivo, entregable, problema a resolver | Proyecto, actividad, ODS a impactar |
+| **¿Cuándo?** | When | Fecha inicio/fin, cronograma, hitos | Cronograma, duración, horas de servicio |
+| **¿Dónde?** | Where | Ubicación, ámbito geográfico o digital | Comunidad, espacio físico, alcance |
+| **¿Por qué?** | Why | Justificación, causa raíz, propósito | Necesidad detectada, conexión con valores scout |
+| **¿Cómo?** | How | Metodología, proceso, pasos de ejecución | Plan de acción, etapas, recursos, evaluación |
+| **¿Cuánto?** | How Much | Presupuesto, costo, cantidad de recursos | Presupuesto, horas de servicio, beneficiarios |
 
 ---
 
@@ -124,9 +135,11 @@ flowchart TD
 
 - [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
 - [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
-- [Framework 5W+1H — Center for Teaching & Learning, UAF](https://ctl.uaf.edu/2025/07/24/the-5w-and-1h-framework-in-academic-writing/)
+- Moen, R. D., & Norman, C. L. (2010). *Circling Back: Clearing up myths about the Deming cycle and seeing how it keeps evolving.* Quality Progress, 43(11), 22–28. — Origen del 5W2H en la gestión de calidad (ciclo PDCA/PDSA).
+- Ohno, T. (1988). *Toyota Production System: Beyond Large-Scale Production.* Productivity Press. — Fundamento del análisis de causa raíz con preguntas orientadoras.
+- [5W2H: qué significa, para qué sirve, cómo aplicarla y algunos ejemplos](AZC-007 fix preguntas orientadoras)
 
 
 #### Autora
 
-- Yolanda Castillo 
+- Yolanda Castillo
