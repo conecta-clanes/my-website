@@ -137,7 +137,7 @@ flowchart TD
 - [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
 - Moen, R. D., & Norman, C. L. (2010). *Circling Back: Clearing up myths about the Deming cycle and seeing how it keeps evolving.* Quality Progress, 43(11), 22–28. — Origen del 5W2H en la gestión de calidad (ciclo PDCA/PDSA).
 - Ohno, T. (1988). *Toyota Production System: Beyond Large-Scale Production.* Productivity Press. — Fundamento del análisis de causa raíz con preguntas orientadoras.
-- [5W2H: qué significa, para qué sirve, cómo aplicarla y algunos ejemplos](AZC-007 fix preguntas orientadoras)
+- [5W2H](https://www.leanconstructionmexico.com.mx/post/5w2h-qu%C3%A9-significa-para-qu%C3%A9-sirve-c%C3%B3mo-aplicarla-y-algunos-ejemplos) qué significa, para qué sirve, cómo aplicarla y algunos ejemplos
 
 
 #### Autora
