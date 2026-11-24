@@ -8,11 +8,11 @@ Esta propuesta no sustituye la documentación oficial, no nos hacemos responsabl
 
 - [Claude Code](https://claude.com/product/claude-code) 
 
-## Fuentes
+## Fuentes consultadas
 
-- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
-- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
-- [Guía Insignia Mensajeros de la Paz](https://drive.scouts.org.mx/s/4fYRL8ke4cPNbmY?dir=/&editing=false&openfile=true)
+- [Guía Insignia Mensajeros de la Paz — WOSM](https://www.scout.org/youth)
+- [scout.org/messengers-of-peace](https://www.scout.org/messengers-of-peace)
+- [Proyectos y actividades educativas para jóvenes de 15 a 21 años](https://www.scribd.com/doc/2366505/Proyectos-y-actividades-educativas-para-jovenes-de-15-a-21-anos)
 
 ## Diagrama Mensajeros de la Paz
 
@@ -112,14 +112,11 @@ flowchart TD
 
 ---
 
-## Fuentes
+## Fuentes consultadas
 
-- [Guía Nacional para la Obtención de la Insignia Mensajeros de la Paz — ASMAC](https://drive.scouts.org.mx/s/4fYRL8ke4cPNbmY)
-- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
-- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
-- [sdgs.scout.org/youth](https://sdgs.scout.org/youth)
+- [Guía Insignia Mensajeros de la Paz — WOSM](https://www.scout.org/youth)
 - [scout.org/messengers-of-peace](https://www.scout.org/messengers-of-peace)
-- [Proyectos y actividades educativas para jovenes de 15 a 21 años](https://www.scribd.com/doc/2366505/Proyectos-y-actividades-educativas-para-jovenes-de-15-a-21-anos)
+- [Proyectos y actividades educativas para jóvenes de 15 a 21 años](https://www.scribd.com/doc/2366505/Proyectos-y-actividades-educativas-para-jovenes-de-15-a-21-anos)
 
 ### Plantilla interactiva
 

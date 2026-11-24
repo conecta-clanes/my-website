@@ -288,6 +288,14 @@ flowchart TD
 
 ---
 
+## Fuentes consultadas
+
+- SfH1: Safe from Harm Essential Learnings — WOSM e-learning course
+- SfH2: Safe from Harm Course for WOSM Volunteers and Staff — WOSM e-learning course
+- Manual de Cargos, Perfiles y Funciones por Competencias — ASMAC
+
+---
+
 ## Tecnologías usadas
 
 - [Claude Code](https://claude.com/product/claude-code)

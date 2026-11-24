@@ -6,6 +6,14 @@ Esta propuesta no sustituye la documentación oficial, no nos hacemos responsabl
 
 Ésta es un propuesta sobre de como manejar algún conflicto, problema o inquitud de un Rover
 
+## Fuentes consultadas
+
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+- Reglamento Scout ASMAC 2023
+
+---
+
 ## Tecnologías usadas
 
 - [Claude Code](https://claude.com/product/claude-code) 

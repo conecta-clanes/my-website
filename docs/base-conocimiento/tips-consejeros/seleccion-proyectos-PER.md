@@ -4,6 +4,14 @@
 
 Esta propuesta no sustituye la documentación oficial, no nos hacemos responsables del mal uso.
 
+## Fuentes consultadas
+
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+- [Política Nacional del Programa de Jóvenes 2025 — ASMAC](https://scouts.org.mx)
+
+---
+
 ## Tecnologías usadas
 
 - [Claude Code](https://claude.com/product/claude-code) 

@@ -6,6 +6,13 @@
 
 A lo largo del Programa de Jóvenes, el protagonismo se transfiere progresivamente del adulto al joven. En la **Manada** el adulto lidera y el niño sigue; en el **Clan** el Rover decide y actúa, y el adulto solo orienta.
 
+## Fuentes consultadas
+
+- [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
+- [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+
+---
+
 ## Tecnologías usadas
 
 - [Claude Code](https://claude.com/product/claude-code) 

@@ -12,10 +12,11 @@ Ya que la documentación oficial no lo precisa, se recomienda agregar un apartad
 
 - [Claude Code](https://claude.com/product/claude-code) 
 
-## Fuentes
+## Fuentes consultadas
 
 - [Las Rutas del Rover — ASMAC 2024](https://drive.scouts.org.mx/s/qnisYDHz4TNbDpi?dir=/&editing=false&openfile=true)
 - [Guía de Scouter de Clan de Rovers — ASMAC 2024](https://drive.scouts.org.mx/s/nPfaxYwRB4Ryiyw?dir=/&editing=false&openfile=true)
+- Contribuciones: Liliana Vucetich, Monserrat Reyes
 
 ## Sugerencias
 
